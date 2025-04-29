@@ -1,3 +1,4 @@
+table_name,column_index,label
 WHO_001.csv,0,ID
 WHO_001.csv,1,Pathogen
 WHO_001.csv,2,ID
@@ -97,8 +98,6 @@ WHO_001.csv,95,__none__
 WHO_001.csv,96,__none__
 WHO_001.csv,97,__none__
 WHO_001.csv,98,__none__
-
-
 WHO_002.csv,0,ID
 WHO_002.csv,1,ID
 WHO_002.csv,2,ID
@@ -189,7 +188,6 @@ WHO_002.csv,86,__none__
 WHO_002.csv,87,__none__
 WHO_002.csv,88,__none__
 WHO_002.csv,89,__none__
-
 WHO_003.csv,0,ID
 WHO_003.csv,1,__none__
 WHO_003.csv,2,__none__
@@ -230,8 +228,6 @@ WHO_003.csv,36,Vaccination_date
 WHO_003.csv,37,Vaccination
 WHO_003.csv,38,Pathogen
 WHO_003.csv,39,__none__
-
-
 WHO_004.csv,0,Location_information
 WHO_004.csv,1,__none__
 WHO_004.csv,2,__none__
@@ -252,7 +248,6 @@ WHO_004.csv,16,Genomics_Metadata
 WHO_004.csv,17,__none__
 WHO_004.csv,18,__none__
 WHO_004.csv,19,__none__
-
 WHO_005.csv,0,ID
 WHO_005.csv,1,Date_report
 WHO_005.csv,2,Location_information
@@ -281,5 +276,3 @@ WHO_005.csv,24,Hospitalised
 WHO_005.csv,25,Date_hospitalisation
 WHO_005.csv,26,Outcome
 WHO_005.csv,27,Case_status
-
-
