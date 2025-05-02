@@ -4,6 +4,8 @@ import shutil
 import numpy as np
 import pandas as pd
 
+import pyarrow as pa
+import pyarrow.parquet as pq
 
 class DataProcessingSherlock:
 
@@ -53,6 +55,31 @@ class DataProcessingSherlock:
             data.loc[mask, col] = np.nan
 
         return data
+
+    def write_list_parquet(self, combined_data, data_path):
+        def flatten(v):
+            # only join if v is a list/tuple; otherwise assume it’s already the right string
+            if isinstance(v, (list, tuple)):
+                return ",".join(str(x) for x in v)
+            else:
+                return str(v)
+
+        value_strs = combined_data['values'].apply(flatten).tolist()
+        index_list = combined_data['index'].astype('int64').tolist()
+
+        values_array = pa.array(value_strs, type=pa.string())
+        index_array  = pa.array(index_list, type=pa.int64())
+
+        schema = pa.schema([
+            ('values', pa.string()),
+            ('index',  pa.int64())
+        ])
+
+        table = pa.Table.from_arrays(
+            [values_array, index_array],
+            schema=schema
+        )
+        pq.write_table(table, data_path)
 
     def flatten_and_save(self, df, labels, output_folder, table_name, lang_md_path):
 
@@ -121,8 +148,9 @@ class DataProcessingSherlock:
         combined_lang = pd.concat([existing_lang,  new_lang_df],  ignore_index=True)
 
         # Saves everything as .parquet file
-        combined_data.to_parquet(data_path,   engine='fastparquet')
-        combined_labels.to_parquet(labels_path,engine='fastparquet')
-        combined_lang.to_parquet(lang_path,   engine='fastparquet')
+        #combined_data.to_parquet(data_path,   engine='pyarrow', index=False)
+        self.write_list_parquet(combined_data, data_path)
+        combined_labels.to_parquet(labels_path,engine='pyarrow')
+        combined_lang.to_parquet(lang_path,   engine='pyarrow')
 
         return data_path, labels_path, lang_path
