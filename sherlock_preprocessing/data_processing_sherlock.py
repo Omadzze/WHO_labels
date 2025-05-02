@@ -5,27 +5,6 @@ import numpy as np
 import pandas as pd
 
 
-def path_cretion(output_folder):
-
-    """
-    Creates path, manages the folder
-
-    :param output_folder: Where path will be saved
-    :return:
-    """
-
-    if os.path.exists(output_folder):
-        shutil.rmtree(output_folder)
-
-    os.makedirs(output_folder, exist_ok=True)
-
-    data_path   = os.path.join(output_folder, "data.parquet")
-    labels_path = os.path.join(output_folder, "labels.parquet")
-    lang_path   = os.path.join(output_folder, "language_md.parquet")
-
-    return data_path, labels_path, lang_path
-
-
 class DataProcessingSherlock:
 
     def __init__(self):
@@ -90,7 +69,11 @@ class DataProcessingSherlock:
         :return:
         """
 
-        data_path, labels_path, lang_path = path_cretion(output_folder)
+        os.makedirs(output_folder, exist_ok=True)
+
+        data_path   = os.path.join(output_folder, "data.parquet")
+        labels_path = os.path.join(output_folder, "labels.parquet")
+        lang_path   = os.path.join(output_folder, "language_md.parquet")
 
         # Load language
         lang_meta = pd.read_csv(lang_md_path)
