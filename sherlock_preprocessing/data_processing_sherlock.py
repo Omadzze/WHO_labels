@@ -64,21 +64,26 @@ class DataProcessingSherlock:
             else:
                 return str(v)
 
+        # 1) flatten your 'values' column
         value_strs = combined_data['values'].apply(flatten).tolist()
-        index_list = combined_data['index'].astype('int64').tolist()
-
         values_array = pa.array(value_strs, type=pa.string())
-        index_array  = pa.array(index_list, type=pa.int64())
 
+        # 2) grab the DataFrame’s index and cast to int64
+        #    (if your index isn’t integer, cast to string instead)
+        idx = combined_data.index
+        if pd.api.types.is_integer_dtype(idx):
+            index_array = pa.array(idx.astype('int64').tolist(), type=pa.int64())
+        else:
+            index_array = pa.array(idx.astype('str').tolist(), type=pa.string())
+
+        # 3) declare a schema *with* __index_level_0__ first
         schema = pa.schema([
-            ('values', pa.string()),
-            ('index',  pa.int64())
+            ('__index_level_0__', index_array.type),
+            ('values',           pa.string())
         ])
 
-        table = pa.Table.from_arrays(
-            [values_array, index_array],
-            schema=schema
-        )
+        # 4) build & write the table
+        table = pa.Table.from_arrays([index_array, values_array], schema=schema)
         pq.write_table(table, data_path)
 
     def flatten_and_save(self, df, labels, output_folder, table_name, lang_md_path):
@@ -114,28 +119,28 @@ class DataProcessingSherlock:
             existing_data     = pd.read_parquet(data_path,   engine='fastparquet')
             existing_labels   = pd.read_parquet(labels_path, engine='fastparquet')
             existing_lang     = pd.read_parquet(lang_path,   engine='fastparquet')
-            next_idx = int(existing_data['index'].max()) + 1
+            #next_idx = int(existing_data['index'].max()) + 1
         else:
             # Creates new parquet file
-            existing_data     = pd.DataFrame(columns=['values','index'])
-            existing_labels   = pd.DataFrame(columns=['index','type'])
-            existing_lang     = pd.DataFrame(columns=['index','language'])
-            next_idx = 1
+            existing_data     = pd.DataFrame(columns=['values'])
+            existing_labels   = pd.DataFrame(columns=['type'])
+            existing_lang     = pd.DataFrame(columns=['language'])
+            #next_idx = 1
 
         # Build new rows
         value_rows = []
         label_rows = []
         lang_rows  = []
-        idx = next_idx
+        #idx = next_idx
         for col_name, lbl in zip(df.columns, labels):
             # appends only unqiue elements, drop nons and makes flatten list
             uniq = df[col_name].dropna().unique().tolist()
             if not uniq:
                 continue
-            value_rows.append({'values': uniq, 'index': idx})
-            label_rows.append({'index': idx, 'type': lbl})
-            lang_rows.append ({'index': idx, 'language': language})
-            idx += 1
+            value_rows.append({'values': uniq,})
+            label_rows.append({'type': lbl})
+            lang_rows.append ({'language': language})
+            #idx += 1
 
         # Creates temprorary dataframe
         new_data_df = pd.DataFrame(value_rows)
@@ -150,7 +155,7 @@ class DataProcessingSherlock:
         # Saves everything as .parquet file
         #combined_data.to_parquet(data_path,   engine='pyarrow', index=False)
         self.write_list_parquet(combined_data, data_path)
-        combined_labels.to_parquet(labels_path,engine='pyarrow')
-        combined_lang.to_parquet(lang_path,   engine='pyarrow')
+        combined_labels.to_parquet(labels_path,engine='pyarrow', index=True)
+        combined_lang.to_parquet(lang_path,   engine='pyarrow', index=True)
 
         return data_path, labels_path, lang_path
