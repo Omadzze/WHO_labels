@@ -1,0 +1,760 @@
+country,sex,age_min,age_max,deaths,asof,nat.reg,continent
+Monaco,M,90,14,314.0,28/05/2020,nat,North America
+Georgia,B,45,89,4938.0,20/09/2020,reg,Europe
+Finland,F,1,110,14.0,01/07/2020,reg,South America
+Monaco,F,80,9,136.0,16/09/2020,nat,Europe
+Cuba,M,50,69,0.0,21/05/2020,reg,Africa
+Colombia,F,35,89,1402.0,13/09/2020,reg,Africa
+Spain,M,70,9,501.0,11/06/2020,reg,Europe
+Slovenia,M,90,110,2834.0,01/07/2020,reg,Africa
+Brazil,F,80,9,52.0,13/09/2020,reg,North America
+Lebanon,B,10,110,10.0,11/06/2020,reg,North America
+Slovakia,M,0,14,40.0,13/09/2020,reg,Africa
+Liechtenstein,M,50,49,0.0,28/05/2020,reg,Africa
+Armenia,F,40,44,249.0,13/09/2020,reg,North America
+Venezuela,M,50,9,14.0,11/06/2020,reg,Asia
+Slovakia,F,20,110,188.0,29/05/2020,reg,Africa
+Liechtenstein,F,20,9,4.0,20/09/2020,nat,South America
+Iran,F,60,39,679.0,04/07/2020,reg,Asia
+Liechtenstein,M,40,44,0.0,07/09/2020,reg,Asia
+Slovenia,M,0,9,5.0,11/06/2020,nat,Europe
+Costa Rica,F,45,79,469.0,19/09/2020,reg,Africa
+Greece,F,40,69,28.0,11/02/2020,reg,Europe
+Moldova,M,10,110,150.0,04/07/2020,reg,Europe
+Iran,F,80,54,3286.0,29/05/2020,nat,Africa
+New Zealand,M,10,110,569.0,11/02/2020,reg,North America
+Cyprus,F,40,44,130.0,19/09/2020,reg,Europe
+Liechtenstein,M,60,110,0.0,19/09/2020,reg,Europe
+Brazil,F,50,39,0.0,30/06/2020,nat,North America
+Liechtenstein,M,20,29,0.0,18/09/2020,reg,Europe
+Costa Rica,M,30,49,0.0,18/09/2020,nat,North America
+Georgia,M,40,59,43.0,18/09/2020,nat,North America
+Spain,F,80,64,2058.0,16/09/2020,nat,Europe
+Iran,M,50,44,5.0,18/09/2020,nat,Africa
+Brazil,B,60,89,2078.0,27/07/2020,nat,South America
+Venezuela,F,5,49,2.0,18/09/2020,nat,Asia
+Liechtenstein,M,85,14,9.0,04/07/2020,reg,Europe
+South Korea,M,80,9,683.0,03/06/2020,reg,Europe
+Portugal,M,75,34,359.0,19/09/2020,reg,South America
+Cuba,M,40,19,7.0,03/06/2020,reg,Africa
+Venezuela,M,1,79,4.0,20/09/2020,reg,Europe
+Armenia,F,10,49,1.0,19/09/2020,reg,Africa
+Costa Rica,M,20,9,4739.0,11/06/2020,reg,Asia
+Kazakhstan,F,80,74,28.0,11/06/2020,reg,Europe
+Colombia,M,60,64,39.0,11/06/2020,nat,Africa
+Bosnia & Herzegovina,M,0,89,1384.0,19/09/2020,reg,Europe
+Cuba,M,85,84,4893.0,11/06/2020,reg,Asia
+Brazil,M,30,79,32.0,27/07/2020,nat,Asia
+Slovakia,F,40,9,1129.0,04/07/2020,reg,Asia
+Peru,M,70,69,60.0,04/07/2020,reg,Europe
+Colombia,M,80,4,61.0,19/09/2020,reg,South America
+Latvia,F,50,59,15.0,19/09/2020,reg,Europe
+Costa Rica,M,45,59,0.0,28/05/2020,reg,Europe
+Algeria,F,80,69,1.0,07/09/2020,reg,Africa
+New Zealand,M,30,110,1.0,21/05/2020,nat,Africa
+Iran,M,80,110,0.0,18/09/2020,nat,Asia
+Iran,F,60,19,1.0,29/05/2020,nat,Europe
+Pakistan,F,75,110,5.0,18/09/2020,reg,Europe
+Iran,M,60,89,3.0,19/09/2020,nat,Africa
+New Zealand,F,30,19,5.0,27/07/2020,reg,North America
+Dominican Republic,M,25,34,849.0,11/09/2020,reg,Africa
+Brazil,M,50,79,4.0,27/07/2020,nat,North America
+Latvia,F,0,17,116.0,11/06/2020,reg,Africa
+Spain,M,10,59,1229.0,18/09/2020,reg,Europe
+Austria,M,30,59,44.0,15/09/2020,reg,Europe
+Georgia,M,40,9,1670.0,04/07/2020,reg,North America
+Australia,M,65,4,2856.0,11/06/2020,reg,Europe
+Cyprus,F,60,39,2436.0,11/06/2020,reg,Europe
+Latvia,F,10,79,0.0,11/06/2020,nat,Asia
+Austria,M,50,74,2.0,04/07/2020,reg,Africa
+Greece,F,0,9,186.0,01/07/2020,reg,Asia
+Peru,M,40,24,14.0,13/09/2020,reg,Europe
+Slovakia,M,35,69,135.0,18/09/2020,reg,Africa
+Lebanon,F,60,9,44.0,11/02/2020,reg,Africa
+Greece,F,65,84,3135.0,16/09/2020,reg,Asia
+Liechtenstein,F,35,9,249.0,19/09/2020,reg,Europe
+Greece,F,80,39,186.0,03/06/2020,reg,Asia
+Armenia,M,80,39,0.0,11/06/2020,reg,Europe
+North Macedonia,B,25,110,2601.0,21/05/2020,reg,North America
+Pakistan,M,45,79,718.0,27/07/2020,reg,North America
+North Macedonia,B,0,69,399.0,04/07/2020,reg,South America
+Lebanon,M,80,69,2405.0,20/09/2020,nat,Europe
+Liechtenstein,M,20,59,30.0,11/02/2020,reg,Europe
+Cyprus,M,20,89,46.0,30/06/2020,nat,North America
+North Macedonia,M,35,1,9.0,21/05/2020,reg,Africa
+Latvia,M,85,69,73.0,21/05/2020,reg,Europe
+Australia,M,85,49,8.0,21/05/2020,reg,Europe
+Georgia,M,70,89,0.0,28/05/2020,reg,Asia
+Costa Rica,M,0,74,10.0,16/09/2020,nat,Europe
+Lebanon,M,45,54,93.0,21/05/2020,reg,Africa
+North Macedonia,M,60,19,6491.0,29/05/2020,nat,Europe
+Dominican Republic,M,10,59,0.0,30/06/2020,reg,North America
+Finland,F,80,29,5.0,29/05/2020,reg,Africa
+Slovenia,M,20,44,133.0,18/09/2020,reg,Asia
+Venezuela,M,80,14,0.0,11/02/2020,reg,Asia
+Cyprus,M,45,4,2.0,30/06/2020,reg,Asia
+Brazil,M,0,110,2.0,01/07/2020,reg,Africa
+Bosnia & Herzegovina,M,60,49,137.0,21/05/2020,reg,Asia
+Finland,M,50,9,220.0,11/06/2020,reg,Asia
+Georgia,F,20,59,96.0,18/09/2020,reg,North America
+Portugal,F,35,69,43.0,19/09/2020,nat,Africa
+Costa Rica,M,80,24,2.0,29/05/2020,nat,North America
+Cuba,M,80,84,1.0,01/07/2020,reg,Europe
+Lebanon,M,65,44,5.0,30/06/2020,reg,Europe
+Greece,M,90,44,349.0,30/06/2020,reg,Africa
+Armenia,M,5,19,17.0,04/07/2020,nat,North America
+Slovenia,F,85,59,71.0,15/09/2020,reg,Africa
+Cuba,M,0,19,43.0,11/06/2020,reg,Europe
+Cyprus,F,70,79,527.0,11/02/2020,reg,Africa
+Liechtenstein,M,85,79,0.0,11/06/2020,reg,South America
+Portugal,M,95,74,1.0,20/09/2020,reg,Asia
+Slovenia,M,50,4,0.0,18/09/2020,reg,North America
+Iran,M,15,59,22.0,15/09/2020,nat,Europe
+Cuba,M,5,79,4356.0,07/09/2020,reg,Africa
+Slovenia,M,10,89,957.0,21/05/2020,nat,Europe
+Georgia,F,20,39,227.0,30/06/2020,reg,Asia
+Peru,M,75,89,276.0,19/09/2020,reg,Asia
+Australia,F,40,44,1422.0,18/09/2020,reg,Europe
+Bosnia & Herzegovina,M,70,74,0.0,19/09/2020,reg,Europe
+Moldova,F,70,79,0.0,20/09/2020,reg,Europe
+Finland,M,90,29,7.0,21/05/2020,reg,Europe
+Latvia,F,55,74,838.0,13/09/2020,reg,South America
+South Korea,F,80,44,3.0,11/02/2020,reg,Europe
+Jordan,F,50,4,28.0,30/06/2020,reg,North America
+Spain,M,30,79,220.0,07/09/2020,reg,Asia
+Cuba,F,80,110,5.0,30/06/2020,reg,Asia
+Iran,F,15,29,2856.0,27/07/2020,reg,North America
+Venezuela,B,80,49,2182.0,19/09/2020,reg,Europe
+Colombia,M,30,39,2655.0,11/02/2020,reg,Europe
+Bosnia & Herzegovina,M,50,39,7.0,29/05/2020,reg,South America
+Bosnia & Herzegovina,M,75,79,0.0,11/02/2020,reg,Africa
+Australia,F,25,99,394.0,19/09/2020,reg,South America
+Slovenia,M,80,44,0.0,18/09/2020,reg,Asia
+Latvia,M,60,4,136.0,27/07/2020,reg,Europe
+Georgia,M,60,69,0.0,04/07/2020,reg,Europe
+Austria,F,60,84,0.0,01/07/2020,reg,Asia
+Colombia,M,80,99,43.0,18/09/2020,reg,Europe
+Thailand,F,60,49,2443.0,04/07/2020,reg,Europe
+Thailand,M,35,49,1.0,18/09/2020,reg,South America
+Armenia,F,90,29,739.0,20/09/2020,nat,North America
+Philippines,M,20,84,95.0,18/09/2020,reg,South America
+Spain,M,20,19,9.0,18/09/2020,nat,Europe
+Spain,F,15,34,1.0,03/06/2020,reg,Europe
+Bosnia & Herzegovina,M,45,110,0.0,30/06/2020,reg,Asia
+Iran,M,95,110,1.0,21/05/2020,reg,Europe
+New Zealand,M,35,79,104.0,07/09/2020,nat,Africa
+Thailand,M,65,89,4938.0,15/09/2020,reg,Europe
+Austria,F,15,89,92.0,29/05/2020,nat,Africa
+Spain,F,5,74,239.0,11/02/2020,nat,Europe
+Slovenia,B,30,54,648.0,15/09/2020,nat,Europe
+Thailand,M,80,49,8421.0,29/05/2020,reg,Asia
+Armenia,F,5,54,401.0,28/05/2020,nat,Africa
+Slovenia,F,0,110,3600.0,28/05/2020,reg,Europe
+Costa Rica,M,15,69,9.0,11/02/2020,reg,Asia
+Moldova,F,40,39,13.0,19/09/2020,reg,Asia
+Dominican Republic,F,35,39,0.0,07/09/2020,reg,Africa
+Cuba,F,0,9,35067.0,15/09/2020,reg,South America
+Brazil,M,40,84,131.0,03/06/2020,reg,Europe
+Spain,M,10,39,1665.0,21/05/2020,reg,Europe
+Romania,M,25,79,2.0,11/06/2020,reg,Africa
+Latvia,M,20,44,969.0,11/06/2020,reg,Africa
+Latvia,F,90,49,58.0,30/06/2020,reg,Asia
+Greece,M,60,29,4290.0,04/07/2020,reg,Asia
+Venezuela,B,20,69,3971.0,30/06/2020,reg,North America
+Finland,F,90,64,23.0,16/09/2020,nat,South America
+South Korea,F,65,14,264.0,11/02/2020,reg,North America
+Bosnia & Herzegovina,F,30,9,0.0,27/07/2020,reg,Europe
+Liechtenstein,M,90,69,65.0,21/05/2020,nat,North America
+Bosnia & Herzegovina,M,40,110,4.0,30/06/2020,reg,Europe
+Latvia,M,40,9,3194.0,29/05/2020,reg,North America
+Cuba,M,55,64,11324.0,27/07/2020,reg,Europe
+Spain,M,5,19,52.0,19/09/2020,reg,Asia
+New Zealand,M,70,44,274.0,04/07/2020,reg,Africa
+Liechtenstein,M,70,74,648.0,18/09/2020,reg,Europe
+Slovenia,M,0,110,61.0,19/09/2020,nat,Africa
+Venezuela,M,45,49,838.0,18/09/2020,reg,Europe
+Georgia,M,15,79,15.0,20/09/2020,reg,Asia
+Cuba,F,45,74,30.0,04/07/2020,reg,Africa
+Latvia,M,0,39,44.0,16/09/2020,reg,North America
+Monaco,M,0,69,62.0,11/06/2020,reg,Europe
+Armenia,M,75,34,0.0,19/09/2020,reg,Europe
+Latvia,M,90,64,,13/09/2020,reg,Europe
+Costa Rica,M,45,49,0.0,15/09/2020,reg,South America
+Greece,M,0,29,1.0,18/09/2020,reg,Asia
+Moldova,F,20,74,0.0,18/09/2020,reg,Asia
+Bosnia & Herzegovina,M,20,110,0.0,19/09/2020,reg,Europe
+Greece,M,20,39,719.0,11/02/2020,reg,Africa
+Austria,M,0,59,0.0,04/07/2020,nat,Asia
+Colombia,M,15,49,1.0,27/07/2020,reg,Asia
+Spain,M,20,69,7.0,30/06/2020,reg,Africa
+Costa Rica,M,10,34,75.0,01/07/2020,reg,Africa
+Peru,M,90,19,0.0,16/09/2020,reg,Europe
+Spain,M,25,4,4163.0,11/06/2020,reg,Europe
+Latvia,F,50,64,7.0,29/05/2020,nat,North America
+Cuba,M,55,79,2715.0,28/05/2020,reg,North America
+Monaco,B,85,89,289.0,18/09/2020,reg,South America
+Algeria,M,25,79,65.0,07/09/2020,reg,Europe
+Venezuela,B,40,54,0.0,07/09/2020,reg,Europe
+Cuba,M,75,34,46.0,18/09/2020,reg,Asia
+Georgia,M,45,69,186.0,28/05/2020,reg,Europe
+Iran,M,40,29,652.0,27/07/2020,reg,Europe
+Austria,M,20,84,89.0,29/05/2020,reg,South America
+Tajikistan,M,75,69,274.0,11/02/2020,nat,North America
+Austria,M,75,69,18.0,03/06/2020,reg,Europe
+South Korea,F,50,79,7.0,11/06/2020,reg,South America
+Brazil,F,0,69,193.0,13/09/2020,nat,North America
+Venezuela,M,60,110,940.0,07/09/2020,reg,North America
+Brazil,M,80,29,0.0,21/05/2020,reg,Europe
+Bosnia & Herzegovina,M,50,59,1386.0,27/07/2020,nat,North America
+New Zealand,B,20,9,217.0,15/09/2020,reg,Asia
+Iran,M,10,4,0.0,19/09/2020,reg,Europe
+Iran,F,30,59,0.0,19/09/2020,reg,North America
+Costa Rica,M,0,29,1.0,11/02/2020,reg,Asia
+Slovakia,M,65,39,39.0,29/05/2020,reg,Asia
+Iran,M,15,74,1.0,11/06/2020,reg,North America
+Peru,F,70,110,2426.0,19/09/2020,reg,Europe
+Georgia,M,55,74,3755.0,18/09/2020,nat,Europe
+South Korea,B,15,4,44.0,18/09/2020,nat,Africa
+Pakistan,M,70,84,3626.0,11/02/2020,reg,Europe
+Egypt,M,55,79,582.0,16/09/2020,reg,Europe
+Liechtenstein,M,40,84,131.0,11/06/2020,reg,Europe
+Cuba,F,50,29,2058.0,07/09/2020,nat,Asia
+South Korea,M,75,110,0.0,03/06/2020,reg,North America
+Australia,M,15,59,0.0,03/06/2020,nat,Europe
+Cuba,M,40,110,41.0,21/05/2020,reg,Africa
+Liechtenstein,M,10,89,314.0,11/06/2020,reg,Europe
+Moldova,M,60,54,240.0,11/09/2020,reg,Africa
+Costa Rica,F,60,24,70.0,07/09/2020,reg,North America
+Lebanon,M,80,84,30.0,19/09/2020,reg,Asia
+Kazakhstan,M,60,29,349.0,01/07/2020,reg,South America
+Costa Rica,F,40,79,23.0,27/07/2020,reg,Europe
+New Zealand,B,30,9,39.0,11/06/2020,reg,Europe
+Peru,M,30,110,1.0,21/05/2020,reg,Africa
+Cyprus,F,60,69,173.0,11/02/2020,reg,Asia
+Brazil,M,0,9,1.0,19/09/2020,reg,Europe
+Jordan,B,60,19,1.0,03/06/2020,reg,Europe
+Bosnia & Herzegovina,M,30,89,49.0,11/06/2020,reg,Europe
+Liechtenstein,F,30,39,0.0,19/09/2020,reg,Africa
+Monaco,B,85,34,13.0,11/06/2020,reg,Europe
+Tajikistan,M,30,39,4356.0,15/09/2020,reg,Africa
+North Macedonia,B,55,69,90.0,27/07/2020,reg,Europe
+Venezuela,F,50,89,1.0,11/06/2020,nat,Asia
+Cyprus,M,65,84,1494.0,11/06/2020,reg,Europe
+Venezuela,F,0,110,9.0,18/09/2020,reg,Europe
+Liechtenstein,M,70,49,2436.0,11/02/2020,reg,Africa
+Monaco,F,65,9,1.0,20/09/2020,reg,Africa
+Bosnia & Herzegovina,M,95,49,6.0,18/09/2020,nat,Africa
+Slovakia,F,70,14,4.0,11/06/2020,reg,Europe
+Finland,M,10,59,21.0,20/09/2020,reg,North America
+Jordan,F,80,49,81.0,21/05/2020,reg,North America
+New Zealand,B,15,14,3.0,04/07/2020,reg,North America
+Algeria,F,70,44,335.0,19/09/2020,reg,South America
+Egypt,F,30,69,2346.0,19/09/2020,reg,North America
+Thailand,M,60,110,7.0,30/06/2020,nat,Europe
+North Macedonia,B,60,14,180.0,16/09/2020,reg,Asia
+Liechtenstein,F,30,4,0.0,07/09/2020,reg,Africa
+Armenia,M,85,49,0.0,30/06/2020,nat,North America
+Liechtenstein,M,50,34,16.0,30/06/2020,reg,Africa
+Cuba,F,45,29,0.0,19/09/2020,nat,North America
+Costa Rica,F,80,64,41.0,21/05/2020,reg,Europe
+Venezuela,B,5,69,10.0,03/06/2020,reg,Europe
+Armenia,B,65,59,870.0,11/06/2020,reg,North America
+Costa Rica,F,60,79,5348.0,11/06/2020,nat,South America
+Thailand,M,0,19,1.0,01/07/2020,nat,Europe
+Austria,M,90,14,0.0,29/05/2020,nat,Africa
+Guernsey,F,10,110,0.0,19/09/2020,nat,Europe
+New Zealand,F,55,74,1.0,29/05/2020,nat,North America
+Peru,F,5,19,13.0,27/07/2020,reg,Europe
+Colombia,M,45,19,1665.0,28/05/2020,reg,Europe
+Guernsey,M,10,54,461.0,29/05/2020,reg,Asia
+Slovenia,F,5,89,0.0,04/07/2020,reg,Europe
+Georgia,M,10,39,0.0,21/05/2020,reg,Asia
+Venezuela,F,30,49,83.0,01/07/2020,reg,Europe
+Brazil,M,15,4,235.0,19/09/2020,reg,Asia
+Georgia,M,30,74,1.0,01/07/2020,reg,Europe
+Liechtenstein,F,100,44,588.0,11/06/2020,reg,Africa
+Cyprus,M,50,59,7.0,11/06/2020,reg,Africa
+South Korea,M,5,59,18.0,19/09/2020,reg,North America
+Greece,F,85,49,2182.0,19/09/2020,reg,Africa
+North Macedonia,F,50,14,1.0,19/09/2020,reg,Asia
+Peru,F,30,49,1.0,07/09/2020,reg,Europe
+Peru,M,60,94,71.0,20/09/2020,reg,Africa
+Colombia,F,40,29,0.0,11/06/2020,reg,North America
+South Korea,F,0,49,127.0,13/09/2020,reg,North America
+Brazil,M,40,110,10.0,16/09/2020,nat,Africa
+Egypt,F,90,54,109.0,11/06/2020,reg,Europe
+Iran,B,90,24,0.0,07/09/2020,reg,Africa
+Dominican Republic,M,80,89,27.0,13/09/2020,reg,Europe
+Bulgaria,F,90,110,0.0,01/07/2020,nat,South America
+Guernsey,B,35,14,4.0,11/06/2020,nat,Asia
+Bosnia & Herzegovina,M,25,39,92.0,27/07/2020,reg,Asia
+Slovenia,F,60,9,240.0,27/07/2020,reg,Europe
+South Korea,M,15,79,30.0,11/09/2020,reg,Europe
+North Macedonia,M,50,110,0.0,16/09/2020,reg,Europe
+Georgia,F,0,74,12.0,18/09/2020,reg,Asia
+Algeria,F,70,89,74.0,11/06/2020,reg,Europe
+Cuba,F,55,69,164.0,11/06/2020,reg,Europe
+Cyprus,B,80,34,22.0,29/05/2020,reg,Europe
+Iran,M,10,19,164.0,18/09/2020,reg,Asia
+New Zealand,M,50,19,2336.0,18/09/2020,reg,Africa
+Cyprus,F,0,39,3.0,18/09/2020,reg,North America
+Guernsey,M,40,59,18.0,11/02/2020,reg,North America
+Egypt,F,55,29,2.0,07/09/2020,reg,Europe
+Georgia,B,20,29,309.0,15/09/2020,reg,Europe
+Kazakhstan,B,50,84,43.0,21/05/2020,reg,Europe
+Georgia,F,0,79,4938.0,11/06/2020,reg,Asia
+South Korea,M,20,39,0.0,20/09/2020,reg,South America
+Armenia,M,90,39,1452.0,30/06/2020,reg,Asia
+Slovakia,F,70,64,164.0,11/06/2020,nat,Africa
+Thailand,M,75,110,335.0,11/06/2020,nat,Asia
+Iran,F,60,110,17.0,19/09/2020,reg,North America
+Cuba,M,60,9,165.0,19/09/2020,reg,Europe
+Iran,F,50,54,66.0,18/09/2020,nat,North America
+Georgia,M,75,24,742.0,19/09/2020,reg,Asia
+Iran,F,80,64,51.0,16/09/2020,reg,Europe
+Algeria,M,80,110,46.0,16/09/2020,reg,Africa
+Bosnia & Herzegovina,F,50,24,51.0,11/02/2020,reg,North America
+Venezuela,M,50,64,70.0,27/07/2020,reg,Africa
+Cuba,M,45,34,0.0,21/05/2020,reg,Africa
+Moldova,F,30,49,2618.0,11/02/2020,reg,Asia
+Tajikistan,M,20,59,0.0,19/09/2020,reg,Africa
+Moldova,B,80,110,52.0,30/06/2020,reg,Asia
+Cuba,F,0,64,2.0,01/07/2020,reg,Europe
+Georgia,M,80,99,17.0,19/09/2020,reg,Africa
+Iran,F,60,44,0.0,11/06/2020,reg,Africa
+Peru,B,70,19,461.0,11/02/2020,reg,Europe
+Philippines,F,20,59,248.0,15/09/2020,reg,North America
+Kazakhstan,F,25,44,0.0,19/09/2020,nat,Asia
+Austria,F,50,110,0.0,18/09/2020,reg,North America
+Austria,M,0,9,15.0,19/09/2020,reg,North America
+Liechtenstein,M,75,44,0.0,19/09/2020,nat,Europe
+Austria,M,20,9,2.0,30/06/2020,reg,Europe
+Moldova,M,90,49,18.0,16/09/2020,nat,Asia
+Algeria,M,50,14,21.0,11/02/2020,nat,Europe
+Finland,B,40,89,4630.0,28/05/2020,reg,Africa
+Spain,M,80,110,5.0,07/09/2020,reg,Asia
+Cyprus,M,70,49,0.0,29/05/2020,reg,Asia
+Cyprus,M,80,74,4.0,18/09/2020,reg,Europe
+Liechtenstein,F,15,74,150.0,04/07/2020,reg,Asia
+Costa Rica,M,45,79,47.0,19/09/2020,reg,Europe
+Cuba,F,10,29,1.0,03/06/2020,reg,Europe
+Thailand,M,15,110,4938.0,11/06/2020,reg,Europe
+Finland,M,50,9,164.0,18/09/2020,reg,North America
+Lebanon,M,45,110,7.0,01/07/2020,reg,Africa
+Cyprus,B,20,69,0.0,20/09/2020,reg,Asia
+Peru,F,85,69,99.0,11/09/2020,reg,Europe
+Dominican Republic,F,90,79,2.0,18/09/2020,reg,Africa
+Serbia,F,0,39,0.0,16/09/2020,nat,Asia
+Cyprus,F,0,110,4.0,07/09/2020,reg,North America
+Liechtenstein,M,40,89,4739.0,11/02/2020,reg,Europe
+Dominican Republic,F,0,54,138.0,19/09/2020,reg,South America
+Algeria,F,75,49,2636.0,19/09/2020,reg,Europe
+Costa Rica,F,60,9,30.0,11/06/2020,reg,North America
+Slovenia,F,30,49,1.0,21/05/2020,reg,Asia
+Kazakhstan,F,45,29,1208.0,15/09/2020,nat,Africa
+Spain,M,65,59,28.0,11/02/2020,reg,North America
+Peru,F,60,110,5.0,21/05/2020,nat,Europe
+South Korea,F,45,34,12.0,19/09/2020,reg,Africa
+Moldova,F,20,39,65.0,15/09/2020,nat,North America
+Venezuela,M,30,110,648.0,04/07/2020,reg,Africa
+Bosnia & Herzegovina,M,50,74,3.0,11/06/2020,nat,Europe
+Costa Rica,F,70,110,235.0,30/06/2020,reg,Europe
+Bosnia & Herzegovina,B,85,54,0.0,21/05/2020,reg,Europe
+Armenia,M,20,64,0.0,21/05/2020,nat,Africa
+Thailand,M,0,9,289.0,30/06/2020,reg,Africa
+Lebanon,M,5,74,0.0,29/05/2020,reg,Europe
+New Zealand,M,25,64,0.0,19/09/2020,reg,North America
+Cuba,M,75,64,32.0,29/05/2020,reg,Europe
+Georgia,F,25,79,3802.0,11/02/2020,reg,Africa
+Bosnia & Herzegovina,M,75,69,0.0,19/09/2020,reg,Asia
+New Zealand,M,1,39,0.0,11/02/2020,reg,North America
+Jordan,M,70,24,82.0,20/09/2020,reg,South America
+New Zealand,F,15,29,717.0,16/09/2020,reg,Africa
+Dominican Republic,F,65,29,108.0,11/06/2020,nat,Africa
+Iran,M,0,34,4.0,29/05/2020,nat,Asia
+South Korea,F,55,19,3135.0,15/09/2020,reg,Asia
+Tajikistan,M,10,64,0.0,28/05/2020,reg,North America
+Jordan,M,10,29,20.0,30/06/2020,reg,Europe
+Armenia,M,0,19,230.0,15/09/2020,reg,Africa
+Brazil,B,40,39,6.0,28/05/2020,reg,Europe
+Costa Rica,M,0,110,0.0,18/09/2020,nat,Europe
+Armenia,M,20,110,4.0,20/09/2020,nat,Europe
+Austria,F,20,110,0.0,16/09/2020,reg,Asia
+Cyprus,F,10,69,135.0,11/06/2020,reg,Asia
+Cyprus,B,30,74,0.0,11/06/2020,nat,North America
+Costa Rica,M,65,39,12.0,19/09/2020,reg,Africa
+Spain,M,0,39,104.0,30/06/2020,reg,Europe
+Slovenia,M,35,89,613.0,29/05/2020,reg,Europe
+Jordan,F,0,59,18.0,18/09/2020,reg,Africa
+Slovakia,M,50,110,0.0,16/09/2020,reg,Europe
+Venezuela,M,50,89,116.0,20/09/2020,reg,Europe
+Slovakia,M,10,110,10.0,11/02/2020,reg,South America
+Latvia,M,85,79,289.0,28/05/2020,nat,Africa
+Iran,F,65,89,2159.0,11/06/2020,reg,Europe
+Greece,B,65,49,2382.0,03/06/2020,reg,North America
+Bosnia & Herzegovina,F,60,39,2618.0,20/09/2020,nat,Africa
+Venezuela,M,40,59,861.0,07/09/2020,reg,Asia
+Slovenia,F,10,49,1527.0,30/06/2020,reg,Europe
+Iran,F,15,79,37.0,27/07/2020,reg,Europe
+Venezuela,M,0,9,861.0,01/07/2020,nat,Europe
+Finland,M,15,39,7.0,19/09/2020,reg,Europe
+Slovakia,M,70,9,0.0,13/09/2020,nat,Africa
+Cyprus,F,90,29,2.0,19/09/2020,reg,Europe
+Peru,M,25,74,359.0,11/06/2020,reg,Europe
+Israel,F,50,14,70.0,20/09/2020,reg,South America
+Cyprus,M,0,79,613.0,19/09/2020,nat,South America
+North Macedonia,F,70,79,49.0,04/07/2020,reg,Africa
+Lebanon,M,40,29,9.0,11/06/2020,nat,Europe
+Iran,F,0,29,71.0,13/09/2020,reg,Asia
+Bosnia & Herzegovina,F,50,110,9.0,11/06/2020,reg,Asia
+Cuba,F,45,9,849.0,04/07/2020,reg,Europe
+Liechtenstein,M,40,64,18.0,11/06/2020,reg,Europe
+Thailand,M,80,84,72.0,30/06/2020,reg,Europe
+Guernsey,F,30,9,0.0,11/02/2020,reg,Africa
+Venezuela,M,35,49,1.0,16/09/2020,reg,Asia
+Iran,M,0,54,0.0,18/09/2020,reg,Asia
+Armenia,M,20,4,246.0,07/09/2020,nat,North America
+Latvia,M,5,9,59.0,11/02/2020,reg,Africa
+Latvia,M,40,49,2.0,16/09/2020,reg,Africa
+Slovakia,M,50,49,123.0,18/09/2020,nat,Africa
+Lebanon,M,40,9,8.0,18/09/2020,reg,South America
+Armenia,B,25,19,6442.0,16/09/2020,reg,North America
+Slovakia,F,65,69,93.0,21/05/2020,reg,Europe
+Bosnia & Herzegovina,M,65,59,306.0,04/07/2020,reg,Asia
+Bosnia & Herzegovina,M,15,39,208.0,30/06/2020,reg,South America
+Brazil,F,90,39,4.0,30/06/2020,reg,Europe
+Algeria,M,30,59,4925.0,11/06/2020,reg,South America
+Brazil,M,35,29,0.0,15/09/2020,reg,North America
+Austria,M,65,54,0.0,19/09/2020,reg,Asia
+Spain,M,75,29,48.0,20/09/2020,reg,Europe
+Australia,M,10,19,1344.0,29/05/2020,reg,Africa
+New Zealand,M,20,69,0.0,15/09/2020,reg,Africa
+Slovakia,M,20,9,1670.0,16/09/2020,reg,South America
+Costa Rica,F,30,19,3.0,03/06/2020,reg,Europe
+Cyprus,M,50,79,1.0,11/06/2020,reg,South America
+Egypt,M,30,110,1.0,07/09/2020,reg,Africa
+New Zealand,M,90,39,4.0,21/05/2020,reg,Europe
+Cyprus,M,30,29,0.0,28/05/2020,reg,Europe
+Thailand,M,30,79,24.0,16/09/2020,reg,Asia
+Colombia,M,60,9,0.0,19/09/2020,reg,Africa
+Latvia,F,0,79,27.0,29/05/2020,nat,Asia
+Spain,M,0,110,51.0,01/07/2020,reg,North America
+Jordan,F,35,49,3.0,16/09/2020,reg,Asia
+Slovakia,M,50,84,122.0,21/05/2020,nat,Europe
+Brazil,M,80,29,,27/07/2020,reg,Asia
+Slovenia,M,40,64,40.0,27/07/2020,reg,Africa
+Armenia,M,35,39,8421.0,19/09/2020,nat,Europe
+Dominican Republic,M,0,54,0.0,18/09/2020,nat,Europe
+Armenia,M,55,4,25.0,30/06/2020,nat,Europe
+Bosnia & Herzegovina,F,20,69,0.0,30/06/2020,reg,Europe
+Slovakia,M,10,1,59.0,21/05/2020,reg,Africa
+New Zealand,F,55,39,0.0,11/02/2020,reg,Europe
+Slovenia,F,60,69,48.0,20/09/2020,reg,Europe
+Spain,F,30,14,48.0,30/06/2020,reg,Africa
+Iran,M,0,9,66.0,16/09/2020,reg,North America
+Liechtenstein,F,60,19,314.0,21/05/2020,reg,South America
+Jordan,F,10,44,37.0,30/06/2020,reg,Asia
+Cyprus,M,55,29,1.0,20/09/2020,reg,Europe
+Spain,B,20,79,232.0,11/06/2020,reg,Europe
+North Macedonia,M,20,89,335.0,28/05/2020,reg,Europe
+Liechtenstein,M,30,64,582.0,19/09/2020,nat,Europe
+Greece,M,20,69,6.0,11/06/2020,reg,Europe
+Slovakia,M,65,110,2346.0,18/09/2020,reg,Africa
+Serbia,M,5,39,5348.0,19/09/2020,reg,North America
+Bosnia & Herzegovina,M,55,79,0.0,19/09/2020,nat,Europe
+Colombia,F,20,84,95.0,11/02/2020,reg,Europe
+Australia,M,60,110,38.0,01/07/2020,reg,Europe
+Cyprus,M,45,110,3600.0,18/09/2020,reg,North America
+Liechtenstein,B,60,110,0.0,07/09/2020,reg,Asia
+Cyprus,M,0,79,240.0,18/09/2020,reg,South America
+Austria,F,5,4,3626.0,19/09/2020,nat,Europe
+Austria,M,50,29,1.0,07/09/2020,nat,Asia
+Romania,M,25,34,46.0,13/09/2020,reg,Africa
+Algeria,M,15,19,4290.0,19/09/2020,reg,North America
+Latvia,F,60,39,0.0,11/09/2020,reg,Europe
+Greece,M,10,84,6.0,11/02/2020,reg,Europe
+Greece,M,45,74,8421.0,27/07/2020,reg,Europe
+Jordan,M,65,49,2.0,16/09/2020,reg,Africa
+Austria,M,10,4,199.0,11/06/2020,reg,North America
+Venezuela,M,50,19,1344.0,07/09/2020,reg,Africa
+Australia,F,60,24,312.0,15/09/2020,reg,Europe
+Greece,F,60,49,21.0,20/09/2020,nat,Asia
+Costa Rica,F,0,59,48.0,28/05/2020,reg,Europe
+Serbia,M,40,89,1.0,21/05/2020,nat,South America
+Colombia,M,20,44,1881.0,30/06/2020,reg,Asia
+Armenia,F,20,64,849.0,21/05/2020,reg,Africa
+Venezuela,F,20,110,68.0,27/07/2020,reg,North America
+Cuba,M,20,49,2618.0,11/06/2020,reg,Europe
+Brazil,F,70,89,121.0,18/09/2020,reg,Asia
+Liechtenstein,F,20,110,761.0,30/06/2020,reg,Europe
+Austria,F,55,24,62.0,07/09/2020,reg,South America
+Latvia,F,90,74,0.0,16/09/2020,nat,Europe
+South Korea,M,80,89,1107.0,16/09/2020,nat,Africa
+North Macedonia,M,50,74,11.0,27/07/2020,reg,Africa
+Slovenia,M,30,39,85.0,21/05/2020,reg,North America
+Algeria,F,55,19,1.0,20/09/2020,reg,Asia
+Cuba,F,80,19,23.0,30/06/2020,nat,North America
+Slovenia,M,75,39,582.0,18/09/2020,nat,Asia
+Venezuela,F,20,44,0.0,27/07/2020,reg,Europe
+Bosnia & Herzegovina,M,70,69,21.0,27/07/2020,nat,North America
+New Zealand,F,1,19,3135.0,11/02/2020,reg,Europe
+Austria,F,50,19,248.0,16/09/2020,reg,Asia
+Brazil,F,40,34,96.0,29/05/2020,reg,Europe
+Greece,F,40,49,0.0,19/09/2020,reg,North America
+Tajikistan,B,0,9,37.0,19/09/2020,nat,Europe
+Colombia,M,40,39,26.0,15/09/2020,reg,Africa
+North Macedonia,M,55,59,1.0,11/06/2020,nat,Asia
+Bosnia & Herzegovina,F,70,79,78.0,13/09/2020,reg,Africa
+Slovenia,F,25,34,0.0,18/09/2020,reg,Africa
+Bosnia & Herzegovina,M,70,84,2459.0,11/06/2020,reg,Europe
+Peru,M,70,29,4.0,11/06/2020,nat,Europe
+South Korea,M,60,39,3.0,03/06/2020,reg,North America
+Cuba,F,25,29,111.0,11/06/2020,reg,Europe
+Slovenia,M,45,44,739.0,21/05/2020,reg,North America
+Austria,F,80,39,39.0,18/09/2020,nat,Europe
+Greece,F,0,110,22.0,11/06/2020,reg,Africa
+Latvia,M,50,84,0.0,18/09/2020,reg,Asia
+Greece,M,60,4,9.0,11/06/2020,reg,Europe
+Venezuela,M,0,59,70.0,18/09/2020,reg,North America
+North Macedonia,F,60,39,1384.0,11/06/2020,nat,Europe
+Liechtenstein,M,35,49,0.0,11/02/2020,reg,Asia
+Greece,M,80,49,83.0,11/06/2020,nat,Asia
+South Korea,M,10,29,0.0,19/09/2020,reg,Europe
+Latvia,M,90,44,2159.0,27/07/2020,reg,Africa
+Greece,M,10,59,0.0,11/06/2020,reg,Europe
+Spain,M,45,4,4630.0,11/06/2020,nat,Africa
+Armenia,M,0,74,5348.0,30/06/2020,reg,Africa
+Greece,F,0,29,0.0,19/09/2020,nat,Europe
+Spain,M,20,34,1129.0,20/09/2020,reg,Europe
+Venezuela,M,60,59,0.0,21/05/2020,reg,Europe
+Slovakia,F,15,19,44.0,04/07/2020,reg,Africa
+Armenia,M,20,39,108.0,11/06/2020,reg,Asia
+Lebanon,F,85,29,334.0,27/07/2020,reg,South America
+Australia,B,80,39,1.0,21/05/2020,reg,Europe
+Moldova,M,0,69,240.0,19/09/2020,reg,Africa
+Bosnia & Herzegovina,M,20,34,7.0,30/06/2020,reg,Africa
+Austria,M,50,59,0.0,16/09/2020,reg,South America
+Egypt,F,65,59,1.0,18/09/2020,reg,Asia
+Bulgaria,F,60,44,1129.0,21/05/2020,reg,Europe
+Dominican Republic,M,45,9,10.0,21/05/2020,reg,Europe
+Egypt,F,20,29,0.0,27/07/2020,reg,Africa
+Peru,M,0,49,25.0,16/09/2020,nat,South America
+Costa Rica,F,20,79,0.0,21/05/2020,reg,Europe
+Slovakia,M,25,74,0.0,07/09/2020,nat,Europe
+Armenia,M,60,110,3195.0,29/05/2020,reg,South America
+Romania,F,85,69,3.0,21/05/2020,nat,Europe
+Liechtenstein,F,85,110,8.0,04/07/2020,nat,Europe
+Liechtenstein,F,10,54,230.0,04/07/2020,reg,Africa
+Liechtenstein,F,0,110,20.0,15/09/2020,reg,Europe
+Peru,F,90,69,4.0,11/02/2020,reg,Europe
+Latvia,M,50,84,2565.0,11/02/2020,nat,Asia
+Spain,M,45,39,0.0,16/09/2020,reg,Europe
+Georgia,F,25,110,109.0,19/09/2020,reg,Europe
+Peru,M,80,84,940.0,20/09/2020,nat,Asia
+Kazakhstan,M,15,44,2715.0,20/09/2020,reg,Europe
+Thailand,M,0,64,37.0,19/09/2020,reg,North America
+Bosnia & Herzegovina,M,0,34,46.0,29/05/2020,nat,Asia
+Georgia,M,85,14,3.0,27/07/2020,reg,Europe
+Egypt,M,0,110,1.0,20/09/2020,reg,Africa
+Lebanon,B,30,14,1494.0,15/09/2020,reg,Asia
+Colombia,M,0,54,67.0,29/05/2020,reg,Europe
+Thailand,F,85,59,0.0,11/06/2020,reg,Africa
+Colombia,M,75,44,240.0,18/09/2020,reg,South America
+Spain,F,75,14,28.0,11/06/2020,reg,Asia
+Cyprus,M,0,69,0.0,28/05/2020,reg,Europe
+Bosnia & Herzegovina,F,65,24,0.0,29/05/2020,reg,Europe
+Slovakia,M,85,110,3.0,16/09/2020,reg,Asia
+Venezuela,M,55,29,861.0,18/09/2020,nat,North America
+Colombia,F,80,14,41.0,11/02/2020,reg,Asia
+Belgium,F,30,84,0.0,21/05/2020,reg,Africa
+Romania,F,50,64,0.0,16/09/2020,reg,Europe
+Costa Rica,M,45,39,29.0,21/05/2020,reg,Asia
+Serbia,M,15,59,1.0,30/06/2020,reg,South America
+Cyprus,M,35,24,9.0,21/05/2020,reg,Africa
+Lebanon,M,25,9,461.0,19/09/2020,nat,Asia
+Cuba,F,65,110,0.0,27/07/2020,reg,Europe
+Bosnia & Herzegovina,M,50,49,23185.0,07/09/2020,reg,Asia
+Egypt,M,10,9,0.0,11/06/2020,reg,Asia
+Slovakia,F,55,64,274.0,21/05/2020,reg,Asia
+Bosnia & Herzegovina,M,20,19,1129.0,20/09/2020,reg,North America
+Greece,M,65,110,4.0,04/07/2020,nat,Asia
+Slovenia,F,60,59,469.0,29/05/2020,reg,Africa
+Slovenia,M,20,29,239.0,11/09/2020,reg,Europe
+Colombia,M,85,29,133.0,29/05/2020,nat,Europe
+Bosnia & Herzegovina,M,60,9,1.0,19/09/2020,nat,Asia
+Spain,M,35,84,19.0,16/09/2020,nat,South America
+Dominican Republic,M,55,89,615.0,30/06/2020,nat,Europe
+Cuba,M,40,54,52.0,11/06/2020,reg,Europe
+Colombia,M,10,4,1422.0,11/09/2020,reg,South America
+Latvia,M,80,49,0.0,27/07/2020,nat,Asia
+Egypt,B,0,9,230.0,11/06/2020,reg,Africa
+Moldova,M,45,44,957.0,20/09/2020,reg,North America
+South Korea,F,50,39,1910.0,11/06/2020,nat,Africa
+Venezuela,F,30,110,16.0,16/09/2020,reg,Europe
+Liechtenstein,M,40,39,3.0,19/09/2020,reg,Europe
+Algeria,M,40,110,100.0,03/06/2020,reg,Africa
+Slovenia,B,30,79,5819.0,18/09/2020,nat,North America
+Armenia,M,60,59,90.0,11/06/2020,nat,South America
+Georgia,F,20,79,70.0,11/06/2020,reg,North America
+Georgia,F,0,39,27407.0,04/07/2020,reg,Europe
+Liechtenstein,F,30,74,138.0,27/07/2020,reg,Europe
+Slovakia,M,80,44,23.0,20/09/2020,reg,Europe
+North Macedonia,M,50,54,234.0,27/07/2020,reg,Asia
+Iran,M,70,69,2.0,20/09/2020,nat,Europe
+Bosnia & Herzegovina,M,0,34,2.0,27/07/2020,reg,Europe
+Philippines,B,0,9,131.0,04/07/2020,reg,Europe
+North Macedonia,M,55,110,2.0,30/06/2020,nat,Asia
+Slovenia,M,50,24,3286.0,11/06/2020,reg,Africa
+Costa Rica,F,45,59,2114.0,27/07/2020,nat,Africa
+Slovakia,M,0,19,0.0,11/06/2020,reg,Europe
+Brazil,M,60,34,0.0,19/09/2020,reg,South America
+Cyprus,F,45,39,406.0,19/09/2020,nat,Europe
+Armenia,F,50,49,116.0,30/06/2020,reg,Europe
+Belgium,F,60,39,27.0,19/09/2020,nat,Europe
+Liechtenstein,F,40,39,487.0,29/05/2020,reg,Europe
+Cuba,M,0,39,1384.0,19/09/2020,reg,North America
+Cuba,M,40,39,0.0,11/06/2020,reg,North America
+Latvia,F,15,54,1.0,16/09/2020,reg,Africa
+Thailand,M,65,110,25.0,18/09/2020,nat,Europe
+Cuba,M,45,89,309.0,27/07/2020,reg,South America
+Greece,M,60,79,18.0,19/09/2020,nat,Europe
+Cyprus,B,35,110,19.0,19/09/2020,reg,North America
+Greece,F,25,110,1961.0,04/07/2020,reg,Africa
+Armenia,M,95,64,5.0,19/09/2020,reg,Asia
+Venezuela,M,5,29,0.0,20/09/2020,reg,Africa
+Egypt,F,60,14,652.0,30/06/2020,nat,Europe
+South Korea,M,55,59,27407.0,04/07/2020,reg,Asia
+New Zealand,F,15,39,1253.0,19/09/2020,reg,Africa
+Dominican Republic,B,20,49,13.0,18/09/2020,reg,Africa
+Austria,M,70,44,0.0,21/05/2020,reg,Europe
+Costa Rica,M,60,4,186.0,16/09/2020,reg,Europe
+South Korea,M,55,84,3.0,11/02/2020,reg,North America
+Armenia,B,30,19,18.0,11/06/2020,reg,Asia
+Slovenia,F,30,24,150.0,19/09/2020,nat,Asia
+Spain,F,80,39,69.0,11/02/2020,reg,Asia
+Peru,M,5,44,1452.0,18/09/2020,nat,Asia
+Peru,F,70,69,99.0,20/09/2020,reg,Europe
+Peru,B,50,69,5593.0,21/05/2020,reg,North America
+Cuba,F,45,69,229.0,11/06/2020,reg,Asia
+Tajikistan,F,10,39,246.0,11/06/2020,reg,Asia
+Liechtenstein,F,10,39,13.0,27/07/2020,reg,Asia
+Thailand,M,30,49,28.0,28/05/2020,reg,Africa
+New Zealand,M,15,110,21.0,20/09/2020,reg,Asia
+Costa Rica,F,15,49,1.0,29/05/2020,nat,South America
+Egypt,M,30,59,6556.0,13/09/2020,reg,North America
+South Korea,F,90,74,0.0,07/09/2020,reg,Europe
+Slovenia,M,60,29,1824.0,20/09/2020,reg,North America
+Pakistan,M,20,94,289.0,11/02/2020,reg,Asia
+Iran,M,15,110,0.0,16/09/2020,reg,North America
+Spain,M,75,17,17.0,30/06/2020,reg,North America
+Bosnia & Herzegovina,M,90,44,0.0,19/09/2020,reg,Africa
+Australia,M,80,49,665.0,15/09/2020,nat,Africa
+Australia,M,90,34,719.0,01/07/2020,reg,Africa
+Georgia,F,65,39,47.0,11/09/2020,reg,Africa
+North Macedonia,M,90,64,273.0,04/07/2020,reg,North America
+Cuba,M,40,69,142.0,21/05/2020,nat,Europe
+Georgia,M,0,89,1402.0,30/06/2020,nat,Africa
+Venezuela,B,75,24,4.0,01/07/2020,reg,South America
+New Zealand,M,15,59,1.0,11/06/2020,reg,Africa
+Monaco,M,70,59,1.0,13/09/2020,reg,Asia
+Armenia,F,90,110,238.0,07/09/2020,reg,North America
+Slovakia,M,85,9,107.0,30/06/2020,nat,Europe
+Austria,M,65,9,488.0,03/06/2020,nat,Europe
+Iran,M,5,29,1.0,07/09/2020,reg,Europe
+Serbia,M,40,49,10.0,11/06/2020,reg,Europe
+Colombia,M,80,19,378.0,01/07/2020,reg,Europe
+Greece,F,45,54,16.0,19/09/2020,nat,Asia
+Austria,M,0,79,487.0,20/09/2020,reg,Europe
+Armenia,M,85,79,0.0,21/05/2020,reg,Europe
+Slovenia,M,90,59,99.0,19/09/2020,reg,Europe
+Liechtenstein,F,60,54,7.0,16/09/2020,nat,Asia
+Finland,F,0,19,43.0,01/07/2020,reg,Asia
+Israel,M,70,49,0.0,27/07/2020,reg,Africa
+Slovakia,M,50,99,0.0,20/09/2020,reg,Europe
+Greece,F,0,44,6.0,07/09/2020,nat,Europe
+Slovenia,F,70,49,20.0,04/07/2020,reg,Africa
+Bosnia & Herzegovina,M,45,74,785.0,18/09/2020,reg,Europe
+Guernsey,M,80,110,8.0,19/09/2020,nat,Asia
+Armenia,M,30,69,1720.0,11/06/2020,reg,Europe
+Spain,M,0,24,0.0,18/09/2020,nat,Asia
+Finland,F,1,64,3.0,13/09/2020,reg,Europe
+South Korea,F,5,29,27407.0,19/09/2020,reg,Africa
+Costa Rica,F,30,4,0.0,18/09/2020,reg,North America
+New Zealand,F,55,4,461.0,16/09/2020,reg,Asia
+Romania,M,80,9,10.0,27/07/2020,reg,South America
+Greece,M,10,9,4630.0,20/09/2020,reg,Europe
+Lebanon,F,45,79,3.0,01/07/2020,reg,Europe
+Iran,F,18,69,93.0,15/09/2020,reg,Asia
+Pakistan,M,90,29,43.0,04/07/2020,reg,Asia
+Latvia,M,75,19,5.0,16/09/2020,reg,Africa
+Monaco,F,1,9,13.0,20/09/2020,reg,North America
+Monaco,M,15,69,20.0,20/09/2020,reg,North America
+Liechtenstein,M,10,69,4369.0,21/05/2020,nat,Asia
+Bosnia & Herzegovina,F,35,89,1269.0,18/09/2020,nat,Europe
+Iran,M,40,89,92.0,01/07/2020,reg,Europe
+Moldova,F,50,94,16.0,13/09/2020,reg,North America
+Slovakia,M,15,19,884.0,20/09/2020,reg,North America
+Slovenia,M,30,19,257.0,19/09/2020,reg,Europe
+Venezuela,M,0,49,156.0,19/09/2020,reg,Africa
+Spain,M,10,74,13.0,19/09/2020,reg,Asia
+Bosnia & Herzegovina,M,70,110,0.0,19/09/2020,reg,Africa
+Austria,F,20,69,0.0,21/05/2020,reg,Africa
+Portugal,M,25,59,9.0,11/06/2020,reg,Europe
+Moldova,F,70,69,6442.0,11/09/2020,reg,South America
+Georgia,F,60,39,2.0,20/09/2020,reg,Europe
+Egypt,F,85,69,6.0,03/06/2020,reg,Europe
+New Zealand,F,70,69,7.0,01/07/2020,nat,North America
+Austria,M,60,59,0.0,04/07/2020,reg,Asia
+Pakistan,M,85,44,4893.0,07/09/2020,reg,Europe
+Peru,F,10,9,75.0,11/06/2020,reg,South America
+Colombia,F,55,54,25.0,11/06/2020,reg,Asia
+Peru,M,30,39,1881.0,11/06/2020,reg,Asia
+Tajikistan,F,85,59,649.0,11/02/2020,reg,North America
+Costa Rica,M,70,74,861.0,16/09/2020,reg,Europe
+Armenia,F,60,4,3349.0,11/06/2020,reg,Asia
+Costa Rica,F,60,29,0.0,01/07/2020,reg,Asia
+Liechtenstein,M,60,1,2114.0,15/09/2020,reg,North America
+Armenia,F,0,49,2.0,11/06/2020,reg,Africa
+Austria,M,45,110,2636.0,11/06/2020,nat,Europe
+Romania,M,65,110,0.0,11/02/2020,reg,North America
+South Korea,M,15,39,4369.0,11/06/2020,reg,Africa
+Philippines,M,40,39,18.0,07/09/2020,reg,South America
+South Korea,M,35,39,1.0,20/09/2020,reg,Europe
+Moldova,F,50,9,83.0,11/06/2020,reg,Europe
+Venezuela,F,20,54,0.0,18/09/2020,nat,Asia
+Brazil,F,65,24,5348.0,11/06/2020,reg,Europe
+Venezuela,M,30,54,11.0,11/06/2020,reg,Asia
+Venezuela,F,85,9,0.0,16/09/2020,nat,Asia
+Spain,M,50,89,634.0,27/07/2020,reg,Asia
+Bosnia & Herzegovina,M,5,39,46.0,11/06/2020,reg,South America
+Jordan,M,10,29,487.0,04/07/2020,reg,Europe
+Slovakia,F,20,44,0.0,19/09/2020,reg,North America
+South Korea,M,50,49,0.0,19/09/2020,reg,North America
+Iran,M,80,29,70.0,11/02/2020,nat,Europe
+Moldova,B,85,19,13.0,18/09/2020,reg,Europe
+Peru,M,0,24,90.0,13/09/2020,reg,Europe
+Spain,M,80,19,856.0,11/06/2020,reg,Africa
+Cuba,M,0,59,52.0,30/06/2020,reg,Europe
+Latvia,M,25,19,5.0,11/06/2020,reg,North America
+Slovakia,F,10,54,2655.0,18/09/2020,nat,Europe
+Bosnia & Herzegovina,M,5,9,1.0,30/06/2020,reg,Asia
+Kazakhstan,F,50,44,2.0,21/05/2020,reg,Africa
+Latvia,F,80,19,718.0,18/09/2020,reg,Africa
+Thailand,F,60,49,1.0,04/07/2020,reg,Asia
+Georgia,M,55,89,3.0,16/09/2020,reg,North America
+Portugal,M,18,110,587.0,04/07/2020,reg,Europe
+Slovenia,M,80,64,109.0,18/09/2020,reg,Europe
+Moldova,F,60,79,42.0,19/09/2020,reg,Africa
+Finland,M,55,29,3493.0,18/09/2020,nat,North America
+Pakistan,M,70,4,230.0,11/06/2020,reg,Europe
+Cyprus,M,65,39,121.0,20/09/2020,nat,Asia
+Egypt,F,0,49,665.0,20/09/2020,reg,North America
+Lebanon,M,5,69,3.0,19/09/2020,nat,Europe
+Peru,M,30,79,5.0,20/09/2020,nat,North America
+Slovenia,M,65,34,41.0,18/09/2020,reg,Europe
+Jordan,F,55,17,4.0,07/09/2020,reg,Asia
+Romania,M,10,34,62.0,29/05/2020,reg,Europe
+Liechtenstein,M,35,69,7.0,20/09/2020,reg,Europe
+Bosnia & Herzegovina,F,85,79,193.0,27/07/2020,reg,Europe
+Iran,F,0,69,569.0,15/09/2020,reg,Asia
+Australia,M,95,89,2436.0,18/09/2020,reg,North America
