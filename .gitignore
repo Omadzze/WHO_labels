@@ -1,4 +1,5 @@
-/unprocessed_tables/
+/processed_tables/
 .idea/
 /output
 /sherlock_data_processing/
+/unprocessed_tables_2
