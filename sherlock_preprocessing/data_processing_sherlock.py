@@ -158,4 +158,82 @@ class DataProcessingSherlock:
         combined_labels.to_parquet(labels_path,engine='pyarrow', index=True)
         combined_lang.to_parquet(lang_path,   engine='pyarrow', index=True)
 
-        return data_path, labels_path, lang_path
+        return combined_data, combined_labels, combined_lang
+
+
+
+    def split_and_save(
+            self,
+            combined_data: pd.DataFrame,
+            combined_labels: pd.DataFrame,
+            combined_lang: pd.DataFrame,
+            output_folder: str,
+            train_ratio: float = 0.8,
+            val_ratio: float = 0.1,
+            test_ratio: float = 0.1,
+            random_state: int = None) -> dict:
+        """
+        Shuffle and split combined_data and combined_labels into train, validation, and test sets,
+        then save them as parquet files in output_folder.
+
+        Returns a dict with file paths for each split.
+        """
+        # Ensure output directory exists
+        # Grab a random permutation of the *original* indices
+        idx = combined_data.sample(frac=1, random_state=random_state).index
+        # Apply that permutation uniformly, then reset to 0…N-1
+        data_shuffled   = combined_data.loc[idx].reset_index(drop=True)
+        labels_shuffled = combined_labels.loc[idx].reset_index(drop=True)
+        lang_shuffled   = combined_lang.loc[idx].reset_index(drop=True)
+
+        # compute sizes and split as before...
+        n = len(data_shuffled)
+        n_train = int(train_ratio * n)
+        n_val   = int(val_ratio * n)
+
+        # 3) Create splits
+        # Data
+        train_data = data_shuffled.iloc[:n_train]
+        val_data   = data_shuffled.iloc[n_train:n_train + n_val]
+        test_data  = data_shuffled.iloc[n_train + n_val:]
+
+        # Labels
+        train_labels = labels_shuffled.iloc[:n_train]
+        val_labels   = labels_shuffled.iloc[n_train:n_train + n_val]
+        test_labels  = labels_shuffled.iloc[n_train + n_val:]
+
+        # Language
+        train_language = lang_shuffled.iloc[:n_train]
+        val_language   = lang_shuffled.iloc[n_train:n_train + n_val]
+        test_language  = lang_shuffled.iloc[n_train + n_val:]
+
+        # 4) Save splits
+        # Train set
+        train_data_path   = os.path.join(output_folder, 'train_data.parquet')
+        train_labels_path = os.path.join(output_folder, 'train_labels.parquet')
+        train_lang_path = os.path.join(output_folder, 'train_language.parquet')
+        self.write_list_parquet(train_data, train_data_path)
+        train_labels.to_parquet(train_labels_path, engine='pyarrow', index=True)
+        train_language.to_parquet(train_lang_path, engine='pyarrow', index=True)
+
+        # Validation set
+        val_data_path   = os.path.join(output_folder, 'validation_data.parquet')
+        val_labels_path = os.path.join(output_folder, 'validation_labels.parquet')
+        val_lang_path = os.path.join(output_folder, 'val_language.parquet')
+        self.write_list_parquet(val_data, val_data_path)
+        val_labels.to_parquet(val_labels_path, engine='pyarrow', index=True)
+        val_language.to_parquet(val_lang_path, engine='pyarrow', index=True)
+
+        # Test set
+        test_data_path   = os.path.join(output_folder, 'test_data.parquet')
+        test_labels_path = os.path.join(output_folder, 'test_labels.parquet')
+        test_lang_path = os.path.join(output_folder, 'test_language.parquet')
+        self.write_list_parquet(test_data, test_data_path)
+        test_labels.to_parquet(test_labels_path, engine='pyarrow', index=True)
+        test_language.to_parquet(test_lang_path, engine='pyarrow', index=True)
+
+        return {
+            'train':      (train_data_path, train_labels_path, train_lang_path),
+            'validation': (val_data_path,   val_labels_path, val_lang_path),
+            'test':       (test_data_path,  test_labels_path, test_lang_path)
+        }
