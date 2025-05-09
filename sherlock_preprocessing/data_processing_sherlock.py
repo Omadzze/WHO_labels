@@ -158,7 +158,14 @@ class DataProcessingSherlock:
         combined_labels.to_parquet(labels_path,engine='pyarrow', index=True)
         combined_lang.to_parquet(lang_path,   engine='pyarrow', index=True)
 
-        return combined_data, combined_labels, combined_lang
+        print(f"Combined data length: {len(combined_data)}")
+        print(f"Combined labels length: {len(combined_labels)}")
+        print(f"Combined lang length: {len(combined_lang)}")
+
+        return self.split_and_save(combined_data, combined_labels, combined_lang,
+                                   output_folder, 0.8, 0.1, 0.1, 42)
+
+        #return combined_data, combined_labels, combined_lang
 
 
 
@@ -232,8 +239,14 @@ class DataProcessingSherlock:
         test_labels.to_parquet(test_labels_path, engine='pyarrow', index=True)
         test_language.to_parquet(test_lang_path, engine='pyarrow', index=True)
 
+        #print("Length")
+        #print(f"Train data length: {len(train_data)}")
+        #print(f"Train labels length: {len(train_labels)}")
+        #print(f"Train language length: {len(train_language)}")
+
         return {
             'train':      (train_data_path, train_labels_path, train_lang_path),
             'validation': (val_data_path,   val_labels_path, val_lang_path),
             'test':       (test_data_path,  test_labels_path, test_lang_path)
         }
+
