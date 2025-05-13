@@ -387,9 +387,6 @@ WHO_011.csv,51,__none__
 WHO_011.csv,52,__none__
 WHO_011.csv,53,__none__
 WHO_011.csv,54,__none__
-WHO_011.csv,55,__none__
-WHO_011.csv,56,__none__
-WHO_011.csv,57,__none__
 WHO_012.csv,0,Date_report
 WHO_012.csv,1,Location_information
 WHO_012.csv,2,Location_information
@@ -491,7 +488,7 @@ WHO_015.csv,28,__none__
 WHO_015.csv,29,Date_confirmation
 WHO_015.csv,30,__none__
 WHO_015.csv,31,__none__
-WHO_015.csv,32,Case_
+WHO_015.csv,32,Case_status
 WHO_015.csv,33,__none__
 WHO_015.csv,34,__none__
 WHO_015.csv,35,__none__
