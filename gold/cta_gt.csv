@@ -276,7 +276,7 @@ WHO_005.csv,24,Hospitalised
 WHO_005.csv,25,Date_hospitalisation
 WHO_005.csv,26,Outcome
 WHO_005.csv,27,Case_status
-WHO_006.csv,0,Nationality
+WHO_006.csv,0,Location_information
 WHO_006.csv,1,Sex_at_birth
 WHO_006.csv,2,Age
 WHO_006.csv,3,Age
@@ -304,13 +304,13 @@ WHO_007.csv,16,__none__
 WHO_007.csv,17,__none__
 WHO_008.csv,0,Date_report
 WHO_008.csv,1,__none__
-WHO_008.csv,2,Nationality
+WHO_008.csv,2,Location_information
 WHO_008.csv,3,__none__
 WHO_008.csv,4,__none__
 WHO_008.csv,5,Date_death
 WHO_009.csv,0,ID
 WHO_009.csv,1,__none__
-WHO_009.csv,2,Nationality
+WHO_009.csv,2,Location_information
 WHO_009.csv,3,__none__
 WHO_009.csv,4,Sex_at_birth
 WHO_009.csv,5,Date_report
