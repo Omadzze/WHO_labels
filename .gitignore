@@ -3,3 +3,7 @@
 /output
 /sherlock_data_processing/
 /unprocessed_tables_2
+
+synthetic_data/tables_edge
+synthetic_data/mapping_edge.csv
+notebooks/output.json
