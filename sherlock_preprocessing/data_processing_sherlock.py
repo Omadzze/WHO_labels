@@ -86,7 +86,7 @@ class DataProcessingSherlock:
         table = pa.Table.from_arrays([index_array, values_array], schema=schema)
         pq.write_table(table, data_path)
 
-    def flatten_and_save(self, df, labels, output_folder, table_name, lang_md_path):
+    def flatten_and_save(self, df, labels, output_folder, table_name, lang_md_path, train_ratio, val_ratio, test_ratio, random_seed=42):
 
         """
         Preprocess the data for the Sherlock format dataset, it concatenates together values,
@@ -163,7 +163,7 @@ class DataProcessingSherlock:
         print(f"Combined lang length: {len(combined_lang)}")
 
         return self.split_and_save(combined_data, combined_labels, combined_lang,
-                                   output_folder, 0.8, 0.1, 0.1, 42)
+                                   output_folder, train_ratio, val_ratio, test_ratio, random_seed)
 
         #return combined_data, combined_labels, combined_lang
 
