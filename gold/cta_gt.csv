@@ -846,8 +846,8 @@ WHO_023.csv,45,Case_status
 WHO_023.csv,46,__none__
 WHO_024.csv,0,ID
 WHO_024.csv,1,__none__
-WHO_024.csv,2,location_information
-WHO_024.csv,3,location_information
+WHO_024.csv,2,Location_information
+WHO_024.csv,3,Location_information
 WHO_024.csv,4,ID
 WHO_024.csv,5,Date_report
 WHO_024.csv,6,__none__
@@ -862,12 +862,12 @@ WHO_024.csv,14,__none__
 WHO_024.csv,15,Age
 WHO_024.csv,16,Sex_at_birth
 WHO_024.csv,17,Travel_history
-WHO_024.csv,18,location_information
-WHO_024.csv,19,location_information
+WHO_024.csv,18,Location_information
+WHO_024.csv,19,Location_information
 WHO_024.csv,20,Travel_history_start
 WHO_024.csv,21,__none__
 WHO_024.csv,22,__none__
-WHO_024.csv,23,location_information
+WHO_024.csv,23,Location_information
 WHO_024.csv,24,__none__
 WHO_024.csv,25,__none__
 WHO_024.csv,26,__none__
