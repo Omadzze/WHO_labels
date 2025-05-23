@@ -1,0 +1,1001 @@
+Case ID,Source case ID,Lien_cas source,Lien_famille,Type_contamination,Nom lieu transmission,Case ID MLLID,Source case ID MLLID,Entry_check,Check_pairs,Comments_Expo,Date_check,Date_report_case_ID,key_sort
+3EV20B5-N4,32NE-BV26,Voisins,,Communautaire,Obo,V17ED80,9D01E1V,BS,# initial check done  BeSu ErSi,,,,50.0
+AN215M,3ANM06,Nosocomial,,Communautaire,Yaloke,0V6D1E4,67EDV32,,# initial check done  BeSu ErSi,,,,363.0
+T7B73U,TB458U2,Amis,,Communautaire,Obo,0V245DE,E23D9V1,,,,,,555.0
+9BN8E8-V1,748UT5B,Voisins,,Communautaire,Boganda,61D6VE0,21EVD37,,# check correspondance VHF and MLL,,,,52.0
+BTU855,KO903M,,,,Yaloke,1057DVE,E1VD890,,# check correspondance VHF and MLL,,,,433.0
+B0U68T,6111TUB,Amis,,,Obo,0VE298D,D00EV81,,,,,,
+8B6TU4,2BU24T0,Nosocomial,,Funerailles,Obo,7ED0V13,3DE083V,BS,# check correspondance VHF and MLL,,2019-12-12,,924.0
+1ANM17,9UT6B1,Voisins,,Communautaire,Obo,1D4EV30,DE307V2,,,,,,531.0
+5U6BT4,T18UB9,,,,Obo,6EV0D78,V068DE0,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,166.0
+UT41B00,TB458U2,Voisins,,,Yaloke,E1D90V2,D107EV1,BS,# initial check done  BeSu ErSi,,,,883.0
+6N3-VE9B,B26U4T,Amis,,,Boganda,0D56V2E,E91DV60,,,,,,716.0
+4BV-28EN1,244T0UB,Garde malade,,,Obo,E90D80V,EV9705D,BS,#  source case VHF not in the  VHF - to be checked,,,,696.0
+7N22B-VE,748UT5B,Garde malade,,Funerailles,Obo,V00E11D,1E30VD6,,,,2019-12-12,,323.0
+BV2N4-0E,3T15BU,,,Funerailles,Boganda,E05V0D4,8V62E1D,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,208.0
+39UB4T,6TB306U,Voisins,,,Yaloke,DVE0408,8D01EV1,,#  source case VHF not in the  VHF - to be checked,,,,42.0
+6N80MA,BT3U013,,,,Obo,0V40D7E,9D10EV0,,# check correspondance VHF and MLL,,,,614.0
+BEN290,3O6MK0,Voisins,,Funerailles,Yaloke,DV0E857,E451V0D,,# check correspondance VHF and MLL,,,,862.0
+M0A89N,TB1126U,Voisins,,Communautaire,Obo,350E4DV,V0D87E6,,,,,,936.0
+2B0U6T,2E7N0V81B,Voisins,,Communautaire,Obo,4D3V80E,D6V76E0,,,,,,693.0
+5UBT62,M0K0O4,Garde malade,,Communautaire,Obo,208V8DE,0V83DE6,,,,2019-12-12,,544.0
+N10E2B-V,9B5T23U,Garde malade,,Communautaire,Obo,EVD2308,D5VE071,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,26.0
+92B6TU,-N7V3BE1,Famille,,Funerailles,Boganda,021VED9,VDE4560,,,,2019-12-12,,491.0
+UTB889,0TU97B,Amis,,,Yaloke,D60E65V,033VD2E,BS,,,,,811.0
+7-41NBEV,U016T9B,Voisins,,Communautaire,Obo,6E0D2V7,55D01VE,,,,,,834.0
+U8B00T1,B02EN6,Nosocomial,,Communautaire,Yaloke,1580EVD,40V31DE,BS,,,,,561.0
+3U84T9B,T7B52U5,Co-hospitalisation,,Funerailles,Yaloke,E2D01V7,D490V1E,,,,,,935.0
+10BU36T,2TU05B,Garde malade,,,Obo,EDV0316,V0ED164,BS,,,,,549.0
+1VENB-50,T4U240B,,,,Obo,E04V2D3,6E660VD,BS,# initial check done  BeSu ErSi,,,,475.0
+95UBT9,1U16TB1,,,Nosocomial,Obo,D5V50E2,0D2EV38,,,,,,587.0
+AM670N,_A908S30M1,Voisins,,Funerailles,Yaloke,4V0DE89,786EDV0,BS,# check correspondance VHF and MLL,,2019-12-12,,202.0
+A1M20N,5U822TB,Famille,,,Yaloke,3D78EV0,V200ED0,,,,,,850.0
+B3UT541,0U80T1B,Famille,,Communautaire,Obo,8E0V3D5,1E30VD6,,# initial check done  BeSu ErSi,,,,110.0
+95UBT9,1T48U6B,Voisins,,,Yaloke,D0955VE,EV1D066,BS,# initial check done  BeSu ErSi,,,,813.0
+T261BU,74EBV-28N,Famille,,,Boganda,3D6E4V0,8D01EV1,,# initial check done  BeSu ErSi,,,,11.0
+2AN3M24,0U39TB7,Voisins,,,Yaloke,0V245DE,D23V1E3,,,,,,934.0
+VE113NB-,1BTU36,Voisins,,Communautaire,Obo,EV854D0,E23D9V1,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,347.0
+1T06UB0,14UB73T,Garde malade,,Communautaire,Obo,V08ED28,3EV67D0,,#  source case VHF not in the  VHF - to be checked,,,,313.0
+E09NB5-V,639UTB4,Amis,,Communautaire,Yaloke,2D34VE0,2VDE280,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,358.0
+N4BVE-69,747UBT0,Voisins,,Communautaire,Boganda,V90DE63,6E01VD5,,# check correspondance VHF and MLL,,,,24.0
+U4B2T5,52VN1-EB,Amis,,,Yaloke,E07D20V,1D06EV2,,,,,,384.0
+EV086-N0B1,0181TUB,,,,Boganda,VD306E5,7D09VE6,,# check correspondance VHF and MLL,,,,488.0
+VB-5E7N6,74EBV-28N,Garde malade,,,Obo,DE248V0,00VED84,,# check correspondance VHF and MLL,,,,459.0
+3T1U6B,07B9UT,,,Funerailles,Yaloke,V042DE0,ED621V4,,# initial check done  BeSu ErSi,,,,55.0
+6U4T4B,0U39TB7,Nosocomial,,Communautaire,Boganda,2DV40E8,6E8D0V6,,,,,,321.0
+5M1NA1,803U8TB,Voisins,,,Yaloke,91E0DV0,D0E72V1,BS,,,2019-12-12,,435.0
+7BUT99,U9BT56,Nosocomial,,,Boganda,649V0DE,17EV6D0,,#  source case VHF not in the  VHF - to be checked,,,,45.0
+UT5120B,BU1017T,Nosocomial,,,Obo,5D8E60V,3EV67D0,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,307.0
+870-NVEB,T116B4U,Famille,,Funerailles,Obo,E08D03V,D23V1E3,,,,,,76.0
+4B7V1N7-E,T116B4U,Voisins,,Funerailles,Boganda,ED6V120,700DE7V,BS,#  source case VHF not in the  VHF - to be checked,,,,707.0
+6NVE23B2-,3UT25B,Nosocomial,,Communautaire,Boguila,0D8V1E3,9D01E1V,,# initial check done  BeSu ErSi,,,,648.0
+AM20N2,34B5UT8,Garde malade,,Funerailles,Yaloke,4075DVE,D8V0E71,,# check correspondance VHF and MLL,,,,766.0
+82BUT3,3O6MK0,,,,Boganda,D3V013E,V651DE3,,# check correspondance VHF and MLL,,,,940.0
+2BU9T9,17TUB34,Garde malade,,Funerailles,Yaloke,V0D48E8,VD38E07,BS,#  source case VHF not in the  VHF - to be checked,,,,464.0
+9BUT356,8U46TB,,,Communautaire,Boganda,047DEV3,9D01E1V,BS,,,,,756.0
+2TB12U,TUB4647,Nosocomial,,Communautaire,Yaloke,07DEV00,0D3VE63,BS,# initial check done  BeSu ErSi,,2019-12-12,,736.0
+9B2T5U3,B2U37T1,Voisins,,Funerailles,Yaloke,81D5EV0,4V0E20D,,#  source case VHF not in the  VHF - to be checked,,,,602.0
+61B1TU4,00VBE28N6-,Voisins,,Communautaire,Yaloke,E0V208D,ED1V047,BS,# check correspondance VHF and MLL,,,,703.0
+80A6MN,12BTU2,Amis,,Communautaire,Obo,V28E1D0,42E06DV,BS,,,,,175.0
+BNE620,0N0VBE-5,Famille,,,Yaloke,90DE2V2,D107EV1,BS,,,,,638.0
+78T0BU,TB458U2,Voisins,,,Obo,DV04E50,26D90EV,BS,,,2019-12-12,,17.0
+1N6MA30,T18UB9,,,Funerailles,Boganda,E3D00V0,D00EV81,BS,#  source case VHF not in the  VHF - to be checked,,,,761.0
+9TU0B8,4T1UB14,Famille,,Nosocomial,Yaloke,102EDV3,71E08DV,BS,# check correspondance VHF and MLL,,,,11.0
+MA069N,TB60U11,Garde malade,,,Obo,DV3480E,D8V0E71,,# initial check done  BeSu ErSi,,,,477.0
+143UTB3,U216BT,Voisins,,Communautaire,Obo,V63E05D,E5D073V,BS,# check correspondance VHF and MLL,,2019-12-12,,16.0
+E-6V9BN0,M35OK0,,,,Boganda,D87V0E4,1EV8D93,BS,# initial check done  BeSu ErSi,,2019-12-12,,242.0
+N011MA,U9BT56,,,,Obo,1580EVD,4E1VD06,,# check correspondance VHF and MLL,,,,48.0
+MAN571,0B14NEV-,Voisins,,Communautaire,Yaloke,81D5EV0,D8V0E71,,,,,,508.0
+11BU62T,T116B4U,Voisins,,Communautaire,Yaloke,6VD063E,D013VE9,,# check correspondance VHF and MLL,,2019-12-12,,546.0
+AM20N2,B7U1T7,Famille,,,Boganda,0ED9V12,0ED61V0,,,,2019-12-12,,751.0
+NA0M99,5E4VNB5,Voisins,,Communautaire,Obo,D0E8V58,V0D87E6,,# initial check done  BeSu ErSi,,2019-12-12,,290.0
+BENV548-,B09T52U,,,Nosocomial,Obo,12V0DE2,VD0E404,BS,# initial check done  BeSu ErSi,,,,279.0
+NB655EV-,B26U4T,Garde malade,,Funerailles,Obo,00DE4V0,EV1084D,,#  source case VHF not in the  VHF - to be checked,,,,437.0
+B623TU6,9B5T23U,,,,Obo,3ED0V23,21V0E6D,,# initial check done  BeSu ErSi,,,,102.0
+B15NV22E-,0N-18BEV,Garde malade,,Funerailles,Yaloke,D0E8V58,D8V0E71,,# initial check done  BeSu ErSi,,,,865.0
+BU6261T,B2U568T,Amis,,,Boganda,V1ED402,21V0E6D,,# initial check done  BeSu ErSi,,,,127.0
+79E-NB9V,UB4564T,Voisins,,,Boguila,00V3D7E,D00EV81,,# initial check done  BeSu ErSi,,,,30.0
+UBT710,UB4564T,,,Communautaire,Obo,E4205VD,E1VD890,BS,#  source case VHF not in the  VHF - to be checked,,,,930.0
+B6U9T21,BT22U6,Garde malade,,Communautaire,Obo,6V069DE,DE0V708,,# initial check done  BeSu ErSi,,2019-12-12,,893.0
+N841V-BE,_A908S30M1,Garde malade,,Communautaire,Obo,E5D016V,V67E22D,,,,,,68.0
+MAN571,-N7V3BE1,Voisins,,,Obo,VD6350E,,BS,# check correspondance VHF and MLL,,,,149.0
+U84B6T,V9E0BN9-,Nosocomial,,Funerailles,Yaloke,D8006VE,1ED0V70,BS,#  source case VHF not in the  VHF - to be checked,,,,95.0
+2T8B5U9,N63M8A,Voisins,,,Obo,E98DV07,5VDE110,,,,2019-12-12,,573.0
+7M2A1N,VN-7B60E,Garde malade,,,Yaloke,VE06D80,D06V8E4,,# check correspondance VHF and MLL,,,,72.0
+29TU75B,BT22U6,Amis,,,Yaloke,62D40EV,1E30VD6,,,,2019-12-12,,133.0
+419TUB,460TU9B,Famille,,Nosocomial,Boganda,V0670DE,0D7E3V7,BS,# check correspondance VHF and MLL,,,,197.0
+0U1BT48,639UTB4,Amis,,,Boganda,4VD8E08,D6V60E7,BS,,,,,229.0
+10B4UT9,6UTB31,Voisins,,Communautaire,Obo,E07V80D,1V6ED50,,# initial check done  BeSu ErSi,,2019-12-12,,255.0
+92M1NA,A_9000M16S,Amis,,Communautaire,Yaloke,E7V605D,E95D04V,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,726.0
+BT32U4,651BUT9,Garde malade,,Communautaire,Obo,E69V0D7,E5D073V,,# check correspondance VHF and MLL,,,,322.0
+M0A89N,B8T141U,Voisins,,Communautaire,Obo,DE9044V,8V90D1E,BS,,,,,590.0
+U71T5B3,B02EN6,Voisins,,Funerailles,Yaloke,E0V994D,0D7E3V7,,# initial check done  BeSu ErSi,,2019-12-12,,280.0
+8-E5VN1B,UB4213T,Garde malade,,Nosocomial,Yaloke,3DE0V43,7VD540E,,# check correspondance VHF and MLL,,,,330.0
+6B04VNE,551NMA9,Voisins,,Communautaire,Obo,3EV04D8,42E1V1D,,#  source case VHF not in the  VHF - to be checked,,,,317.0
+VNE5-4B9,VB-0N2E1,Amis,,Funerailles,Yaloke,DV042E8,E103V9D,,,,,,142.0
+2E06N-B78V,3BU3T5,Voisins,,Communautaire,Obo,5V8D10E,002EV2D,BS,# check correspondance VHF and MLL,,,,827.0
+MAN101,B02EN6,Amis,,,Boganda,4V0DE89,6D0E7V4,BS,# initial check done  BeSu ErSi,,,,107.0
+OM403K,9UT6B1,Amis,,Communautaire,Yaloke,0V4ED11,D00EV81,,# initial check done  BeSu ErSi,,,,569.0
+EN3V8-B2,UT7B83,Nosocomial,,Funerailles,Yaloke,1D4EV30,E451V0D,,,,,,699.0
+U41BT14,N4BE-50V,Amis,,,Obo,0DE0V05,005D4VE,,# initial check done  BeSu ErSi,,,,5.0
+BTU5116,3T15BU,Voisins,,,Yaloke,02D6V3E,3D718VE,BS,,,,,873.0
+5NM6A0,TUB4647,,,Communautaire,Obo,0D970VE,EV501D3,,,,2019-12-12,,126.0
+8B91UT,1U7TB57,Amis,,,Boganda,485D0EV,D6V76E0,,# check correspondance VHF and MLL,,,,378.0
+7V-5ENB5,AN892M3,Co-hospitalisation,,,Boganda,0V17ED0,D0E61V1,,# initial check done  BeSu ErSi,,,,5.0
+3ENB517-V,3TUB418,Amis,,Communautaire,Obo,DV4007E,E2720VD,,,,2019-12-12,,778.0
+08E-VBN6,8U46TB,Nosocomial,,Nosocomial,Yaloke,34VDE08,033VD2E,,# initial check done  BeSu ErSi,,,,625.0
+T9U61B1,6TB306U,Garde malade,,,Yaloke,66EDV50,790D4VE,,# initial check done  BeSu ErSi,,,,243.0
+08E-VBN6,B26U4T,Garde malade,,Communautaire,Obo,39ED40V,6E6V2D2,,,,,,462.0
+56VE2-BN,5BU25T,Amis,,Funerailles,Obo,E0310DV,V068DE0,BS,#  source case VHF not in the  VHF - to be checked,,,,383.0
+9BUT356,VB-0N2E1,Voisins,,Nosocomial,Boganda,D8V0E68,D8V0E71,,,,,,526.0
+UT2296B,10B1TU2,Voisins,,,Yaloke,2E89V0D,002EV2D,BS,# initial check done  BeSu ErSi,,,,683.0
+TU34B21,4B0T8U,Voisins,,Communautaire,Boganda,E90D80V,D90EV73,BS,#  source case VHF not in the  VHF - to be checked,,,,45.0
+1EBN-21V,0U39TB7,Amis,,,Yaloke,V8DE350,V3D5E20,BS,#  source case VHF not in the  VHF - to be checked,,,,400.0
+N81M0A,B7U1T7,Amis,,,Yaloke,E27D05V,D6V76E0,,#  source case VHF not in the  VHF - to be checked,,,,260.0
+TBU7641,10B1TU2,Famille,,Nosocomial,Yaloke,18V0D3E,E103V9D,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,750.0
+7E9V8N-B,B-VNE514,Garde malade,,Funerailles,Yaloke,1V54DE0,17EV6D0,,# initial check done  BeSu ErSi,,,,269.0
+ANM092,T273U9B,,,,Yaloke,3D6E4V0,D61E11V,BS,# check correspondance VHF and MLL,,,,617.0
+E-83V6NB,B2V16EN-,Nosocomial,,,Boganda,D3V240E,E3DV317,BS,,,,,216.0
+144BTU,1U46TB,,,,Boganda,V010DE0,6E6V2D2,BS,#  source case VHF not in the  VHF - to be checked,,,,860.0
+6BV5EN0-,3M0OK7,Voisins,,Funerailles,Boganda,V007DE1,E0V4D64,,,,,,605.0
+0T4BU8,5E4VNB5,Amis,,Nosocomial,Obo,06ED0V3,786EDV0,,,,2019-12-12,,835.0
+E8VBN44-,1U7TB57,Amis,,Funerailles,Obo,0E8D0V1,7V9D20E,BS,# check correspondance VHF and MLL,,,,63.0
+T91BU7,VB-0N2E1,Voisins,,Nosocomial,Obo,DE09V77,V0D87E6,BS,# check correspondance VHF and MLL,,2019-12-12,,112.0
+T211UB4,99V-0BE,Voisins,,Communautaire,Yaloke,E3D00V0,VE8D021,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,676.0
+NV3E5-2B,T4U240B,Travail,,Funerailles,Obo,0V8E5D9,D0E61V1,BS,# initial check done  BeSu ErSi,,,,49.0
+M8N36A,N0EV-29B,,,Communautaire,Yaloke,6VE30D5,D5VE071,,#  source case VHF not in the  VHF - to be checked,,,,302.0
+AN19M7,1U46TB,Amis,,Communautaire,Boganda,0V4ED11,D06V8E4,,# initial check done  BeSu ErSi,,,,303.0
+4B60TU,UB4564T,Voisins,,,Boganda,DE6101V,42E06DV,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,769.0
+VNE5-4B9,551NMA9,Garde malade,,Communautaire,Obo,261VE0D,4V0E20D,BS,# check correspondance VHF and MLL,,,,424.0
+40BT41U,00VBE28N6-,Voisins,,Communautaire,Obo,07D0V7E,0ED61V0,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,152.0
+14U8BT6,1U46TB,Garde malade,,Funerailles,Boganda,1V54DE0,002EV2D,,,,,,863.0
+T21B6U1,UB4213T,Voisins,,,Yaloke,80VDE55,V8D0E30,BS,,,,,417.0
+50BN-EV82,VB-0N2E1,Voisins,,,Obo,930E1VD,EV40D82,,# check correspondance VHF and MLL,,,,941.0
+U4B2T5,14UB73T,Nosocomial,,Communautaire,Obo,0E5DV52,8V62E1D,,#  source case VHF not in the  VHF - to be checked,,,,329.0
+TU91B78,B8T141U,Nosocomial,,,Obo,E6D92V0,8V62E1D,,#  source case VHF not in the  VHF - to be checked,,,,626.0
+BN5-56EV,98ANM5,,,,Yaloke,E2D01V7,D107EV1,BS,,,2019-12-12,,541.0
+E8VBN44-,5U822TB,Amis,,Communautaire,Obo,DVE3130,V0D87E6,,,,,,530.0
+AM00N7,748UT5B,Voisins,,,Obo,6E08V9D,E23D9V1,,# check correspondance VHF and MLL,,2019-12-12,,619.0
+50BN-EV82,UB4564T,,,Communautaire,Yaloke,V9D730E,D0E61V1,,#  source case VHF not in the  VHF - to be checked,,,,944.0
+B2U80T0,B02EN6,Garde malade,,Communautaire,Obo,V6DE510,6E8D0V6,,,,2019-12-12,,133.0
+B15NV22E-,VB-0N2E1,Voisins,,Funerailles,Yaloke,90V2D4E,7V9D20E,,# initial check done  BeSu ErSi,,,,536.0
+7N22B-VE,3U0TB18,Amis,,Communautaire,Yaloke,4V0DE89,4E1VD06,BS,# check correspondance VHF and MLL,,,,532.0
+4BV-28EN1,BT53U91,Voisins,,,Boganda,E7V605D,D00EV81,,# check correspondance VHF and MLL,,2019-12-12,,108.0
+EVB0N0_8,TB60U11,Famille,,Communautaire,Yaloke,3730VED,V0D87E6,,# initial check done  BeSu ErSi,,2019-12-12,,143.0
+254TU0B,M0S90A04_1,Garde malade,,Communautaire,Yaloke,DE000V7,E5D073V,,# check correspondance VHF and MLL,,,,697.0
+AM174N0,32NE-BV26,Co-hospitalisation,,Communautaire,Yaloke,076E9DV,6D0E7V4,,,,,,307.0
+UT355B,B8T141U,Amis,,,Obo,V60E0D0,0EV885D,BS,#  source case VHF not in the  VHF - to be checked,,,,780.0
+4-BEN43V,460TU9B,Voisins,,Funerailles,Boganda,V7008ED,6E8D0V6,BS,# check correspondance VHF and MLL,,,,541.0
+4U23B2T,45BU2T9,Amis,,Communautaire,Obo,509DV0E,D490V1E,,,,2019-12-12,,165.0
+3N3EBV3-,1U7TB57,Garde malade,,,Obo,08V7DE4,1V10E6D,,,,,,854.0
+3B51TU,3TUB418,Voisins,,Communautaire,Yaloke,EV4082D,V0D87E6,BS,,,,,886.0
+T59UB7,032UTB,Travail,,Nosocomial,Obo,6VE7D03,42E06DV,BS,#  source case VHF not in the  VHF - to be checked,,,,253.0
+06T6BU1,4345UTB,Voisins,,Funerailles,Obo,ED052V0,60EV09D,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,12.0
+V-EBN463,14UB73T,Garde malade,,Communautaire,Boganda,05EDV63,DE307V2,,# initial check done  BeSu ErSi,,,,
+TB61U4,3U4B2T,Garde malade,,Communautaire,Yaloke,DVE0408,VDE4560,,# initial check done  BeSu ErSi,,,,257.0
+UT2296B,B2U37T1,Travail,,Communautaire,Yaloke,E8VD150,VD1035E,BS,# check correspondance VHF and MLL,,,,163.0
+N-0VEB88,B8T141U,Amis,,Funerailles,Yaloke,4VE078D,ED8740V,,,,,,849.0
+E7B8NV42-,B89T31U,Voisins,,Communautaire,Obo,ED8V370,9DVE161,BS,#  source case VHF not in the  VHF - to be checked,,,,296.0
+B45U9T,KO903M,,,Communautaire,Obo,01D3EV0,V3D5E20,,# initial check done  BeSu ErSi,,,,139.0
+65BUT6,1U7TB57,Amis,,,Obo,2V00E6D,390D6VE,,#  source case VHF not in the  VHF - to be checked,,,,14.0
+713BU2T,U6B0T4,Famille,,Nosocomial,Yaloke,4VE078D,3D718VE,,# check correspondance VHF and MLL,,,,566.0
+0U1BT48,1U46TB,Garde malade,,,Yaloke,E0D60V0,VE8D021,BS,#  source case VHF not in the  VHF - to be checked,,,,835.0
+B3UT272,M0S90A04_1,Voisins,,,Obo,EV0D087,34V3ED0,BS,# check correspondance VHF and MLL,,,,731.0
+8T58BU,UB621T1,Voisins,,,Obo,V0670DE,E009VD8,BS,#  source case VHF not in the  VHF - to be checked,,,,548.0
+7UBT90,VB-0N2E1,Co-hospitalisation,,Funerailles,Boguila,0D7V17E,08VD00E,,#  source case VHF not in the  VHF - to be checked,,,,635.0
+11BU62T,32NE-BV26,Amis,,,Boguila,2V044ED,005D4VE,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,604.0
+U8TB426,3BU3T5,Garde malade,,Funerailles,Obo,0ED9V12,4V0E20D,BS,# initial check done  BeSu ErSi,,,,830.0
+U73T1B3,KO903M,Co-hospitalisation,,Communautaire,Yaloke,5ED0V80,786EDV0,BS,,,,,667.0
+E1NBV35-,8U46TB,Voisins,,,Yaloke,E5V42D0,238V1DE,,# initial check done  BeSu ErSi,,,,96.0
+E4NV2B6-,VB-0N2E1,Garde malade,,,Boganda,ED6V120,08VD00E,,#  source case VHF not in the  VHF - to be checked,,,,19.0
+TU83B7,1K1M1O,Amis,,Communautaire,Obo,EV0124D,D013VE9,,# initial check done  BeSu ErSi,,2019-12-12,,305.0
+B8U78T,TB11U87,Amis,,Funerailles,Yaloke,10EDV88,DV51E08,,# check correspondance VHF and MLL,,2019-12-12,,108.0
+A1M20N,3O6MK0,Amis,,,Boganda,VE50D50,40V31DE,,#  source case VHF not in the  VHF - to be checked,,,,585.0
+B0681TU,E9N0-0BV,Co-hospitalisation,,Funerailles,Yaloke,E08VD03,238V1DE,,#  source case VHF not in the  VHF - to be checked,,,,492.0
+T4UB37,UB4213T,,,Communautaire,Boguila,E8V07D1,V0D87E6,,#  source case VHF not in the  VHF - to be checked,,,,648.0
+23VB3N-E1,KO903M,Nosocomial,,Funerailles,Yaloke,DV042E8,E3DV317,,# initial check done  BeSu ErSi,,,,873.0
+5NM6A0,74EBV-28N,Voisins,,,Yaloke,8D0V05E,V0D87E6,BS,,,,,832.0
+0NVB-9E8,TB8U483,Voisins,,,Yaloke,EVD2308,390D6VE,,# initial check done  BeSu ErSi,,2019-12-12,,29.0
+82BUT3,TB60U11,Co-hospitalisation,,Communautaire,Boganda,0D20V7E,71E08DV,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,389.0
+8T1B7U3,B8T141U,Garde malade,,,Yaloke,18V0DE9,D00EV81,,# initial check done  BeSu ErSi,,,,756.0
+T91BU7,6111TUB,Voisins,,,Yaloke,E297V0D,7VD540E,,#  source case VHF not in the  VHF - to be checked,,,,107.0
+BT3U344,3TUB418,Nosocomial,,,Obo,6VE7D03,0ED61V0,BS,#  source case VHF not in the  VHF - to be checked,,,,218.0
+31BUT79,12BTU2,Nosocomial,,,Boganda,8D2VE07,34V3ED0,,,,,,66.0
+3B51TU,2V0-EB2N29,Garde malade,,,Obo,0V344DE,86VD8E0,BS,,,,,78.0
+-B29VE8N,5E4VNB5,,,,Obo,E4DV340,26D90EV,,#  source case VHF not in the  VHF - to be checked,,,,680.0
+A2MN01,T10B4U0,,,,Yaloke,12VDE01,790D4VE,,# initial check done  BeSu ErSi,,,,57.0
+N9V0E-B9,748UT5B,Famille,,Funerailles,Boganda,4089VDE,6V440ED,BS,# initial check done  BeSu ErSi,,,,338.0
+UTB889,U3T4B7,Famille,,,Obo,4VD8E08,23DV8E0,,,,2019-12-12,,37.0
+OM403K,99V-0BE,Garde malade,,Communautaire,Yaloke,D0955VE,8D01EV1,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,452.0
+0A5MN4,BT22U6,Famille,,,Boganda,V9D6E02,V5E7D11,BS,# check correspondance VHF and MLL,,,,15.0
+B32U0T,A3M88N,Amis,,,Boganda,VD6160E,0D7E3V7,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,110.0
+1N6MA30,B89T31U,Garde malade,,Communautaire,Yaloke,6VED890,E0D2V53,,,,,,498.0
+NA0M99,1K1M1O,Voisins,,,Obo,3V40ED1,DE307V2,,# initial check done  BeSu ErSi,,,,162.0
+82BUT3,B26U4T,Garde malade,,Communautaire,Yaloke,2V25ED0,42E1V1D,,# check correspondance VHF and MLL,,,,522.0
+T58B26U,0TU97B,Travail,,Communautaire,Yaloke,V60E0D0,D61E11V,,# initial check done  BeSu ErSi,,2019-12-12,,497.0
+U1B5T3,3BN9E-V0,Voisins,,Funerailles,Yaloke,6EV0D78,E2720VD,BS,# initial check done  BeSu ErSi,,,,885.0
+N-1BE21V,9B5T23U,Voisins,,,Boganda,05V1ED2,D6V60E7,,,,,,288.0
+2B58TU2,1U7TB57,Amis,,,Obo,5E0DV30,ED1V047,,,,,,257.0
+VNBE101-4,T18UB9,Voisins,,Communautaire,Boganda,9VD84E0,EV1084D,BS,# initial check done  BeSu ErSi,,,,213.0
+2B58TU2,BT22U6,Amis,,Communautaire,Obo,05E5D0V,ED1V047,,# initial check done  BeSu ErSi,,2019-12-12,,189.0
+B8T2U6,639UTB4,Nosocomial,,,Yaloke,E24V02D,VDE0131,,#  source case VHF not in the  VHF - to be checked,,,,800.0
+314TU0B,32NE-BV26,Garde malade,,Funerailles,Yaloke,0DE5V75,1DEV094,,,,,,113.0
+UT438B,032UTB,Voisins,,Funerailles,Boganda,V23D07E,D0V8E00,,,,,,700.0
+01NA2M,4T1UB14,Voisins,,Nosocomial,Obo,D1V0E08,E1VD890,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,333.0
+2TU1B31,4B0T8U,Garde malade,,Communautaire,Obo,90DE2V2,6E6V2D2,,# initial check done  BeSu ErSi,,2019-12-12,,11.0
+BU3T52,3BU3T5,Voisins,,Nosocomial,Yaloke,DV042E8,VE8280D,BS,,,,,329.0
+B0UT723,B89T31U,Garde malade,,Communautaire,Obo,9E2VD30,700DE7V,,#  source case VHF not in the  VHF - to be checked,,,,681.0
+VBNE9-64,UB4213T,Garde malade,,,Obo,20V3E0D,D490V1E,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,533.0
+4BTU811,0181TUB,Voisins,,,Yaloke,DV089E8,D6V76E0,BS,#  source case VHF not in the  VHF - to be checked,,,,543.0
+AM00N7,NB-E012V,Garde malade,,,Yaloke,602VED7,D19V0E2,,,,,,39.0
+4T0UB4,NB-E012V,Travail,,,Obo,DEV4780,EV1084D,,# initial check done  BeSu ErSi,,,,2.0
+39UB4T,VB-0N2E1,Co-hospitalisation,,Communautaire,Obo,V0982DE,E70V76D,,# check correspondance VHF and MLL,,,,379.0
+AN2M97,639UTB4,Garde malade,,Communautaire,Obo,ED0693V,2DV127E,BS,# check correspondance VHF and MLL,,,,372.0
+U77B25T,U216BT,Nosocomial,,Communautaire,Boganda,V4E37D0,7D137VE,,# initial check done  BeSu ErSi,,2019-12-12,,536.0
+N14B-E1V,KO903M,Voisins,,Communautaire,Yaloke,9VDE000,E5D073V,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,52.0
+20NV-9BE,U4B93T7,Garde malade,,Funerailles,Obo,87D3E0V,D0V8E00,BS,# initial check done  BeSu ErSi,,2019-12-12,,144.0
+M54OK0,45BU2T9,Garde malade,,Communautaire,Yaloke,V6007DE,1E42V4D,BS,# check correspondance VHF and MLL,,2019-12-12,,386.0
+21NB2VE-,_A908S30M1,Voisins,,,Yaloke,303VE2D,ED1V047,BS,# initial check done  BeSu ErSi,,,,740.0
+T5BU926,244T0UB,Famille,,Funerailles,Obo,3E2DV60,0DE628V,,# check correspondance VHF and MLL,,2019-12-12,,796.0
+1NV9E3-1B,2BU24T0,Co-hospitalisation,,,Yaloke,40V5DE8,0EV885D,BS,# initial check done  BeSu ErSi,,2019-12-12,,152.0
+1EN06V-B,TUB4647,Amis,,,Yaloke,3DV080E,D6V76E0,BS,# initial check done  BeSu ErSi,,2019-12-12,,333.0
+KO570M,5U822TB,Garde malade,,,Boganda,0E5DV52,55D01VE,,,,,,111.0
+BU452T2,4BTU93,Amis,,Communautaire,Obo,207EDV7,DV0902E,,# check correspondance VHF and MLL,,,,38.0
+11A1MN,B2U37T1,Voisins,,Communautaire,Obo,EDV4300,E91DV60,,,,,,905.0
+N501-EBV,5U822TB,Amis,,Funerailles,Obo,E40V50D,0D7E3V7,,# check correspondance VHF and MLL,,,,21.0
+U024B4T,1U46TB,Amis,,Communautaire,Obo,5V0D75E,9D01E1V,,#  source case VHF not in the  VHF - to be checked,,,,373.0
+2B1UT08,N0EV-29B,Voisins,,Communautaire,Boganda,EVD0566,6E8D0V6,,# check correspondance VHF and MLL,,,,807.0
+0B92U1T,36T9UB8,Amis,,,Yaloke,EV11D20,21EVD37,,# initial check done  BeSu ErSi,,,,680.0
+6K1M0O,B02EN6,Voisins,,Communautaire,Boganda,E14V0D8,0DE628V,BS,,,,,579.0
+V23NE0B-7,17TUB34,Amis,,,Obo,E00V58D,D5V10E2,,# initial check done  BeSu ErSi,,,,626.0
+08E-VBN6,9UT6B1,Amis,,,Boguila,V3E90D5,1EV8D93,BS,#  source case VHF not in the  VHF - to be checked,,,,225.0
+9BU916T,9M612AN,Amis,,,Yaloke,1DE0V48,D19V0E2,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,924.0
+U72B3T7,_A908S30M1,Garde malade,,,Obo,9D0V4E2,7V9D20E,,,,,,291.0
+7UT427B,B8610TU,Nosocomial,,,Yaloke,8440DEV,34V3ED0,,,,,,29.0
+255BTU,UB621T1,Voisins,,,Boganda,72D0EV7,1V005ED,,,,2019-12-12,,90.0
+UT21B4,32NE-BV26,Amis,,Funerailles,Boguila,E6D5V04,6802VDE,,,,,,942.0
+U2T49B,B02EN6,Garde malade,,Communautaire,Obo,7E061DV,34V3ED0,,,,2019-12-12,,671.0
+1BTU757,3U4B2T,Garde malade,,,Yaloke,540VED8,0V83DE6,,,,,,769.0
+29UTB81,14UB73T,Amis,,,Obo,07D0V7E,00VED84,,,,,,706.0
+-B18N0EV,4B364UT,Famille,,,Boganda,05DV02E,D5VE071,,,,,,48.0
+UT2296B,U3T4B7,Amis,,,Yaloke,4D1E0V7,6E8D0V6,BS,,,,,152.0
+8T532BU,4T1UB14,Amis,,,Boguila,9V2E0D3,6E8D0V6,,,,,,519.0
+5-5ENB4V,3ANM06,Nosocomial,,Funerailles,Yaloke,V3E90D5,00D53VE,,#  source case VHF not in the  VHF - to be checked,,,,8.0
+B8U78T,748UT5B,,,,Obo,930E0DV,EV501D3,BS,,,,,428.0
+348T1BU,T18UB9,Garde malade,,Funerailles,Obo,E3D00V0,VE8D021,BS,,,,,864.0
+7UT627B,N0E1B-229V,Amis,,Communautaire,Yaloke,D20V30E,40V31DE,,#  source case VHF not in the  VHF - to be checked,,,,476.0
+T918UB8,-N7V3BE1,Travail,,Communautaire,Boganda,EV56D50,21V0E6D,,#  source case VHF not in the  VHF - to be checked,,,,123.0
+UT2296B,U2T425B,Nosocomial,,,Yaloke,E06D0V4,D61E11V,,#  source case VHF not in the  VHF - to be checked,,,,271.0
+6BV5EN0-,UB621T1,,,,Boganda,D4VE606,VE8280D,BS,#  source case VHF not in the  VHF - to be checked,,,,331.0
+3EV20B5-N4,B2U568T,Travail,,Communautaire,Yaloke,D205V7E,7V096ED,BS,# check correspondance VHF and MLL,,2019-12-12,,803.0
+V-BEN,U3T4B7,Amis,,Nosocomial,Obo,0VDE058,E2720VD,BS,# check correspondance VHF and MLL,,,,265.0
+BU6261T,TUB4647,Amis,,,Boganda,8EVD810,786EDV0,,# initial check done  BeSu ErSi,,2019-12-12,,853.0
+TUB659,UT7B83,,,,Obo,4D038VE,786EDV0,BS,#  source case VHF not in the  VHF - to be checked,,,,74.0
+NV3E5-2B,BT918U8,Voisins,,,Boganda,8D802EV,8D01EV1,,# initial check done  BeSu ErSi,,,,564.0
+4U23B2T,TB458U2,Voisins,,,Obo,17VE6D0,E4V7D06,BS,# check correspondance VHF and MLL,,,,916.0
+B066UT,6BU260T,Garde malade,,,Obo,891E0DV,2DV127E,BS,#  source case VHF not in the  VHF - to be checked,,,,453.0
+0N-V7EB2,36T9UB8,Amis,,Funerailles,Yaloke,E0D311V,V068DE0,,# initial check done  BeSu ErSi,,,,41.0
+4U58BT2,KO903M,Garde malade,,Communautaire,Yaloke,6VED890,34V3ED0,,,,2019-12-12,,264.0
+B2T8U5,5U822TB,,,,Obo,VED0804,55D01VE,,,,,,228.0
+2B58TU2,E9N0-0BV,Voisins,,Communautaire,Yaloke,3850VDE,E451V0D,,# initial check done  BeSu ErSi,,,,929.0
+M41A0N,U016T9B,Amis,,,Boganda,0ED9V12,6E6V2D2,,# check correspondance VHF and MLL,,,,314.0
+2B0UT13,BU1017T,Voisins,,,Obo,64DV0E9,V651DE3,,# check correspondance VHF and MLL,,2019-12-12,,72.0
+U261T0B,3BN9E-V0,Travail,,,Obo,4V6D40E,V068DE0,,,,,,942.0
+5UT1B69,N4BE-50V,Nosocomial,,Communautaire,Obo,V1E06D7,22VD05E,BS,#  source case VHF not in the  VHF - to be checked,,,,375.0
+VNE5-4B9,T7B52U5,Amis,,Funerailles,Obo,8V0D25E,E23D9V1,BS,,,,,504.0
+6T61B4U,52VN1-EB,Amis,,,Obo,4V5D3E0,2VDE280,,#  source case VHF not in the  VHF - to be checked,,,,264.0
+E2N-0V4B,M0K0O4,Garde malade,,,Boganda,EV607D1,0ED61V0,,# check correspondance VHF and MLL,,,,299.0
+10BU36T,3O6MK0,Nosocomial,,Nosocomial,Boganda,9V2E0D3,17EV6D0,,# initial check done  BeSu ErSi,,,,190.0
+3EV7N0-B,KO903M,,,Communautaire,Obo,V0ED833,VD0E404,,#  source case VHF not in the  VHF - to be checked,,,,156.0
+713BU2T,VB-0N2E1,Garde malade,,Communautaire,Obo,040D3EV,VDE4560,,# check correspondance VHF and MLL,,,,674.0
+8T58BU,3BN9E-V0,Co-hospitalisation,,Communautaire,Boganda,D28VE20,V068DE0,,#  source case VHF not in the  VHF - to be checked,,,,356.0
+1NA83M,NB-E012V,Voisins,,Nosocomial,Boganda,00DE4V0,005D4VE,BS,,,2019-12-12,,51.0
+TU61B49,B7U1T7,Nosocomial,,Communautaire,Boganda,D70V7E4,D19V0E2,,,,,,710.0
+4U09B1T,6111TUB,Garde malade,,,Obo,0ED9V12,7V9D20E,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,808.0
+T4UB37,UT7B83,Voisins,,Communautaire,Boguila,3095DEV,1EV8D93,,# initial check done  BeSu ErSi,,2019-12-12,,356.0
+N1MA21,B02EN6,Amis,,Communautaire,Boganda,VE06D80,D0V8E00,,,,,,19.0
+08E-VBN6,748UT5B,Voisins,,Funerailles,Boguila,V510DE0,D21E1V8,,#  source case VHF not in the  VHF - to be checked,,,,691.0
+U1B5T3,99V-0BE,Voisins,,Communautaire,Yaloke,D7990VE,V651DE3,,# initial check done  BeSu ErSi,,,,
+408N1MA,B7U1T7,Voisins,,Funerailles,Yaloke,E0V208D,D06V8E4,,,,,,480.0
+A1M20N,U9BT56,Famille,,,Yaloke,E0812DV,9V21E3D,,# check correspondance VHF and MLL,,2019-12-12,,768.0
+B4UT23,B02EN6,Amis,,,Boganda,V1ED402,ED1V047,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,333.0
+79B2TU0,UB4564T,Voisins,,Funerailles,Boganda,V50D71E,1V005ED,BS,,,,,580.0
+U04B6T,AN892M3,Amis,,Funerailles,Yaloke,1DV050E,3E7D06V,,#  source case VHF not in the  VHF - to be checked,,,,415.0
+AN19M7,3UT25B,Amis,,,Yaloke,34VDE08,1V10E6D,,,,2019-12-12,,937.0
+7BN-0VE5,4345UTB,Amis,,Communautaire,Yaloke,5VED082,1V10E6D,BS,#  source case VHF not in the  VHF - to be checked,,,,425.0
+144BTU,3T15BU,Amis,,,Obo,DV04E50,21V0E6D,,# check correspondance VHF and MLL,,,,873.0
+U73T1B3,U4B93T7,Travail,,Communautaire,Boguila,62EV50D,1V1D8E6,,# check correspondance VHF and MLL,,,,934.0
+UB17T05,10B1TU2,Famille,,,Obo,410E3DV,6V830ED,,# check correspondance VHF and MLL,,,,491.0
+-NE1B0V47,1T48U6B,Garde malade,,Funerailles,Yaloke,5E0DV07,1DEV094,,# initial check done  BeSu ErSi,,,,87.0
+V5N1EB-6,0U39TB7,Voisins,,Communautaire,Boganda,4VED780,033VD2E,BS,#  source case VHF not in the  VHF - to be checked,,,,711.0
+-BVE117N,T18UB9,Travail,,Communautaire,Yaloke,53E50DV,ED8740V,,# check correspondance VHF and MLL,,,,772.0
+BT1U19,52VN1-EB,,,Funerailles,Boganda,4VD8E08,VD0E404,BS,# initial check done  BeSu ErSi,,2019-12-12,,497.0
+B5T60U1,99V-0BE,Amis,,Communautaire,Yaloke,5E4D0V0,6DV018E,,#  source case VHF not in the  VHF - to be checked,,,,655.0
+B4TU90,U1B1T21,Garde malade,,Funerailles,Obo,021VED9,0EV885D,,# initial check done  BeSu ErSi,,,,786.0
+144BTU,3UT25B,,,,Boganda,3V50ED0,V200ED0,,#  source case VHF not in the  VHF - to be checked,,,,724.0
+98UBT9,UB4213T,Voisins,,Funerailles,Boganda,DV089E8,E2720VD,BS,# initial check done  BeSu ErSi,,,,239.0
+74N1MA,16B94UT,Garde malade,,Funerailles,Yaloke,7V07D1E,D00EV81,BS,# check correspondance VHF and MLL,,,,844.0
+B230-N8VE,98ANM5,Voisins,,Communautaire,Boganda,V30D09E,D00EV81,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,199.0
+UT873B,0181TUB,Voisins,,,Yaloke,E0D965V,7V096ED,,# check correspondance VHF and MLL,,,,917.0
+13MNA6,3E15N9BV3-,Amis,,,Yaloke,DV3730E,DV13E42,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,138.0
+11MA9N,6TB306U,Garde malade,,Communautaire,Obo,V0553DE,D0V8E00,BS,#  source case VHF not in the  VHF - to be checked,,,,390.0
+21MNA1,3U4B2T,Voisins,,Communautaire,Boganda,0E671DV,7V9D20E,,# check correspondance VHF and MLL,,,,322.0
+92B6TU,12BTU2,Amis,,,Boganda,0DE5V75,1ED0V70,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,782.0
+NA0M99,32NE-BV26,Amis,,Communautaire,Yaloke,307ED5V,V8D0E30,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,303.0
+6T2BU3,1K1M1O,Garde malade,,,Boganda,D7VE060,34V3ED0,,,,,,683.0
+A41NM4,B8610TU,Travail,,Communautaire,Yaloke,D6E06V6,700DE7V,,# initial check done  BeSu ErSi,,,,84.0
+03OMK6,3UT25B,Amis,,Communautaire,Obo,EDV2005,06E71DV,,#  source case VHF not in the  VHF - to be checked,,,,485.0
+B43UT7,3ANM06,,,Communautaire,Yaloke,V08ED28,6D0E7V4,,# initial check done  BeSu ErSi,,,,35.0
+B066UT,T116B4U,Voisins,,,Obo,2VE706D,D19V0E2,,#  source case VHF not in the  VHF - to be checked,,,,292.0
+T1U1B20,,Garde malade,,,Yaloke,17VE6D0,0D7E3V7,BS,,,,,760.0
+V23NE0B-7,B2U37T1,Voisins,,Communautaire,Yaloke,506VDE0,3E7D06V,BS,#  source case VHF not in the  VHF - to be checked,,,,805.0
+1T43BU1,4BTU93,Nosocomial,,,Boganda,6E3VD07,00VED84,BS,#  source case VHF not in the  VHF - to be checked,,,,367.0
+5UBT62,6111TUB,Garde malade,,,Obo,D5V50E2,DV0748E,,# initial check done  BeSu ErSi,,,,223.0
+UB548T,4BTU93,Nosocomial,,,Yaloke,09V2E0D,D013VE9,BS,# initial check done  BeSu ErSi,,2019-12-12,,382.0
+7BVN9-8E2,BU1017T,Garde malade,,Communautaire,Obo,2630DVE,3E7D0V6,,,,,,887.0
+V-BN714E,3U0TB18,Voisins,,,Yaloke,VED0804,6V440ED,BS,#  source case VHF not in the  VHF - to be checked,,,,231.0
+6B04VNE,2TU05B,Voisins,,Communautaire,Boguila,EV0D020,17EV6D0,,,,,,614.0
+E15VB18-N,-02B7V2N6E,Voisins,,Nosocomial,Yaloke,D8E0V63,40V31DE,BS,# check correspondance VHF and MLL,,2019-12-12,,323.0
+4-VB93NE,B2U37T1,Voisins,,Communautaire,Boganda,3730VED,1V1D8E6,,# check correspondance VHF and MLL,,,,373.0
+9BN8E8-V1,B8610TU,Amis,,Funerailles,Boganda,6D0VE72,9DVE161,,#  source case VHF not in the  VHF - to be checked,,,,469.0
+U4B4T43,OMK050,,,Communautaire,Boganda,E0D0V19,VDE0131,,,,,,704.0
+1T6U79B,88-BEVN0,Garde malade,,,Yaloke,EV3D607,19V7DE1,,#  source case VHF not in the  VHF - to be checked,,,,25.0
+9TU0B8,3UT25B,Garde malade,,Communautaire,Boganda,E00V57D,8V015DE,,,,,,266.0
+UB13T0,VN-7B60E,Garde malade,,Funerailles,Obo,V62E0D6,0V83DE6,BS,# initial check done  BeSu ErSi,,,,503.0
+U5B245T,5E4VNB5,Amis,,Communautaire,Obo,E4DV340,EV9705D,,# check correspondance VHF and MLL,,,,404.0
+B1T10U0,9B5T23U,Famille,,,Yaloke,0V1E04D,033VD2E,,#  source case VHF not in the  VHF - to be checked,,,,465.0
+4T0UB4,N0EV-29B,Garde malade,,Communautaire,Boganda,303VE2D,VD1628E,,,,2019-12-12,,111.0
+T59UB7,7U9TB37,Nosocomial,,,Yaloke,D31E03V,E009VD8,,,,,,722.0
+92BT6U0,BT22U6,Garde malade,,,Boganda,E70V4D9,40V31DE,BS,,,2019-12-12,,6.0
+B0681TU,M35OK0,Nosocomial,,Communautaire,Yaloke,6V069DE,D90EV73,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,584.0
+B15NV22E-,5E4VNB5,,,Funerailles,Yaloke,V510DE0,E5D073V,BS,,,,,170.0
+2T5B13U,218TBU,Voisins,,Funerailles,Obo,V32D08E,ED1V047,,,,,,573.0
+B8T7U11,A_9000M16S,Garde malade,,Funerailles,Yaloke,01VD09E,2DV127E,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,198.0
+60NMA3,0M4OK8,Voisins,,Funerailles,Yaloke,08DVE26,E95D04V,BS,,,,,662.0
+2E06N-B78V,BT918U8,Voisins,,Funerailles,Obo,7E4D05V,7DV40E0,,# check correspondance VHF and MLL,,2019-12-12,,106.0
+4B571UT,N63M8A,Voisins,,,Yaloke,70E0V2D,E90D78V,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,399.0
+_9100MA90S,T10B4U0,,,Communautaire,Boganda,0E8D0V1,D8V0E71,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,576.0
+V-N19BE8,1U46TB,Co-hospitalisation,,,Obo,0VD15E6,9D10EV0,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,923.0
+UT757B,B89T31U,Famille,,,Obo,1057DVE,D8V0E71,,,,,,56.0
+6NM1A5,1K1M1O,Voisins,,Nosocomial,Yaloke,V4E37D0,ED621V4,BS,# initial check done  BeSu ErSi,,,,620.0
+U4B2T5,16B94UT,Voisins,,Communautaire,Obo,EVD0863,D0E72V1,,#  source case VHF not in the  VHF - to be checked,,,,683.0
+82BUT3,16B94UT,Voisins,,,Boguila,350E4DV,V0D87E6,,#  source case VHF not in the  VHF - to be checked,,,,687.0
+6TUB041,32NE-BV26,Garde malade,,Communautaire,Yaloke,E009V9D,ED8740V,BS,# check correspondance VHF and MLL,,,,298.0
+M0A1N0,45BU2T9,Voisins,,,Yaloke,602VED7,06E71DV,BS,,,,,74.0
+91MA0N,32NE-BV26,Travail,,Funerailles,Yaloke,2V00E6D,22VD05E,BS,#  source case VHF not in the  VHF - to be checked,,,,657.0
+B6U9T21,747UBT0,Amis,,Communautaire,Obo,9D50EV1,55D01VE,BS,# initial check done  BeSu ErSi,,,,561.0
+4-BEN43V,0U39TB7,Amis,,,Yaloke,D7E89V0,3E7D06V,,,,,,803.0
+-0VBN0E1,1U46TB,Amis,,,Boganda,E91DV01,VE8D021,,#  source case VHF not in the  VHF - to be checked,,,,727.0
+U024B4T,3M0OK7,,,,Boganda,540VED8,42E1V1D,,#  source case VHF not in the  VHF - to be checked,,,,275.0
+T58B26U,B8T141U,Amis,,Communautaire,Obo,EV03D56,D8V0E71,BS,#  source case VHF not in the  VHF - to be checked,,,,811.0
+NA0M99,U09B14T,Famille,,Funerailles,Yaloke,9D0V4E2,3DE083V,,#  source case VHF not in the  VHF - to be checked,,,,554.0
+B5UT23,UB4564T,Amis,,Communautaire,Yaloke,8DEV041,V0ED164,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,242.0
+255BTU,6TB306U,Amis,,Funerailles,Yaloke,DV3480E,86VD8E0,BS,# initial check done  BeSu ErSi,,,,702.0
+6T61B4U,748UT5B,,,Funerailles,Yaloke,99DVE00,0D2EV38,,,,,,930.0
+78T0BU,5E4VNB5,Garde malade,,,Yaloke,DVE3130,0DE628V,,#  source case VHF not in the  VHF - to be checked,,,,782.0
+E-83V6NB,2E7N0V81B,Garde malade,,Communautaire,Obo,E07V11D,9D10EV0,BS,,,,,40.0
+M4N31A,-02B7V2N6E,Voisins,,Nosocomial,Yaloke,V60E0D0,7V096ED,,# initial check done  BeSu ErSi,,,,863.0
+6U4T4B,T116B4U,Garde malade,,Communautaire,Yaloke,3V6ED30,VD38E07,BS,,,2019-12-12,,264.0
+1SA0_90M72,NB-E012V,Amis,,,Yaloke,E5D016V,21EVD37,,# initial check done  BeSu ErSi,,2019-12-12,,795.0
+148UT4B,8U46TB,Voisins,,Funerailles,Obo,4VD8E08,D23V1E3,,# check correspondance VHF and MLL,,,,767.0
+92B6TU,3E15N9BV3-,Co-hospitalisation,,,Boganda,V0941ED,0D7E3V7,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,17.0
+N81M0A,N4BE-50V,Amis,,,Yaloke,0E8D0V1,34V3ED0,,# check correspondance VHF and MLL,,2019-12-12,,745.0
+U885BT,U1B1T21,Famille,,,Yaloke,5E6V7D0,D0E72V1,,# initial check done  BeSu ErSi,,2019-12-12,,671.0
+77TBU40,0TU97B,Voisins,,Communautaire,Obo,50E2V3D,10V08DE,,,,2019-12-12,,708.0
+06T6BU1,0M4OK8,Voisins,,Communautaire,Obo,3E0D3V5,8D01EV1,,#  source case VHF not in the  VHF - to be checked,,,,5.0
+TUB7632,M0K0O4,Amis,,,Obo,0E565VD,033VD2E,BS,,,,,936.0
+M1NA81,3T15BU,Voisins,,,Yaloke,VE30D90,238V1DE,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,582.0
+U024B4T,TUB4647,Nosocomial,,,Boganda,7ED0V13,EV40D82,BS,#  source case VHF not in the  VHF - to be checked,,,,186.0
+B1751TU,3ANM06,Garde malade,,,Obo,0DE0V05,E5D073V,BS,#  source case VHF not in the  VHF - to be checked,,,,927.0
+U8B00T1,2V0-EB2N29,Famille,,,Yaloke,2VE706D,VED4906,,,,,,379.0
+B32U0T,M0K0O4,Amis,,Communautaire,Boguila,75D0EV5,1D4V10E,BS,,,,,466.0
+6NMA33,6TB306U,Voisins,,Communautaire,Yaloke,207EDV7,E451V0D,,# check correspondance VHF and MLL,,2019-12-12,,440.0
+1KMO12,N4BE-50V,Garde malade,,,Boganda,1VE05D9,85DE04V,,,,2019-12-12,,632.0
+BTU5116,_A908S30M1,Voisins,,Nosocomial,Boguila,0V1E04D,V068DE0,BS,# initial check done  BeSu ErSi,,,,797.0
+6NVE23B2-,3M0OK7,Famille,,,Yaloke,E98DV07,6D0E7V4,,# check correspondance VHF and MLL,,,,525.0
+42BT7U,3TUB418,Amis,,Communautaire,Obo,D0955VE,E95D04V,,#  source case VHF not in the  VHF - to be checked,,,,488.0
+29TU75B,BT3U013,Amis,,,Obo,E3V303D,V5E7D11,,,,,,34.0
+3823BUT,3M0OK7,Famille,,Communautaire,Yaloke,E6DV190,786EDV0,,,,,,767.0
+A6NM11,T10B4U0,Famille,,Communautaire,Boganda,EV4082D,00D53VE,,,,,,887.0
+MA069N,TB60U34,Garde malade,,Funerailles,Yaloke,DV04E50,E4V7D06,,,,,,580.0
+N16A3M,3U4B2T,Garde malade,,,Obo,4075DVE,06E71DV,BS,#  source case VHF not in the  VHF - to be checked,,,,520.0
+B09UT9,00VBE28N6-,Amis,,Communautaire,Boguila,8E031VD,033VD2E,,# check correspondance VHF and MLL,,,,914.0
+TU61B49,T18UB9,Nosocomial,,,Obo,03VD7E0,V3D5E20,BS,# check correspondance VHF and MLL,,,,147.0
+BU452T2,32NE-BV26,Voisins,,,Yaloke,08V83ED,D8V0E71,,#  source case VHF not in the  VHF - to be checked,,,,44.0
+2B0UT13,3M0OK7,Co-hospitalisation,,,Yaloke,E5V49D0,0V83DE6,BS,#  source case VHF not in the  VHF - to be checked,,,,2.0
+U9T179B,0M4OK8,Voisins,,Communautaire,Boguila,06E7V4D,3E7D0V6,BS,# initial check done  BeSu ErSi,,,,537.0
+OM403K,U1B1T21,,,Communautaire,Yaloke,170DVE3,390D6VE,,,,,,446.0
+2B27VN-E,74EBV-28N,Garde malade,,,Yaloke,4D6V05E,1E30VD6,,# check correspondance VHF and MLL,,,,485.0
+B2139UT,2E7N0V81B,Nosocomial,,,Obo,144DVE0,005D4VE,,# check correspondance VHF and MLL,,2019-12-12,,203.0
+92BTU11,BU1017T,Voisins,,Funerailles,Boganda,95E60DV,D8V0E71,,# initial check done  BeSu ErSi,,,,611.0
+-B18N0EV,1T48U6B,Amis,,Communautaire,Obo,1E0D61V,8V62E1D,,# check correspondance VHF and MLL,,,,877.0
+30TUB31,1U16TB1,Amis,,Communautaire,Obo,3730VED,EV501D3,BS,# check correspondance VHF and MLL,,,,828.0
+M51A5N,B26U4T,,,Nosocomial,Boganda,7E061DV,D21E1V8,,,,,,708.0
+N-1BE21V,UB4564T,Voisins,,Funerailles,Yaloke,V0670DE,002EV2D,,# check correspondance VHF and MLL,,2019-12-12,,811.0
+56VE2-BN,TB11U87,Garde malade,,Funerailles,Obo,V41E01D,10V08DE,BS,,,2019-12-12,,287.0
+B09UT9,3E15N9BV3-,Nosocomial,,Communautaire,Yaloke,E00D2V6,0DE628V,BS,# initial check done  BeSu ErSi,,2019-12-12,,839.0
+V1B71-EN,639UTB4,Nosocomial,,,Yaloke,0E8D3V0,V5E7D11,BS,,,2019-12-12,,769.0
+MN44A0,5BU25T,Voisins,,,Obo,DV1E043,D6V60E7,BS,#  source case VHF not in the  VHF - to be checked,,,,225.0
+U720BT1,3M0OK7,Famille,,Funerailles,Obo,8E9DV80,2VDE280,BS,,,,,533.0
+2-81BEVN,6TB306U,Travail,,,Yaloke,DV042E8,00VED84,,# initial check done  BeSu ErSi,,,,396.0
+1T3UB5,2BU24T0,,,,Yaloke,V09D0E1,6802VDE,BS,#  source case VHF not in the  VHF - to be checked,,,,363.0
+B2T8U5,T8U99B,Nosocomial,,Communautaire,Yaloke,9V2E0D3,EV1084D,,,,,,626.0
+4U23B2T,T8U99B,Amis,,Communautaire,Boganda,ED2V071,D107EV1,,# initial check done  BeSu ErSi,,2019-12-12,,862.0
+1T4B4U9,4B0T8U,,,Communautaire,Obo,ED8V370,D013VE9,,#  source case VHF not in the  VHF - to be checked,,,,611.0
+T5U38B,2BU24T0,Garde malade,,Communautaire,Boguila,0E8D0V1,71E08DV,,#  source case VHF not in the  VHF - to be checked,,,,594.0
+8BNVE12-,A3M88N,Garde malade,,Communautaire,Boganda,D73E7V0,V69E0D6,,#  source case VHF not in the  VHF - to be checked,,,,591.0
+011_AS01M9,0U39TB7,,,Communautaire,Obo,V7E780D,,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,471.0
+N2B9V-3E,T18UB9,Amis,,Communautaire,Boganda,E5V49D0,0DE628V,BS,,,,,391.0
+11BU62T,VN-7B60E,,,Nosocomial,Yaloke,DV760E6,E5D073V,BS,# initial check done  BeSu ErSi,,,,40.0
+U4B4T43,BT3U013,Voisins,,Communautaire,Boganda,4VED780,002EV2D,BS,#  source case VHF not in the  VHF - to be checked,,,,885.0
+VE34NB0-,-E2VNB90,Voisins,,Nosocomial,Obo,74VD5E0,0DE628V,BS,,,,,393.0
+V2NB-880E,0N-18BEV,Voisins,,,Obo,D6VE100,7VD540E,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,325.0
+4B60TU,36T89BU,Amis,,,Obo,706EDV7,V5E7D11,,# initial check done  BeSu ErSi,,,,718.0
+79E-NB9V,10B1TU2,,,,Yaloke,4VD8E08,V8D0E30,BS,#  source case VHF not in the  VHF - to be checked,,,,645.0
+2TU1B31,3UT25B,Garde malade,,,Yaloke,ED1V903,0D3VE63,BS,#  source case VHF not in the  VHF - to be checked,,,,83.0
+U55B9T,B2U37T1,Amis,,,Yaloke,6V3D10E,7D137VE,,#  source case VHF not in the  VHF - to be checked,,,,649.0
+0U03TB,16B94UT,Voisins,,,Boguila,DV4903E,17EV6D0,BS,,,2019-12-12,,55.0
+T7UB17,69U8TB1,Amis,,Funerailles,Boganda,V06DE47,9D10EV0,,,,,,668.0
+B8U78T,0U39TB7,Voisins,,Nosocomial,Obo,9ED03V3,9V21E3D,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,585.0
+B4TU90,U6B0T4,Nosocomial,,Communautaire,Boganda,4075DVE,EV40D82,,#  source case VHF not in the  VHF - to be checked,,,,828.0
+M4N6A1,3UT25B,Amis,,Funerailles,Obo,V28E1D0,E0V4D64,,# check correspondance VHF and MLL,,,,44.0
+B43UT7,N63M8A,Voisins,,,Boganda,53V0DE3,V8D0E30,BS,# initial check done  BeSu ErSi,,,,532.0
+T21B8U,T5U729B,Voisins,,Communautaire,Yaloke,V530E0D,7DV40E0,BS,#  source case VHF not in the  VHF - to be checked,,,,336.0
+T91BU7,B1UT40,Voisins,,Funerailles,Boganda,V870E9D,E009VD8,BS,# check correspondance VHF and MLL,,,,720.0
+NEBV11-19,3UT25B,Famille,,Communautaire,Yaloke,EVD0863,D06V8E4,BS,#  source case VHF not in the  VHF - to be checked,,,,11.0
+-1VEB8N4,B2U568T,Voisins,,Communautaire,Yaloke,V0D0E23,786EDV0,BS,# check correspondance VHF and MLL,,,,236.0
+0TU5B3,6111TUB,Amis,,,Boganda,0EDV034,42E06DV,,# check correspondance VHF and MLL,,,,
+E2-6V6N1B,8U46TB,Garde malade,,Funerailles,Yaloke,1V98E0D,E451V0D,,,,,,772.0
+U8B1T21,B2V16EN-,Amis,,,Boganda,506VDE0,V200ED0,,#  source case VHF not in the  VHF - to be checked,,,,360.0
+41B4U4T,3TUB418,Famille,,Communautaire,Obo,9VDE000,005D4VE,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,155.0
+0TBU81,U09B14T,Amis,,Funerailles,Obo,E840DV0,E5D073V,,#  source case VHF not in the  VHF - to be checked,,,,643.0
+VENB348-,NB-E012V,Famille,,,Boganda,V09D0E1,3DE083V,,# check correspondance VHF and MLL,,,,516.0
+M54OK0,12BTU2,Garde malade,,,Yaloke,1V10D8E,E451V0D,BS,#  source case VHF not in the  VHF - to be checked,,,,706.0
+VE34NB0-,3E15N9BV3-,,,,Obo,DVE0408,E009VD8,,# initial check done  BeSu ErSi,,,,646.0
+17M7KO,639UTB4,Garde malade,,Nosocomial,Obo,V10D11E,D61E11V,BS,#  source case VHF not in the  VHF - to be checked,,,,9.0
+2B04T6U,VE0-98NB,Voisins,,Nosocomial,Obo,DV0E857,E23D9V1,BS,,,,,315.0
+26TU0B3,52VN1-EB,,,,Yaloke,3DV080E,EV9705D,BS,,,,,314.0
+602-V3BEN,BUT7105,Amis,,Communautaire,Yaloke,E8D830V,1V005ED,,#  source case VHF not in the  VHF - to be checked,,,,560.0
+1T5B69U,U640TB,Amis,,,Obo,2V25ED0,D19V0E2,,,,,,755.0
+10MA6N,72B1UT,Voisins,,Communautaire,Yaloke,6804EVD,E60V87D,,,,2019-12-12,,829.0
+4U1TB07,5E4VNB5,Garde malade,,Funerailles,Obo,VE06D80,D21E1V8,,# check correspondance VHF and MLL,,,,55.0
+TBU0591,0N0VBE-5,,,Funerailles,Boganda,VD790E5,E103V9D,,,,2019-12-12,,926.0
+NE-B15V1,TUB4647,Famille,,,Boganda,410E3DV,0ED61V0,BS,#  source case VHF not in the  VHF - to be checked,,,,22.0
+AM174N0,-VN800BE,Garde malade,,Funerailles,Yaloke,D0910EV,D6V60E7,BS,#  source case VHF not in the  VHF - to be checked,,,,821.0
+1T3UB5,651BUT9,Voisins,,Funerailles,Yaloke,06D09VE,6V830ED,BS,#  source case VHF not in the  VHF - to be checked,,,,680.0
+0324UTB,UB4564T,Amis,,Communautaire,Obo,VD7640E,E451V0D,,#  source case VHF not in the  VHF - to be checked,,,,137.0
+B641UT,0M4OK8,Travail,,Funerailles,Yaloke,DE80V78,D0E61V1,,# initial check done  BeSu ErSi,,2019-12-12,,527.0
+1N-E26BV,UB4564T,,,Communautaire,Yaloke,005E1VD,D6V76E0,BS,# check correspondance VHF and MLL,,,,9.0
+AM20N2,4B364UT,Garde malade,,,Obo,50VD2E6,9V21E3D,,,,2019-12-12,,151.0
+UB99T1,0181TUB,Amis,,Communautaire,Obo,605DEV7,VE8D021,,# initial check done  BeSu ErSi,,,,367.0
+1SA0_90M72,NB-E012V,,,,Yaloke,6VD063E,V5E7D11,BS,# check correspondance VHF and MLL,,,,130.0
+-6NVB6E5,-VN800BE,,,Communautaire,Obo,D09EV45,790D4VE,BS,#  source case VHF not in the  VHF - to be checked,,,,
+92B6TU,B8610TU,Garde malade,,,Yaloke,E4205VD,E91DV60,BS,,,,,502.0
+04UBT1,748UT5B,Amis,,Funerailles,Yaloke,D0E018V,34V3ED0,,#  source case VHF not in the  VHF - to be checked,,,,627.0
+B84TU1,T10B4U0,Amis,,Nosocomial,Boganda,VED0804,1V1D8E6,BS,,,,,314.0
+1EBN-21V,B2V16EN-,Famille,,Funerailles,Yaloke,V10D11E,VD1035E,,# check correspondance VHF and MLL,,,,451.0
+04UBT1,U216BT,Amis,,Nosocomial,Obo,V2D09E0,E103V9D,,#  source case VHF not in the  VHF - to be checked,,,,808.0
+E09NB5-V,U1B1T21,Amis,,Funerailles,Yaloke,80E0DV5,D23V1E3,,# initial check done  BeSu ErSi,,2019-12-12,,735.0
+EB-0V0N6,14UB73T,Amis,,Nosocomial,Obo,3EV04D8,VD38E07,,#  source case VHF not in the  VHF - to be checked,,,,49.0
+T1U1B20,651BUT9,Garde malade,,,Obo,D4048VE,V3D5E20,,# check correspondance VHF and MLL,,,,98.0
+5T2B56U,4B0T8U,Amis,,Communautaire,Boganda,5E0DV30,00VED84,,# check correspondance VHF and MLL,,,,496.0
+M4A31N,U9BT56,Famille,,Funerailles,Obo,V3E93D0,6E660VD,BS,# initial check done  BeSu ErSi,,,,336.0
+3B4UT10,TB11U87,Voisins,,,Boganda,E04V2D3,0ED61V0,BS,#  source case VHF not in the  VHF - to be checked,,,,732.0
+18VB-N3E8,00VBE28N6-,Famille,,Communautaire,Obo,V0982DE,71E08DV,,# initial check done  BeSu ErSi,,,,306.0
+MO13K4,0B14NEV-,,,,Yaloke,E70V4D9,E70V76D,,# initial check done  BeSu ErSi,,,,24.0
+UB13T0,1T48U6B,Co-hospitalisation,,,Obo,V6D80E6,E91DV60,,# initial check done  BeSu ErSi,,,,635.0
+04UBT1,4B0T8U,Nosocomial,,Communautaire,Boganda,DV40E00,7V9D20E,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,612.0
+1EBN-21V,TB11U87,,,Nosocomial,Obo,8EVD810,,,# check correspondance VHF and MLL,,2019-12-12,,704.0
+VNE5-4B9,U45T3B,Travail,,Communautaire,Boganda,95E60DV,3E7D06V,,# initial check done  BeSu ErSi,,2019-12-12,,430.0
+6T2BU3,218TBU,Garde malade,,,Boganda,E00V57D,D19V0E2,,# initial check done  BeSu ErSi,,2019-12-12,,231.0
+32U7TB1,3UT25B,Garde malade,,Communautaire,Obo,2V00E6D,86VD8E0,,# check correspondance VHF and MLL,,2019-12-12,,615.0
+BU452T2,B2U568T,Garde malade,,Communautaire,Obo,2D08V6E,238V1DE,,#  source case VHF not in the  VHF - to be checked,,,,598.0
+877TBU,16B94UT,Co-hospitalisation,,,Boganda,VED6500,E70V76D,BS,# initial check done  BeSu ErSi,,,,444.0
+T211UB4,803U8TB,Amis,,,Yaloke,9V0DE71,D19V0E2,,,,,,372.0
+-B410ENV,00VBE28N6-,Co-hospitalisation,,Communautaire,Yaloke,EV607D1,790D4VE,,# initial check done  BeSu ErSi,,2019-12-12,,88.0
+7-41NBEV,1U46TB,Voisins,,Funerailles,Boganda,V8DE808,6V440ED,,#  source case VHF not in the  VHF - to be checked,,,,428.0
+T4U9B9,-02B7V2N6E,,,Funerailles,Obo,7DVE140,V69E0D6,,# initial check done  BeSu ErSi,,2019-12-12,,863.0
+76UB0T,UB4213T,Amis,,Communautaire,Boganda,51V10ED,D00EV81,,# initial check done  BeSu ErSi,,,,667.0
+AMN904,NB-E012V,Amis,,Funerailles,Yaloke,VD0101E,1E42V4D,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,91.0
+71T3U0B,N63M8A,Famille,,,Obo,980D3EV,9V21E3D,,# initial check done  BeSu ErSi,,,,704.0
+7UBT90,3O6MK0,Voisins,,,Boganda,E0D311V,7D09VE6,,# initial check done  BeSu ErSi,,,,204.0
+VN33EB2-,UT7B83,Amis,,Nosocomial,Boganda,4DVE707,D0V8E00,,,,2019-12-12,,814.0
+77TBU40,TB11U87,Garde malade,,,Obo,D4048VE,1EV8D93,,# check correspondance VHF and MLL,,,,241.0
+82NV7-BE,32NE-BV26,Voisins,,Nosocomial,Boganda,9E2VD30,6E01VD5,BS,#  source case VHF not in the  VHF - to be checked,,,,639.0
+U0T83B,T4U240B,Amis,,Funerailles,Yaloke,DE6V270,60EV09D,,,,,,431.0
+1ANM17,TB1126U,Voisins,,Funerailles,Obo,3D64VE0,E95D04V,,# initial check done  BeSu ErSi,,,,838.0
+T91BU7,4B0T8U,Nosocomial,,Funerailles,Obo,1DVE060,7V9D20E,BS,# initial check done  BeSu ErSi,,2019-12-12,,562.0
+E2N-0V4B,VN-7B60E,Amis,,,Obo,V7008ED,VE8280D,BS,#  source case VHF not in the  VHF - to be checked,,,,213.0
+4U58BT2,52VN1-EB,Voisins,,Nosocomial,Yaloke,VD6160E,3EV67D0,BS,#  source case VHF not in the  VHF - to be checked,,,,169.0
+M4N6A1,B-VNE514,,,Communautaire,Obo,0V72E4D,67EDV32,BS,# initial check done  BeSu ErSi,,,,654.0
+E-6V9BN0,N0EV-29B,Voisins,,,Obo,9ED03V3,D6V76E0,,# initial check done  BeSu ErSi,,,,823.0
+8T532BU,-VN800BE,Amis,,Communautaire,Obo,V074D0E,E4V7D06,BS,# check correspondance VHF and MLL,,,,660.0
+52BT2U,T116B4U,Voisins,,Communautaire,Obo,EV8D000,3E7D06V,BS,,,,,98.0
+0UTB37,B89T31U,Famille,,Communautaire,Obo,V78D06E,6802VDE,,# check correspondance VHF and MLL,,2019-12-12,,320.0
+N5-21VBE,6BU260T,Famille,,,Yaloke,V50D71E,1V1D8E6,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,624.0
+N48MA0,2BU24T0,Amis,,,Yaloke,20VD3E3,8D01EV1,BS,#  source case VHF not in the  VHF - to be checked,,,,719.0
+4BT66U,32NE-BV26,,,,Obo,DV0E857,42E06DV,BS,# initial check done  BeSu ErSi,,,,35.0
+8B6TU4,TB60U11,Voisins,,Communautaire,Boganda,DEV4780,9V21E3D,,# initial check done  BeSu ErSi,,,,864.0
+NM7A16,4BTU93,Nosocomial,,,Obo,6VD8E08,40V31DE,BS,#  source case VHF not in the  VHF - to be checked,,,,343.0
+V2BE-N98,0181TUB,Voisins,,,Obo,D0955VE,E0V4D64,BS,# initial check done  BeSu ErSi,,,,126.0
+0N-V7EB2,12BTU2,Voisins,,Communautaire,Yaloke,90V2D4E,40V31DE,BS,# check correspondance VHF and MLL,,,,766.0
+13TU14B,10N5VE-B,,,Funerailles,Boganda,730V1ED,V068DE0,,,,,,730.0
+7N22B-VE,0M4OK8,Garde malade,,,Boguila,12VD40E,7D137VE,,#  source case VHF not in the  VHF - to be checked,,,,553.0
+2995BUT,4BTU93,Voisins,,Communautaire,Yaloke,6VD063E,D6V76E0,,# initial check done  BeSu ErSi,,,,404.0
+92BTU11,0V9N8-BE,Amis,,,Obo,VE0D453,D490V1E,,#  source case VHF not in the  VHF - to be checked,,,,583.0
+V-5BN0E9,5BU25T,,,Communautaire,Yaloke,0V1E04D,E5D073V,BS,,,,,102.0
+M0A1N0,U640TB,Voisins,,Funerailles,Obo,0D301VE,1E30VD6,BS,,,,,73.0
+42BT7U,7UBT43,Amis,,Funerailles,Obo,E0V994D,D21E1V8,,,,2019-12-12,,12.0
+4TB6U8,52VN1-EB,Amis,,,Boganda,35ED40V,1V6ED50,,,,2019-12-12,,693.0
+NM540A,U216BT,Nosocomial,,Funerailles,Obo,256VDE0,40V31DE,,# check correspondance VHF and MLL,,,,375.0
+1B1NV-E0,B02EN6,Amis,,,Boganda,V07D5E7,7VED013,,#  source case VHF not in the  VHF - to be checked,,,,740.0
+B84TU1,3BU3T5,Famille,,Communautaire,Yaloke,VD6160E,D90EV73,,#  source case VHF not in the  VHF - to be checked,,,,629.0
+T3BU142,TB60U34,Nosocomial,,Funerailles,Obo,E90V1D1,V068DE0,,# initial check done  BeSu ErSi,,,,552.0
+2A13MN,BT22U6,Nosocomial,,Communautaire,Boganda,VED1087,9D10EV0,BS,# check correspondance VHF and MLL,,,,434.0
+76UB0T,BU1017T,Voisins,,,Yaloke,V3E0D51,00VED84,,# initial check done  BeSu ErSi,,,,677.0
+0T3U3B,3O6MK0,Co-hospitalisation,,Funerailles,Obo,3D01E9V,71E08DV,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,263.0
+BTU221,U4B93T7,Garde malade,,Funerailles,Obo,2V044ED,D23V1E3,,,,,,427.0
+8-0NVEB7,10N5VE-B,,,Communautaire,Boganda,D0V1E63,V7DE010,,#  source case VHF not in the  VHF - to be checked,,,,494.0
+23VB3N-E1,M35OK0,,,,Obo,4089VDE,6E660VD,,,,,,626.0
+U84B6T,-02B7V2N6E,Garde malade,,,Yaloke,E7D708V,6E8D0V6,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,536.0
+7T59BU1,U1B1T21,,,,Obo,20VD3E3,6E8D0V6,,# initial check done  BeSu ErSi,,,,696.0
+254TU0B,V9E0BN9-,Voisins,,,Obo,D09EV45,D8V0E71,BS,#  source case VHF not in the  VHF - to be checked,,,,105.0
+ANM092,UT7B83,Amis,,,Boganda,50VD2E6,3E7D0V6,,# initial check done  BeSu ErSi,,2019-12-12,,694.0
+NM239A,748UT5B,Garde malade,,,Boganda,D38V03E,DV04E55,BS,#  source case VHF not in the  VHF - to be checked,,,,945.0
+N2V-6E0B,BUT7105,,,,Obo,70E0VD9,E95D04V,,,,,,36.0
+1T5B69U,218TBU,Garde malade,,,Obo,606D7EV,V3D5E20,,,,,,22.0
+E2N-0V4B,6M0AN5,Amis,,,Obo,VD17E50,V0ED164,BS,# check correspondance VHF and MLL,,2019-12-12,,207.0
+BUT193,1U16TB1,Voisins,,,Boganda,DV089E8,21V0E6D,,,,2019-12-12,,101.0
+M4N6A1,8U46TB,Amis,,Communautaire,Obo,V06DE47,7V9D20E,,#  source case VHF not in the  VHF - to be checked,,,,393.0
+408N1MA,BT53U91,Voisins,,Communautaire,Obo,77VE0D7,10V08DE,,,,,,292.0
+2EN5-6BV,803U8TB,Nosocomial,,Funerailles,Obo,2E4D05V,1EV8D93,,# initial check done  BeSu ErSi,,,,867.0
+_TI_0HCT10,TUB4647,Amis,,,Obo,0E8D0V1,D8V0E71,,# initial check done  BeSu ErSi,,,,273.0
+11MA9N,49B18UT,Amis,,,Obo,0ED0V06,D23V1E3,,,,,,335.0
+8B0TU11,218TBU,Nosocomial,,Communautaire,Obo,5D8E60V,0D2EV38,BS,# initial check done  BeSu ErSi,,,,783.0
+BU3T52,52VN1-EB,Garde malade,,,Yaloke,7V07D1E,EV1084D,BS,# initial check done  BeSu ErSi,,,,773.0
+04UBT1,KO903M,Garde malade,,Communautaire,Obo,2DV18E0,E91DV60,,,,,,124.0
+2TB12U,032UTB,Nosocomial,,,Boganda,V78D06E,EV501D3,,#  source case VHF not in the  VHF - to be checked,,,,185.0
+4OK2M0,M35OK0,,,,Obo,95E60DV,V3D5E20,BS,,,,,705.0
+B163UT8,218TBU,Garde malade,,,Obo,D5V50E2,033VD2E,,# initial check done  BeSu ErSi,,,,523.0
+N0V9B1-4E,,Famille,,,Yaloke,D720VE0,5VDE110,,,,,,426.0
+V9N2-B0E,3O6MK0,Famille,,,Yaloke,E0D965V,D0V8E00,,# initial check done  BeSu ErSi,,,,247.0
+NA508M,803U8TB,Garde malade,,Communautaire,Boganda,D054EV4,0V83DE6,BS,,,,,942.0
+BTU342,BT22U6,Voisins,,Nosocomial,Yaloke,66VED03,9D01E1V,,,,,,19.0
+8T532BU,0TU97B,Amis,,Funerailles,Boguila,940E0DV,VD19E21,,# check correspondance VHF and MLL,,2019-12-12,,98.0
+1N6MA30,BT918U8,Famille,,,Yaloke,EDV0316,06E71DV,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,203.0
+26TU39B,1BTU36,Amis,,Nosocomial,Obo,D4EV960,D0E72V1,,# initial check done  BeSu ErSi,,,,358.0
+B0T2U6,U0B2T2,Amis,,Communautaire,Yaloke,DV760E6,VE0203D,,,,2019-12-12,,411.0
+53UT0B,5U822TB,Famille,,Funerailles,Yaloke,V227DE0,6V830ED,BS,# check correspondance VHF and MLL,,,,404.0
+6NVE23B2-,A3M88N,Amis,,,Boganda,D0V1E63,VD0E404,,,,,,846.0
+NM3A90,74EBV-28N,Voisins,,Communautaire,Boganda,0V4ED11,22VD05E,,# check correspondance VHF and MLL,,,,780.0
+N501-EBV,3T15BU,Voisins,,Communautaire,Obo,V227DE0,D107EV1,,# check correspondance VHF and MLL,,2019-12-12,,392.0
+78VN2EB-,72B1UT,Voisins,,Communautaire,Yaloke,099DE2V,E23D9V1,,# check correspondance VHF and MLL,,2019-12-12,,45.0
+E2N-0V4B,UT7B83,Amis,,Funerailles,Obo,0V6D1E4,3DE083V,,,,,,24.0
+6T61B4U,98ANM5,Garde malade,,Communautaire,Boganda,EDV4900,D1V31E5,,#  source case VHF not in the  VHF - to be checked,,,,522.0
+-1VEB8N4,NB-E012V,Amis,,,Obo,EDV3079,0D7E3V7,,,,,,507.0
+1T06UB0,74EBV-28N,Voisins,,Communautaire,Obo,102EDV3,VE0203D,BS,,,,,523.0
+U2T49B,U0B2T2,Travail,,,Boganda,E00V57D,D5VE071,BS,# initial check done  BeSu ErSi,,,,775.0
+NE-B15V1,69U8TB1,Amis,,,Obo,3E9D70V,1V10E6D,,,,,,503.0
+B1T10U0,0TU97B,,,Communautaire,Yaloke,07VDE83,10V08DE,,# initial check done  BeSu ErSi,,,,40.0
+O8K50M,6TB306U,Amis,,Communautaire,Obo,50VD2E6,V7DE010,,# initial check done  BeSu ErSi,,,,866.0
+4-VB93NE,U1B1T21,Amis,,Communautaire,Yaloke,0VDE058,21EVD37,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,539.0
+N92M6A,BT22U6,Famille,,Communautaire,Boganda,D3V013E,D5VE071,,# initial check done  BeSu ErSi,,2019-12-12,,128.0
+B810TU4,45BU2T9,Amis,,Communautaire,Yaloke,E04D0V2,DE0V708,,,,2019-12-12,,8.0
+AM174N0,2TU05B,Voisins,,Funerailles,Yaloke,VDE0740,390D6VE,,# initial check done  BeSu ErSi,,,,327.0
+0T4BU8,TB60U11,Amis,,,Boguila,6DV096E,033VD2E,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,742.0
+1M0A9N,803U8TB,,,Funerailles,Obo,EV188D0,5VDE110,BS,# initial check done  BeSu ErSi,,,,46.0
+-VB9E7N4,2BU24T0,Voisins,,Communautaire,Obo,6EDV360,1V005ED,,# check correspondance VHF and MLL,,,,482.0
+B42TU8,6BU260T,Voisins,,Communautaire,Yaloke,V0670DE,E5D073V,,#  source case VHF not in the  VHF - to be checked,,,,293.0
+UT888B,69U8TB1,,,,Obo,E2D01V7,033VD2E,,,,,,186.0
+5NM6A0,M0K0O4,Garde malade,,,Boganda,70E0V2D,34V3ED0,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,793.0
+T5BU47,411UT7B,Voisins,,Communautaire,Obo,E0D311V,D0E72V1,,#  source case VHF not in the  VHF - to be checked,,,,170.0
+B5T60U1,N4BE-50V,Garde malade,,Communautaire,Yaloke,8V8E00D,0V83DE6,,# check correspondance VHF and MLL,,,,411.0
+0UTB37,M35OK0,Garde malade,,,Boganda,74EV2D0,E23D9V1,,# check correspondance VHF and MLL,,,,200.0
+UT873B,T116B4U,Garde malade,,,Yaloke,4DV00E2,E70V76D,,# initial check done  BeSu ErSi,,,,170.0
+348T1BU,6TB306U,Amis,,,Yaloke,3E2DV60,D23V1E3,BS,,,,,892.0
+71T3U0B,1T48U6B,Garde malade,,Funerailles,Obo,V28E1D0,ED621V4,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,101.0
+UBT5123,,Famille,,,Obo,ED0693V,E0D2V53,BS,# initial check done  BeSu ErSi,,,,285.0
+N2B9V-3E,UB4564T,Amis,,,Boganda,2D95VE0,E1VD890,BS,# check correspondance VHF and MLL,,2019-12-12,,547.0
+-IHCTT00-3,KO903M,Amis,,Communautaire,Boganda,2DV305E,E009VD8,BS,#  source case VHF not in the  VHF - to be checked,,,,47.0
+674NV-EB,T18UB9,Garde malade,,Communautaire,Yaloke,4V0DE89,E451V0D,BS,# check correspondance VHF and MLL,,2019-12-12,,251.0
+NB0V-E20,6TB306U,Nosocomial,,Communautaire,Yaloke,3E9D70V,7DV40E0,,#  source case VHF not in the  VHF - to be checked,,,,420.0
+17M7KO,3ANM06,Amis,,Communautaire,Boguila,410E3DV,6E8D0V6,,# initial check done  BeSu ErSi,,2019-12-12,,572.0
+11OMK1,B-VNE514,Garde malade,,,Boganda,0V8E5D9,D013VE9,,# initial check done  BeSu ErSi,,2019-12-12,,793.0
+AM20N2,1T48U6B,Amis,,Nosocomial,Boguila,ED8V370,1EV8D93,,#  source case VHF not in the  VHF - to be checked,,,,843.0
+1M0A9N,032UTB,Voisins,,Communautaire,Yaloke,E04V2D3,3E7D0V6,,#  source case VHF not in the  VHF - to be checked,,,,450.0
+EV086-N0B1,16B94UT,Co-hospitalisation,,Communautaire,Obo,62VDE20,9V21E3D,,,,,,341.0
+59N0MA,3M0OK7,Voisins,,Communautaire,Yaloke,V0D8E46,0DE628V,,# initial check done  BeSu ErSi,,,,121.0
+6B04VNE,12BTU2,,,,Boganda,30D1E6V,D8V0E71,,# initial check done  BeSu ErSi,,2019-12-12,,204.0
+B4-5NV1E,2BU24T0,Garde malade,,Communautaire,Yaloke,6VD8E08,D107EV1,,#  source case VHF not in the  VHF - to be checked,,,,53.0
+UBT891,T7B52U5,Garde malade,,,Obo,V0E581D,V651DE3,,# check correspondance VHF and MLL,,,,440.0
+04UBT1,UB4213T,Garde malade,,,Yaloke,4EVD047,ED1V047,,,,,,333.0
+N1MA21,1U7TB57,Amis,,Communautaire,Obo,005E1VD,DV0748E,,# initial check done  BeSu ErSi,,2019-12-12,,332.0
+7V-5ENB5,T7B52U5,Amis,,Communautaire,Boganda,05E0D9V,EV1D066,BS,,,,,183.0
+038UB1T,3U0TB18,Garde malade,,Funerailles,Yaloke,D70E76V,D06V8E4,,# initial check done  BeSu ErSi,,,,760.0
+6K1M0O,B2U568T,Garde malade,,Communautaire,Obo,90VE6D7,002EV2D,,,,,,80.0
+N-0VEB88,3UT25B,Voisins,,Communautaire,Boganda,D8V0E68,700DE7V,BS,#  source case VHF not in the  VHF - to be checked,,,,174.0
+TBU0591,244T0UB,Amis,,,Obo,VD6350E,9V21E3D,,#  source case VHF not in the  VHF - to be checked,,,,366.0
+EN3V8-B2,UT7B83,Voisins,,Funerailles,Obo,5E0DV07,E037V6D,,# initial check done  BeSu ErSi,,,,282.0
+A41NM4,B7U1T7,,,Funerailles,Obo,E8V07D1,V67E22D,,,,,,706.0
+T5U38B,5U822TB,Garde malade,,Communautaire,Obo,77VE0D7,D23V1E3,,,,2019-12-12,,924.0
+-0VBN0E1,TB60U11,Amis,,Communautaire,Obo,0DE0V05,21EVD37,,#  source case VHF not in the  VHF - to be checked,,,,154.0
+1ENV10-B,0U80T1B,Nosocomial,,Communautaire,Obo,DVE0408,786EDV0,,#  source case VHF not in the  VHF - to be checked,,,,531.0
+3KM0O8,07B9UT,Nosocomial,,Communautaire,Boganda,90EDV91,1DEV094,BS,# check correspondance VHF and MLL,,,,433.0
+1TU7B13,9UT6B1,Famille,,,Obo,D0903EV,21V0E6D,BS,#  source case VHF not in the  VHF - to be checked,,,,422.0
+7MS_1A9000,0181TUB,Amis,,,Obo,578DEV0,0ED61V0,BS,#  source case VHF not in the  VHF - to be checked,,,,13.0
+UT355B,U9BT56,Voisins,,Communautaire,Yaloke,0D20V7E,1V1D8E6,BS,#  source case VHF not in the  VHF - to be checked,,,,18.0
+1TU7B13,12BTU2,Famille,,,Obo,DE904V1,EV501D3,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,505.0
+UB58T4,UT7B83,,,Communautaire,Yaloke,ED20V51,VE0203D,,#  source case VHF not in the  VHF - to be checked,,,,34.0
+B230-N8VE,N0EV-29B,Amis,,Nosocomial,Obo,V9030DE,D6V76E0,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,868.0
+1V6NEB2-,B89T31U,Voisins,,,Boganda,ED8V370,7VED013,BS,# check correspondance VHF and MLL,,,,148.0
+2-81BEVN,U2T425B,Garde malade,,Funerailles,Obo,3DV080E,DE307V2,BS,# check correspondance VHF and MLL,,,,365.0
+B641UT,U09B14T,Famille,,,Yaloke,E00D2V6,786EDV0,BS,,,,,461.0
+3T1B61U,N63M8A,Garde malade,,Funerailles,Yaloke,730V1ED,EV501D3,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,87.0
+11A1MN,3O6MK0,Amis,,Funerailles,Boganda,540VED8,V0ED164,,#  source case VHF not in the  VHF - to be checked,,,,773.0
+8B91UT,3O6MK0,Amis,,Funerailles,Yaloke,0D38VE1,1V005ED,BS,# initial check done  BeSu ErSi,,,,162.0
+B4TU36,0B14NEV-,Amis,,,Obo,4D3V80E,VDE0131,BS,#  source case VHF not in the  VHF - to be checked,,,,297.0
+NM621A,B7U1T7,Voisins,,Communautaire,Boganda,V28E1D0,E451V0D,BS,#  source case VHF not in the  VHF - to be checked,,,,685.0
+92TBU1,3U4B2T,Amis,,,Yaloke,VD790E5,D107EV1,,#  source case VHF not in the  VHF - to be checked,,,,21.0
+E4NV2B6-,748UT5B,Voisins,,Funerailles,Yaloke,0V01D0E,V5E7D11,,,,,,637.0
+9BUT356,244T0UB,Amis,,Communautaire,Yaloke,EDV4900,0DE628V,,# check correspondance VHF and MLL,,,,690.0
+AM00N7,3BU3T5,Amis,,Funerailles,Yaloke,DV704E6,06E71DV,BS,#  source case VHF not in the  VHF - to be checked,,,,529.0
+5N3BE0,U9BT56,Travail,,Communautaire,Obo,3DE0V43,9D01E1V,,# check correspondance VHF and MLL,,,,282.0
+T0B761U,3BN9E-V0,Nosocomial,,Communautaire,Yaloke,98V3D0E,00D53VE,,,,,,864.0
+57B6UT2,V40-7NEB,Voisins,,,Boganda,0E5DV52,D6V76E0,,#  source case VHF not in the  VHF - to be checked,,,,780.0
+T1214UB,639UTB4,,,Funerailles,Obo,DV089E8,VD38E07,,,,,,702.0
+T6B14U,TB60U11,Garde malade,,,Yaloke,7V04ED6,1V1D8E6,,,,,,709.0
+UBT710,B7U1T7,Garde malade,,Funerailles,Obo,V9D730E,238V1DE,,,,,,15.0
+BT610U1,BT3U013,Amis,,Funerailles,Obo,E0D60V0,71E08DV,,#  source case VHF not in the  VHF - to be checked,,,,296.0
+5A10MN,-VN800BE,Voisins,,Funerailles,Obo,1D4EV30,D013VE9,,# check correspondance VHF and MLL,,,,547.0
+T1UB669,99V-0BE,,,,Boganda,DEV2503,6E660VD,,# initial check done  BeSu ErSi,,2019-12-12,,114.0
+N1MA21,3TUB418,Travail,,Communautaire,Obo,4D038VE,5VDE110,,#  source case VHF not in the  VHF - to be checked,,,,637.0
+713BU2T,T8U99B,Nosocomial,,Nosocomial,Yaloke,0D123EV,DV51E08,,# check correspondance VHF and MLL,,,,910.0
+602-V3BEN,803U8TB,Voisins,,Communautaire,Obo,07D0V7E,80D8E1V,,,,,,470.0
+2T128UB,3TUB418,Amis,,Communautaire,Yaloke,1DV050E,3DE083V,,#  source case VHF not in the  VHF - to be checked,,,,546.0
+870-NVEB,U9BT56,Nosocomial,,,Yaloke,99DVE00,26D90EV,BS,#  source case VHF not in the  VHF - to be checked,,,,299.0
+4V-B56NE,T10B4U0,Voisins,,Funerailles,Boganda,0V40D7E,VD1628E,,#  source case VHF not in the  VHF - to be checked,,,,517.0
+BU201T3,-VN800BE,Voisins,,Communautaire,Obo,E1VD260,005D4VE,,# check correspondance VHF and MLL,,2019-12-12,,43.0
+N16A3M,B89T31U,Garde malade,,,Obo,V30D09E,790D4VE,,,,,,877.0
+4-VB93NE,3O6MK0,Voisins,,Communautaire,Yaloke,EV30D14,0ED61V0,,,,,,691.0
+VNBE101-4,45BU2T9,Voisins,,Communautaire,Obo,V06DE47,0D7E3V7,BS,# check correspondance VHF and MLL,,,,335.0
+-B18N0EV,032UTB,Voisins,,Communautaire,Obo,005E1VD,E70V76D,BS,#  source case VHF not in the  VHF - to be checked,,,,28.0
+5NM6A0,1BTU36,Nosocomial,,Funerailles,Boganda,1D30E0V,ED8740V,BS,# initial check done  BeSu ErSi,,,,594.0
+3EB-41V9N,2E7N0V81B,Travail,,,Boganda,9E2VD30,700DE7V,,,,,,697.0
+B1751TU,T10B4U0,Travail,,,Obo,80VDE55,DV13E42,,,,,,364.0
+78VN2EB-,U9BT56,Travail,,,Yaloke,0D7V17E,DE307V2,,#  source case VHF not in the  VHF - to be checked,,,,514.0
+5UBT62,U016T9B,Nosocomial,,Communautaire,Obo,V08ED28,1V005ED,BS,# initial check done  BeSu ErSi,,,,131.0
+6BT281U,3ANM06,Voisins,,Communautaire,Obo,0E565VD,5VDE110,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,315.0
+NVBE4-108,9B5T23U,Amis,,,Obo,0998EDV,V651DE3,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,871.0
+B9UT06,B2U568T,Nosocomial,,Communautaire,Yaloke,0DEV685,V0D87E6,,# initial check done  BeSu ErSi,,,,554.0
+0ANM15,748UT5B,Amis,,,Obo,V3E0D51,0V83DE6,,,,2019-12-12,,57.0
+408N1MA,TB11U87,Amis,,Funerailles,Yaloke,50VD2E6,VE8280D,BS,,,,,514.0
+2TB61U,651BUT9,Garde malade,,Funerailles,Yaloke,D28VE20,00VED84,,# initial check done  BeSu ErSi,,,,120.0
+11OMK1,UB4213T,Nosocomial,,Funerailles,Yaloke,0D045EV,9V21E3D,BS,# check correspondance VHF and MLL,,,,387.0
+N14B-E1V,0U80T1B,Amis,,Funerailles,Yaloke,0VD15E6,21V0E6D,,# check correspondance VHF and MLL,,,,335.0
+N16A3M,7UBT43,Voisins,,Communautaire,Yaloke,3D64VE0,D6V60E7,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,249.0
+BT1960U,9B5T23U,Co-hospitalisation,,,Boganda,3240DEV,VDE0131,BS,#  source case VHF not in the  VHF - to be checked,,,,619.0
+7UBT90,U0B2T2,Famille,,Funerailles,Boguila,0V050ED,E451V0D,BS,# check correspondance VHF and MLL,,2019-12-12,,519.0
+UB5652T,74EBV-28N,Amis,,Funerailles,Obo,D0E3V52,7V096ED,,#  source case VHF not in the  VHF - to be checked,,,,260.0
+B-VNE516,TB458U2,Garde malade,,Funerailles,Yaloke,V0D5E13,DV13E42,,# initial check done  BeSu ErSi,,,,20.0
+4V-B56NE,T8U99B,Nosocomial,,Communautaire,Yaloke,8E9DV80,D21E1V8,BS,#  source case VHF not in the  VHF - to be checked,,,,663.0
+49B3TU,5E4VNB5,Voisins,,Funerailles,Boganda,6V7D03E,E451V0D,,#  source case VHF not in the  VHF - to be checked,,,,750.0
+BUT1082,-E23NBV1,Co-hospitalisation,,,Obo,90V2D4E,786EDV0,,# check correspondance VHF and MLL,,,,305.0
+1T441BU,36T89BU,Garde malade,,Communautaire,Yaloke,E90D80V,D107EV1,,# initial check done  BeSu ErSi,,2019-12-12,,161.0
+TU34B21,-VN800BE,Nosocomial,,Funerailles,Boganda,D7990VE,0VD84E1,BS,# check correspondance VHF and MLL,,2019-12-12,,147.0
+18VB-N3E8,N4BE-50V,,,Funerailles,Boganda,V28E1D0,D0V8E00,BS,# check correspondance VHF and MLL,,,,25.0
+B1UT024,52VN1-EB,Nosocomial,,Funerailles,Boganda,05EDV63,40V31DE,,,,,,464.0
+N81M0A,BT8U12,,,,Boganda,307ED5V,1V6ED50,,,,2019-12-12,,441.0
+N10E2B-V,B09T52U,Garde malade,,Communautaire,Yaloke,2V044ED,E23D9V1,,,,,,279.0
+30TUB31,4B364UT,Garde malade,,Communautaire,Yaloke,VD710E0,21V0E6D,,,,2019-12-12,,871.0
+4NEV2-55B,B2U37T1,,,Communautaire,Boganda,2D34VE0,EV501D3,,#  source case VHF not in the  VHF - to be checked,,,,326.0
+E-6V9BN0,99V-0BE,Voisins,,Funerailles,Boganda,06ED0V3,3DE083V,BS,# check correspondance VHF and MLL,,,,644.0
+09-VBEN8,TB60U34,Amis,,Funerailles,Obo,70E0VD9,9D01E1V,BS,,,,,418.0
+1BU031T,1U7TB57,Amis,,Communautaire,Boganda,208V8DE,D90EV73,,# check correspondance VHF and MLL,,,,318.0
+UT888B,0181TUB,Voisins,,,Obo,2D2EV00,D0E61V1,BS,,,,,464.0
+6BT281U,2V0-EB2N29,,,Nosocomial,Obo,E0D311V,1V6ED50,,#  source case VHF not in the  VHF - to be checked,,,,579.0
+2T8B5U9,460TU9B,Famille,,Funerailles,Obo,6D2E00V,19V7DE1,,# check correspondance VHF and MLL,,,,828.0
+3KM0O8,74EBV-28N,Garde malade,,,Obo,85DE06V,VDE4560,BS,# initial check done  BeSu ErSi,,,,414.0
+00M5KO,UB4564T,Voisins,,,Boganda,DV08E02,9D10EV0,,# initial check done  BeSu ErSi,,,,701.0
+0T3U3B,8U46TB,Famille,,Communautaire,Yaloke,50VD2E6,42E06DV,,,,2019-12-12,,920.0
+NM239A,72B1UT,Amis,,,Boganda,0D8V1E3,1V005ED,BS,# check correspondance VHF and MLL,,2019-12-12,,674.0
+53UT0B,4T1UB14,Voisins,,,Obo,82DV0E4,VDE0131,,,,,,243.0
+79E-NB9V,U4B93T7,Garde malade,,,Boguila,E1DV070,0D7E3V7,BS,# initial check done  BeSu ErSi,,,,413.0
+112UB5T,_A908S30M1,Amis,,,Boganda,EV3086D,EV1D066,BS,# initial check done  BeSu ErSi,,,,763.0
+1M8N4A,99V-0BE,Amis,,Funerailles,Yaloke,V1ED402,7VED013,BS,,,2019-12-12,,503.0
+0T3U3B,4T5BU44,Voisins,,Funerailles,Boganda,D0V1E63,VE8D021,,# initial check done  BeSu ErSi,,,,407.0
+7N22B-VE,4345UTB,Famille,,Communautaire,Yaloke,EV607D1,V8D0E30,,# initial check done  BeSu ErSi,,2019-12-12,,604.0
+674NV-EB,14UB73T,,,Communautaire,Yaloke,10EDV91,V3D5E20,,,,,,162.0
+-0B95EVN,T116B4U,Voisins,,,Yaloke,34VDE08,390D6VE,,,,,,455.0
+U6B3T5,6TB306U,,,Communautaire,Yaloke,8DV60E6,VD1035E,BS,# check correspondance VHF and MLL,,,,208.0
+U6T3B4,-E23NBV1,Amis,,Communautaire,Obo,EV6750D,VE8D021,,#  source case VHF not in the  VHF - to be checked,,,,752.0
+12U69BT,T7B52U5,Voisins,,Communautaire,Boganda,6D9VE50,7D09VE6,,#  source case VHF not in the  VHF - to be checked,,,,911.0
+5UTB85,B02EN6,Garde malade,,Communautaire,Yaloke,D0012EV,05DVE72,,#  source case VHF not in the  VHF - to be checked,,,,847.0
+BU41T07,B7U1T7,Amis,,,Obo,605DEV7,0V83DE6,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,852.0
+UBT252,4BTU93,Garde malade,,,Yaloke,064D3EV,VDE4560,,# initial check done  BeSu ErSi,,,,712.0
+7TU32B,B2V16EN-,Famille,,,Obo,D006VE6,VDE4560,BS,# initial check done  BeSu ErSi,,,,311.0
+7U2T8B,TU086B,Garde malade,,,Yaloke,V870E9D,VD0E404,,# check correspondance VHF and MLL,,,,43.0
+6U1BT10,BT3U013,Amis,,,Obo,410E3DV,D1V31E5,BS,#  source case VHF not in the  VHF - to be checked,,,,668.0
+1VENB-50,12BTU2,Voisins,,Funerailles,Boguila,V63E05D,VD1628E,,,,,,44.0
+M90NA4,B-VNE514,Voisins,,,Boganda,6804EVD,D107EV1,BS,#  source case VHF not in the  VHF - to be checked,,,,209.0
+N1MA21,B8T141U,,,Nosocomial,Yaloke,V90DE63,D490V1E,,#  source case VHF not in the  VHF - to be checked,,,,29.0
+UTB895,1K1M1O,Voisins,,Communautaire,Obo,22EV0D6,9D10EV0,BS,#  source case VHF not in the  VHF - to be checked,,,,820.0
+BT62U62,TB8U483,Nosocomial,,Communautaire,Obo,D7VE060,E2720VD,BS,# check correspondance VHF and MLL,,,,21.0
+6NVE23B2-,12BTU2,Voisins,,,Obo,V0941ED,D013VE9,,,,,,942.0
+N9V0E-B9,BT3U013,Voisins,,Communautaire,Obo,V00E11D,D0E61V1,BS,#  source case VHF not in the  VHF - to be checked,,,,425.0
+T297BU,99V-0BE,Nosocomial,,,Obo,05EDV63,790D4VE,BS,,,,,787.0
+B2U80T0,M0S90A04_1,Garde malade,,,Boganda,VD680E3,1EV8D93,BS,,,,,638.0
+1BTU434,U640TB,Amis,,Communautaire,Obo,V9030DE,DV04E55,,,,,,556.0
+E2VB4N-80,B26U4T,Voisins,,,Yaloke,EDV7026,D0V8E00,,# initial check done  BeSu ErSi,,,,557.0
+-0VBN0E1,4T5BU44,Amis,,Funerailles,Boganda,EDV0316,7DV40E0,BS,,,,,940.0
+49B3TU,TB60U34,Garde malade,,Communautaire,Boganda,V72E01D,1E30VD6,BS,# check correspondance VHF and MLL,,,,384.0
+2TB44U7,3M0OK7,Amis,,Communautaire,Obo,02VDE95,D013VE9,BS,# initial check done  BeSu ErSi,,2019-12-12,,450.0
+NM7A16,NB-E012V,Garde malade,,,Boganda,D392VE0,E5D073V,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,288.0
+408N1MA,803U8TB,,,Communautaire,Obo,V010DE0,3E7D0V6,,,,,,240.0
+45MAN1,36T9UB8,Voisins,,Communautaire,Obo,E106VD0,7DV40E0,BS,,,,,515.0
+BENV548-,T10B4U0,Amis,,,Obo,0E31DV8,D0V8E00,BS,# initial check done  BeSu ErSi,,,,659.0
+UT888B,UB4564T,Amis,,Funerailles,Yaloke,E1044DV,8D01EV1,,# initial check done  BeSu ErSi,,2019-12-12,,940.0
+7BN-0VE5,4T1UB14,Nosocomial,,Communautaire,Yaloke,1DV0E53,VD1628E,,# initial check done  BeSu ErSi,,,,602.0
+B42TU8,TB11U87,,,,Boganda,V6007DE,D013VE9,,#  source case VHF not in the  VHF - to be checked,,,,428.0
+UB5652T,1T48U6B,Voisins,,,Yaloke,3D64VE0,00VED84,,,,,,92.0
+B55T1U1,69U8TB1,Garde malade,,,Obo,7DVE140,4V0E20D,,,,,,336.0
+B43UT7,1U46TB,Co-hospitalisation,,Communautaire,Obo,40EDV47,D0V8E00,,#  source case VHF not in the  VHF - to be checked,,,,734.0
+N-EV654B,B89T31U,Amis,,Funerailles,Yaloke,E0V208D,0D2EV38,BS,# check correspondance VHF and MLL,,,,44.0
+7U0TB9,U6B0T4,Voisins,,Communautaire,Yaloke,6D48EV0,V3D5E20,BS,#  source case VHF not in the  VHF - to be checked,,,,474.0
+17BT7U2,M0K0O4,Famille,,Funerailles,Boganda,EV3D607,D00EV81,,#  source case VHF not in the  VHF - to be checked,,,,241.0
+B2139UT,3BUT371,,,Communautaire,Obo,V90DE63,71E08DV,,,,2019-12-12,,69.0
+-1ENB44V,4T1UB14,Voisins,,Nosocomial,Yaloke,01VD09E,V3D5E20,,# initial check done  BeSu ErSi,,,,664.0
+7MS_1A9000,TB60U34,Garde malade,,,Yaloke,V90DE63,V3D5E20,,# check correspondance VHF and MLL,,2019-12-12,,556.0
+B1UT024,B7U1T7,Garde malade,,,Yaloke,V406ED3,7V9D20E,,# check correspondance VHF and MLL,,,,273.0
+TB805U,0TU97B,Voisins,,Communautaire,Boganda,08ED86V,V3D5E20,,,,,,31.0
+40BT41U,T8U99B,Garde malade,,Communautaire,Obo,7E4D05V,E2720VD,,# check correspondance VHF and MLL,,,,603.0
+21NB2VE-,3UT25B,Garde malade,,Communautaire,Yaloke,22EV0D6,790D4VE,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,179.0
+5TU9B34,3BU3T5,,,Communautaire,Obo,108VD6E,790D4VE,,# initial check done  BeSu ErSi,,2019-12-12,,38.0
+-0B95EVN,E9N0-0BV,Travail,,Communautaire,Obo,V78D06E,EV1D066,,#  source case VHF not in the  VHF - to be checked,,,,349.0
+98M3S0_A10,0M104A93_S,Garde malade,,Communautaire,Boganda,E91DV01,D8V0E71,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,215.0
+T261BU,803U8TB,Voisins,,Funerailles,Obo,86E03DV,5VDE110,BS,# initial check done  BeSu ErSi,,,,885.0
+11A1MN,0N-18BEV,Voisins,,Funerailles,Yaloke,202D0EV,42E1V1D,,# initial check done  BeSu ErSi,,2019-12-12,,447.0
+B2139UT,0TU97B,Voisins,,,Obo,20V3E0D,23DV8E0,BS,# initial check done  BeSu ErSi,,,,197.0
+7BU01T,4B364UT,,,Communautaire,Yaloke,0V3E3D0,E0V4D64,,# initial check done  BeSu ErSi,,,,254.0
+50BN-EV82,B26U4T,Garde malade,,Funerailles,Yaloke,EV607D1,6V830ED,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,342.0
+BU0T114,32NE-BV26,Amis,,Communautaire,Yaloke,D7E89V0,E91DV60,BS,# initial check done  BeSu ErSi,,,,561.0
+1ENV10-B,VB-0N2E1,Amis,,Nosocomial,Obo,202D0EV,D107EV1,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,758.0
+E-BVN540,3M0OK7,Nosocomial,,,Boganda,D3V240E,D21E1V8,,# initial check done  BeSu ErSi,,2019-12-12,,857.0
+UT888B,3BN9E-V0,Amis,,,Yaloke,7V5E0D4,033VD2E,,,,,,858.0
+EB-0V0N6,3E15N9BV3-,Voisins,,,Yaloke,3095DEV,23DV8E0,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,210.0
+N5MA31,U0B2T2,Garde malade,,Communautaire,Boguila,0V4ED11,D490V1E,BS,# initial check done  BeSu ErSi,,2019-12-12,,422.0
+BTU057,748UT5B,Amis,,Nosocomial,Yaloke,V06DE47,EV1084D,,#  source case VHF not in the  VHF - to be checked,,,,530.0
+98UBT9,0N0VBE-5,Voisins,,Funerailles,Boganda,D70E70V,1V6ED50,,,,,,445.0
+0MKO88,TB11U87,Nosocomial,,Communautaire,Boganda,8E0V3D5,6D0E7V4,,# check correspondance VHF and MLL,,,,269.0
+1V1N-BE6,3ANM06,Amis,,Communautaire,Obo,081DV0E,E70V76D,,,,,,179.0
+B6U9T21,6UTB31,,,Funerailles,Yaloke,D7VE060,0DE628V,BS,#  source case VHF not in the  VHF - to be checked,,,,909.0
+U7T05B,3U0TB18,Amis,,Funerailles,Yaloke,EDV4900,D107EV1,,# initial check done  BeSu ErSi,,,,863.0
+168TBU,B26U4T,Garde malade,,Communautaire,Boganda,E8V07D1,00D53VE,,,,,,652.0
+255BTU,BT8U12,Voisins,,Communautaire,Yaloke,DE09V77,V3D5E20,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,112.0
+T1214UB,N4BE-50V,,,,Boganda,1D4EV30,D1V31E5,,#  source case VHF not in the  VHF - to be checked,,,,722.0
+6UT214B,B89T31U,Voisins,,,Boganda,47VE0D9,23DV8E0,,,,,,303.0
+1TB3U83,U640TB,,,Communautaire,Obo,EDV7026,VD38E07,BS,,,,,744.0
+T91BU7,T18UB9,Co-hospitalisation,,,Yaloke,0D56V2E,23DV8E0,BS,,,,,409.0
+KOM890,74EBV-28N,Famille,,Funerailles,Yaloke,D28VE20,1E30VD6,,,,,,394.0
+UB548T,T18UB9,Voisins,,,Yaloke,2E20DV1,67EDV32,,,,,,115.0
+BUT0511,U640TB,Amis,,Communautaire,Obo,D6E06V6,1D06EV2,BS,#  source case VHF not in the  VHF - to be checked,,,,79.0
+6B2T4U9,B89T31U,Voisins,,Communautaire,Obo,VE0D453,19V7DE1,,#  source case VHF not in the  VHF - to be checked,,,,164.0
+6-V137ENB,3T15BU,Voisins,,Communautaire,Obo,E227VD0,ED8740V,BS,# initial check done  BeSu ErSi,,,,664.0
+8BNE-V73,8BT1U6,Amis,,Communautaire,Yaloke,E02D0V6,E95D04V,BS,#  source case VHF not in the  VHF - to be checked,,,,399.0
+B8T2U6,2TU05B,Voisins,,Communautaire,Yaloke,V870E9D,DE307V2,,# check correspondance VHF and MLL,,,,883.0
+23V8BE3N-,3UT25B,Amis,,Communautaire,Yaloke,6V069DE,E103V9D,BS,,,,,231.0
+A310NM,1T48U6B,,,Nosocomial,Yaloke,V30D09E,2VDE280,,#  source case VHF not in the  VHF - to be checked,,,,617.0
+U04B6T,U1B1T21,,,,Yaloke,0VE40D9,9D10EV0,BS,# initial check done  BeSu ErSi,,2019-12-12,,639.0
+M1NA81,M0S90A04_1,Nosocomial,,Communautaire,Boganda,D70E70V,EV9705D,,,,,,44.0
+3EB-41V9N,T8U99B,Voisins,,Communautaire,Obo,E7V1D40,3DE083V,,# initial check done  BeSu ErSi,,,,107.0
+B8T2U6,88-BEVN0,Amis,,Communautaire,Yaloke,ED0V257,E103V9D,,# initial check done  BeSu ErSi,,2019-12-12,,536.0
+8T58BU,0M104A93_S,Amis,,Nosocomial,Yaloke,D0VE968,E037V6D,BS,,,,,658.0
+V1B71-EN,AN892M3,Nosocomial,,Communautaire,Obo,680VED7,V8D0E30,,# check correspondance VHF and MLL,,,,75.0
+N2A1M2,UB621T1,Garde malade,,Communautaire,Obo,V33DE70,D0E72V1,BS,#  source case VHF not in the  VHF - to be checked,,,,881.0
+1T4B4U9,TB1126U,Famille,,,Obo,V6D80E6,71E08DV,,,,,,684.0
+4B1U33T,-E23NBV1,,,Communautaire,Obo,V0941ED,17EV6D0,,# initial check done  BeSu ErSi,,,,390.0
+MO13K4,00VBE28N6-,,,Funerailles,Boganda,05EDV63,EV501D3,BS,,,,,775.0
+18VB-N3E8,0N-18BEV,Voisins,,Communautaire,Obo,1EV071D,DV13E42,BS,,,,,607.0
+1A40MN,M0K0O4,Voisins,,Funerailles,Boganda,9VE083D,E5D073V,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,60.0
+6TUB041,T5U729B,,,,Obo,ED20V51,1E30VD6,,#  source case VHF not in the  VHF - to be checked,,,,587.0
+B49N-EV0,52VN1-EB,Garde malade,,Communautaire,Boganda,064D3EV,D00EV81,,# check correspondance VHF and MLL,,,,778.0
+0U03TB,0B14NEV-,Voisins,,Funerailles,Obo,V6D80E6,10V08DE,,#  source case VHF not in the  VHF - to be checked,,,,78.0
+VNE5-4B9,639UTB4,Voisins,,,Obo,V75ED80,002EV2D,,# check correspondance VHF and MLL,,,,66.0
+N2B9V-3E,803U8TB,Famille,,Communautaire,Obo,10EDV88,E23D9V1,BS,,,,,583.0
+T9U61B1,B-VNE514,Famille,,,Obo,86VE0D0,1EV8D93,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,802.0
+3EB-41V9N,2E7N0V81B,,,Communautaire,Boganda,6VE7D03,002EV2D,,# initial check done  BeSu ErSi,,,,198.0
+AM20N2,3BN9E-V0,Amis,,,Obo,03V3D0E,D6V76E0,,# check correspondance VHF and MLL,,,,141.0
+N97A0M,6TB306U,Amis,,Communautaire,Obo,00D4V4E,21EVD37,,#  source case VHF not in the  VHF - to be checked,,,,762.0
+5226UTB,T116B4U,Amis,,Communautaire,Yaloke,00D7EV5,6D0E7V4,,,,,,614.0
+V53BE-6N,T8U99B,Nosocomial,,Funerailles,Yaloke,VE703D4,1DEV094,BS,,,,,492.0
+UT48B0,7U9TB37,Nosocomial,,Funerailles,Yaloke,6VED084,0V83DE6,BS,# initial check done  BeSu ErSi,,2019-12-12,,6.0
+N16A3M,U4B93T7,Voisins,,Funerailles,Yaloke,EV30D14,D8V0E71,,# initial check done  BeSu ErSi,,,,499.0
+E2VB4N-80,90TUB12,,,Communautaire,Yaloke,E0V208D,V5E7D11,,,,,,375.0
+V-BN714E,UT7B83,Amis,,,Yaloke,5EV510D,700DE7V,BS,#  source case VHF not in the  VHF - to be checked,,,,945.0
+2T128UB,B2U568T,Garde malade,,Funerailles,Boganda,0E565VD,E23D9V1,BS,,,,,396.0
+VB-5E7N6,-E23NBV1,Voisins,,Communautaire,Obo,01D3EV0,D0E61V1,,# initial check done  BeSu ErSi,,,,658.0
+B-VNE516,1U7TB57,Voisins,,Communautaire,Obo,E04V2D3,EV501D3,BS,,,2019-12-12,,161.0
+TBU4437,U9BT56,Amis,,Funerailles,Yaloke,6804EVD,7V096ED,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,208.0
+-B18N0EV,BT3U013,Nosocomial,,,Obo,805DE9V,VE0203D,,# initial check done  BeSu ErSi,,,,855.0
+U63TB1,NB-E012V,Amis,,,Yaloke,10EDV91,V200ED0,BS,#  source case VHF not in the  VHF - to be checked,,,,300.0
+82NV7-BE,T8U99B,Garde malade,,,Yaloke,8DEV006,V0D87E6,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,767.0
+BV2N4-0E,748UT5B,Nosocomial,,Funerailles,Obo,70E0V2D,0ED61V0,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,49.0
+65BUT6,2E7N0V81B,Voisins,,Communautaire,Boguila,3DE0V43,1V10E6D,BS,# check correspondance VHF and MLL,,2019-12-12,,315.0
+AN215M,M9N6A5,Voisins,,,Boganda,0E8D3V0,D0E61V1,BS,,,,,944.0
+T4B84U9,M0K0O4,,,Communautaire,Yaloke,VED6500,E23D9V1,,# check correspondance VHF and MLL,,,,105.0
+5A0MN3,4B0T8U,Travail,,Funerailles,Yaloke,VD6160E,EV1D066,,,,,,480.0
+E15VB18-N,1T48U6B,Garde malade,,,Obo,E1VD260,V8D0E30,,# initial check done  BeSu ErSi,,,,206.0
+0324UTB,3U4B2T,Famille,,Communautaire,Boganda,61D6VE0,005D4VE,,#  source case VHF not in the  VHF - to be checked,,,,332.0
+2A13MN,2TU05B,Voisins,,Funerailles,Yaloke,0DV061E,D013VE9,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,517.0
+-3NB8EV0,N7A86M,Garde malade,,Communautaire,Obo,DE09V77,700DE7V,,# check correspondance VHF and MLL,,,,10.0
+7BN-0VE5,UB4213T,Garde malade,,Communautaire,Yaloke,EDV7026,9D01E1V,BS,# initial check done  BeSu ErSi,,2019-12-12,,667.0
+013BUT1,00VBE28N6-,,,Communautaire,Obo,6VD063E,40V31DE,,,,,,30.0
+AN2M97,M0S90A04_1,Voisins,,Communautaire,Boganda,V2ED010,D61E11V,BS,# initial check done  BeSu ErSi,,,,776.0
+408N1MA,UB4564T,Amis,,Communautaire,Obo,0V0DE95,790D4VE,,#  source case VHF not in the  VHF - to be checked,,,,135.0
+T28BU4,U9BT56,Amis,,Funerailles,Obo,36EV0D3,E009VD8,,,,,,441.0
+144BTU,9B5T23U,Garde malade,,Communautaire,Boguila,82DV0E4,23DV8E0,BS,# initial check done  BeSu ErSi,,,,90.0
+UT42B5,B2V16EN-,Garde malade,,Funerailles,Yaloke,VE50D98,E60V87D,BS,# check correspondance VHF and MLL,,2019-12-12,,645.0
+2A8NM0,-N7V3BE1,Voisins,,Communautaire,Boguila,1V10D8E,005D4VE,,# initial check done  BeSu ErSi,,,,369.0
+1NA32M,U09B14T,Nosocomial,,Funerailles,Obo,02VE8D5,60EV09D,,# check correspondance VHF and MLL,,,,20.0
+B-E16NV85,551NMA9,Travail,,Communautaire,Yaloke,ED39V40,6V440ED,BS,#  source case VHF not in the  VHF - to be checked,,,,641.0
+N92M6A,32NE-BV26,Famille,,Communautaire,Yaloke,E07V0D7,42E06DV,,# check correspondance VHF and MLL,,2019-12-12,,743.0
+22BTU42,0N-18BEV,Voisins,,Communautaire,Obo,0V4ED11,1V005ED,BS,,,,,851.0
+-630BNVE,4BTU93,,,Communautaire,Boganda,DE000V7,238V1DE,BS,# check correspondance VHF and MLL,,,,110.0
+3TU52B5,T18UB9,Amis,,Communautaire,Boganda,D0VE968,033VD2E,BS,#  source case VHF not in the  VHF - to be checked,,,,167.0
+B6U9T21,9T2U6B,Voisins,,,Boguila,61DEV04,D0E72V1,,#  source case VHF not in the  VHF - to be checked,,,,860.0
+U74T13B,T18UB9,Famille,,Communautaire,Obo,0VE298D,1V6ED50,,# initial check done  BeSu ErSi,,2019-12-12,,22.0
+82BUT3,_A908S30M1,,,Communautaire,Obo,891E0DV,005D4VE,BS,# initial check done  BeSu ErSi,,,,690.0
+98M3S0_A10,U640TB,Garde malade,,Communautaire,Boganda,V3E90D5,1E30VD6,BS,,,,,488.0
+O8K50M,10B1TU2,Voisins,,,Obo,2V044ED,D61E11V,,,,,,741.0
+2EN5-6BV,1K1M1O,Garde malade,,Communautaire,Boganda,05V1ED2,V0D87E6,,#  source case VHF not in the  VHF - to be checked,,,,38.0
+TU61B49,T18UB9,Voisins,,Communautaire,Obo,940E0DV,0D2EV38,,#  source case VHF not in the  VHF - to be checked,,,,465.0
+BT32U4,E9N0-0BV,Garde malade,,,Boganda,D0VE968,D6V76E0,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,417.0
+74N1MA,62TB3U1,,,,Obo,EV30D14,9D10EV0,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,73.0
+148UT4B,N0E1B-229V,Voisins,,,Yaloke,DV3730E,21EVD37,,,,,,638.0
+32U7TB1,U1B1T21,Amis,,Communautaire,Yaloke,6V3D10E,8V015DE,,,,,,377.0
+-1ENB44V,U09B14T,Nosocomial,,Communautaire,Yaloke,V41E01D,E0D2V53,,,,,,254.0
+63BUT31,1BTU36,Garde malade,,Communautaire,Obo,VDE0740,EV1084D,,#  source case VHF not in the  VHF - to be checked,,,,116.0
+N48MA0,3BN9E-V0,Amis,,Funerailles,Obo,V0982DE,1EV8D93,,# initial check done  BeSu ErSi,,,,4.0
+3TU52B5,4T5BU44,Nosocomial,,,Yaloke,0D1V10E,10V08DE,BS,#  source case VHF not in the  VHF - to be checked,,,,454.0
+011_AS01M9,M0S90A04_1,Amis,,Nosocomial,Boganda,ED20V51,VD0E404,,#  source case VHF not in the  VHF - to be checked,,,,14.0
+23TB0U,3M0OK7,Amis,,Funerailles,Obo,E1VD260,3DE083V,,# check correspondance VHF and MLL,,2019-12-12,,174.0
+2T128UB,OMK050,Nosocomial,,Communautaire,Obo,605DEV7,E1VD890,,,,,,348.0
+B6U9T21,0N8MA31,,,Funerailles,Obo,4VE078D,E009VD8,,# initial check done  BeSu ErSi,,2019-12-12,,694.0
+B2T8U5,1K1M1O,Garde malade,,Communautaire,Obo,5DE24V0,8D01EV1,,,,,,817.0
+B81T6U2,0181TUB,,,Nosocomial,Boganda,D9E710V,D490V1E,BS,,,2019-12-12,,789.0
+8TB0U2,T7B52U5,Voisins,,,Obo,ED20V51,6E6V2D2,,# check correspondance VHF and MLL,,,,643.0
+B5UT23,748UT5B,Garde malade,,,Obo,66VED03,2DV127E,,# initial check done  BeSu ErSi,,,,856.0
+U8B1T21,34B5UT8,Voisins,,Communautaire,Yaloke,D0E018V,67EDV32,,# check correspondance VHF and MLL,,2019-12-12,,103.0
+B214NEV-,36T89BU,Amis,,,Obo,D10E35V,55D01VE,,# initial check done  BeSu ErSi,,,,6.0
+T261BU,A_9000M16S,Amis,,,Obo,4D3V80E,VE0203D,,# check correspondance VHF and MLL,,2019-12-12,,221.0
+92BT6U0,16B94UT,Garde malade,,Funerailles,Yaloke,0VE40D9,7V9D20E,BS,,,,,392.0
+BT62U62,M0S90A04_1,Amis,,,Obo,D0E791V,1EV8D93,,,,,,6.0
+U38T26B,TB60U34,Garde malade,,Funerailles,Obo,V90DE63,002EV2D,,,,,,689.0
+45U7BT,B26U4T,Voisins,,Nosocomial,Yaloke,021VED9,D19V0E2,BS,# check correspondance VHF and MLL,,2019-12-12,,589.0
+43AM6N,U6B0T4,Nosocomial,,Funerailles,Yaloke,EDV2470,DV13E42,BS,,,,,285.0
+MNA350,M0S90A04_1,Co-hospitalisation,,Communautaire,Obo,3VD40E7,1D06EV2,BS,# initial check done  BeSu ErSi,,,,834.0
+26TU0B3,4T1UB14,,,,Obo,ED1V903,0D7E3V7,,,,,,863.0
+NM3A90,0TU97B,Amis,,,Obo,E91DV01,06E71DV,,#  source case VHF not in the  VHF - to be checked,,,,903.0
+1EBN-21V,B2U568T,Travail,,,Yaloke,028V0ED,D21E1V8,BS,# initial check done  BeSu ErSi,,,,132.0
+4B1U33T,3BU3T5,Garde malade,,Funerailles,Obo,D3E01V0,700DE7V,,# check correspondance VHF and MLL,,2019-12-12,,641.0
+V9N1B-02E,U640TB,Nosocomial,,Funerailles,Obo,8DEV041,08VD00E,,# initial check done  BeSu ErSi,,,,465.0
+UT757B,5U822TB,Voisins,,,Boguila,4VE078D,0DE628V,,,,,,285.0
+EB-0V0N6,6111TUB,Co-hospitalisation,,Communautaire,Obo,V406ED3,V651DE3,BS,,,,,135.0
+T211UB4,,Travail,,Nosocomial,Yaloke,4V051ED,1V6ED50,BS,,,,,498.0
+T1072UB,BT53U91,Garde malade,,Communautaire,Boganda,EV4082D,VD0E404,,# initial check done  BeSu ErSi,,,,88.0
+9B2T5U3,551NMA9,Garde malade,,Communautaire,Yaloke,0VE298D,ED1V047,,#  source case VHF not in the  VHF - to be checked,,,,359.0
+V-EBN463,0B14NEV-,,,Communautaire,Obo,993VE0D,D90EV73,,,,,,86.0
+AM174N0,4BTU93,Amis,,Communautaire,Boganda,DVE0408,8V62E1D,,,,,,388.0
+AN25M0,0N-18BEV,Nosocomial,,Nosocomial,Obo,DVE0408,005D4VE,,#  source case VHF not in the  VHF - to be checked,,,,794.0
+VBNE9-64,BT918U8,Voisins,,Communautaire,Obo,98V3D0E,7V9D20E,BS,#  source case VHF not in the  VHF - to be checked,,,,220.0
+7UBT90,V9E0BN9-,Garde malade,,Communautaire,Yaloke,6D2E00V,002EV2D,BS,,,2019-12-12,,180.0
+8BN1V1E-,032UTB,Garde malade,,,Yaloke,0DE049V,7V9D20E,,,,,,270.0
+V7NE1B24-,3BU3T5,Voisins,,Communautaire,Boganda,E8D830V,9DVE161,,,,2019-12-12,,193.0
+TB0U43,-N7V3BE1,Garde malade,,,Obo,1V98E0D,7V096ED,,,,,,207.0
+5UTB85,B89T31U,Voisins,,Nosocomial,Boganda,V061DE8,1E30VD6,,# initial check done  BeSu ErSi,,,,605.0
+0324UTB,3UT25B,Nosocomial,,,Yaloke,86E03DV,4V0E20D,,#  source case VHF not in the  VHF - to be checked,,,,687.0
+7N22B-VE,639UTB4,Voisins,,,Boganda,EV0739D,D5034VE,BS,# check correspondance VHF and MLL,,,,295.0
+6NM1A5,B09T52U,Voisins,,Communautaire,Yaloke,6VDE900,9V21E3D,,# check correspondance VHF and MLL,,2019-12-12,,927.0
+11A1MN,1K1M1O,Nosocomial,,Communautaire,Obo,V23D07E,0V83DE6,BS,# check correspondance VHF and MLL,,,,609.0
+18VB-N3E8,B89T31U,Amis,,,Obo,00V3D7E,V200ED0,,,,,,382.0
+U740BT,T18UB9,Voisins,,Communautaire,Obo,5D0VE21,6E8D0V6,BS,# check correspondance VHF and MLL,,,,25.0
+UTB895,BU1017T,Voisins,,,Obo,0V0DE27,08VD00E,BS,# check correspondance VHF and MLL,,2019-12-12,,229.0
+ENVB2-96,00VBE28N6-,,,,Boganda,VE5086D,9D01E1V,,#  source case VHF not in the  VHF - to be checked,,,,429.0
+-6NVB6E5,1B11UT4,Voisins,,Communautaire,Obo,4D038VE,E23D9V1,BS,,,,,53.0
+1T6U79B,-VN800BE,Voisins,,Communautaire,Obo,D7E89V0,E23D9V1,,,,2019-12-12,,194.0
+3T1U6B,T4U240B,,,Communautaire,Obo,6V7D03E,E009VD8,BS,#  source case VHF not in the  VHF - to be checked,,,,913.0
+UT21B4,4B364UT,Voisins,,,Boganda,5D8E60V,VD0E404,,# initial check done  BeSu ErSi,,,,60.0
+255BTU,36T9UB8,Voisins,,,Obo,ED2V210,V3D5E20,,# initial check done  BeSu ErSi,,,,682.0
+96VNE2-0B,U0B2T2,Nosocomial,,Funerailles,Obo,40V5DE8,V67E22D,,#  source case VHF not in the  VHF - to be checked,,,,381.0
+034UBT4,BT918U8,Co-hospitalisation,,Communautaire,Yaloke,E088V7D,71E08DV,,#  source case VHF not in the  VHF - to be checked,,,,874.0
+B8T2U6,-VN800BE,Voisins,,,Yaloke,20EDV32,21V0E6D,BS,#  source case VHF not in the  VHF - to be checked,,,,665.0
+8U0T0B,VN-7B60E,Famille,,Funerailles,Obo,1V54DE0,002EV2D,,#  source case VHF not in the  VHF - to be checked,,,,226.0
+1TB3U83,1B11UT4,Garde malade,,,Yaloke,EV6750D,80D8E1V,BS,# check correspondance VHF and MLL,,,,271.0
+17BT7U2,BT8U12,Voisins,,,Yaloke,504VD5E,E451V0D,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,739.0
+3TU52B5,34B5UT8,Garde malade,,,Boguila,VD00E37,42E06DV,,# initial check done  BeSu ErSi,,2019-12-12,,251.0
+3B51TU,T4U240B,Voisins,,,Boganda,98V3D0E,VD1628E,BS,#  source case VHF not in the  VHF - to be checked,,,,671.0
+BT610U1,8U46TB,Amis,,Communautaire,Yaloke,0E565VD,00VED84,,# check correspondance VHF and MLL,,,,91.0
+EVNB178-,TB8U483,Garde malade,,Communautaire,Obo,208V8DE,08VD00E,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,7.0
+1B1NV-E0,TB8U483,,,Funerailles,Obo,EV0124D,D8VE018,,# check correspondance VHF and MLL,,,,254.0
+78VN2EB-,8B4U6T,Famille,,,Boganda,90DV60E,D0E72V1,BS,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,656.0
+UB5652T,U640TB,Voisins,,,Obo,29D0EV5,786EDV0,,,,,,420.0
+1B16T6U,1U16TB1,Garde malade,,,Yaloke,EV4082D,2DV127E,,# check correspondance VHF and MLL,,,,917.0
+M1AN50,BU1017T,Nosocomial,,,Obo,8V450DE,VDE4560,,# initial check done  BeSu ErSi,,2019-12-12,,26.0
+B02VN0E,B2U37T1,Co-hospitalisation,,Communautaire,Boguila,0E028VD,0DE628V,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,342.0
+BU079T,4B0T8U,Co-hospitalisation,,Nosocomial,Obo,DE5105V,0VD84E1,BS,,,2019-12-12,,274.0
+1BTU434,B2U568T,Voisins,,Communautaire,Obo,E60VD40,6V440ED,,,,,,406.0
+B8T7U11,BT3U013,Voisins,,Funerailles,Yaloke,E1D90V2,E70V76D,,#  source case VHF not in the  VHF - to be checked,,,,265.0
+411BT0U,NB-E012V,Voisins,,,Yaloke,DE248V0,6802VDE,BS,,,,,364.0
+B810TU4,0M4OK8,Nosocomial,,,Obo,500VED6,22VD05E,,# initial check done  BeSu ErSi,,,,51.0
+B-EV21938N,551NMA9,Garde malade,,,Obo,0VE40D9,10V08DE,BS,# check correspondance VHF and MLL,,,,727.0
+6BV5EN0-,6111TUB,Voisins,,Communautaire,Yaloke,V07D5E7,D6V76E0,,#  source case VHF not in the  VHF - to be checked,,,,72.0
+15TB2U,0U39TB7,Garde malade,,Communautaire,Obo,D8E038V,VE8280D,,# check correspondance VHF and MLL,,,,61.0
+6B2T4U9,2BU24T0,Amis,,,Yaloke,VD6160E,V3D5E20,BS,# initial check done  BeSu ErSi,,,,921.0
+A310NM,32NE-BV26,Amis,,Nosocomial,Boganda,V7008ED,1EV8D93,,# initial check done  BeSu ErSi,,2019-12-12,,308.0
+EVB0N0_8,52VN1-EB,Voisins,,Funerailles,Yaloke,V1E04D4,0VD84E1,BS,#  source case VHF not in the  VHF - to be checked,,,,459.0
+N-9E19VB,U6B0T4,Garde malade,,,Yaloke,0E4VD88,55D01VE,,# initial check done  BeSu ErSi,,,,678.0
+BT480U,07VE8N-B,Nosocomial,,,Boganda,2V00E6D,42E1V1D,BS,# check correspondance VHF and MLL,,2019-12-12,,895.0
+TB3U177,BT53U91,,,Communautaire,Boganda,021VED9,D21E1V8,BS,#  source case VHF not in the  VHF - to be checked,,,,118.0
+2B58TU2,TU086B,Amis,,,Obo,D51E0V4,08VD00E,,# initial check done  BeSu ErSi,,,,754.0
+UTB159,OMK050,Nosocomial,,Funerailles,Obo,V10D11E,D21E1V8,,,,,,395.0
+BTU057,8BT1U6,Voisins,,Communautaire,Boganda,7DVE140,7V096ED,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,21.0
+-031NEBV,B2V16EN-,Garde malade,,,Yaloke,03ED6V0,EV40D82,,,,,,134.0
+BU223T,TB458U2,Famille,,,Yaloke,DEV4780,9V21E3D,,#  source case VHF not in the  VHF - to be checked,,,,346.0
+N-0VEB88,N4BE-50V,Garde malade,,Communautaire,Boganda,DE0124V,8V62E1D,BS,# check correspondance VHF and MLL,,,,177.0
+183-EVNB4,U016T9B,Famille,,Communautaire,Yaloke,EV0124D,0VD84E1,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,653.0
+6N3-VE9B,72B1UT,,,Communautaire,Obo,55DEV60,D107EV1,,# check correspondance VHF and MLL,,,,76.0
+EV086-N0B1,244T0UB,Voisins,,,Boganda,EDV2005,V8D0E30,,# check correspondance VHF and MLL,,,,237.0
+B04T2U4,0N-18BEV,Amis,,,Obo,0DV061E,0ED61V0,BS,,,,,522.0
+04UBT1,52VN1-EB,Garde malade,,Communautaire,Yaloke,6EV00D4,D0E72V1,,,,2019-12-12,,523.0
+TB2210U,B2U568T,Co-hospitalisation,,,Obo,18V0D3E,0ED61V0,,# check correspondance VHF and MLL,,,,516.0
+1B1NV-E0,0U80T1B,Amis,,,Obo,5EV510D,6E8D0V6,BS,# check correspondance VHF and MLL,,2019-12-12,,884.0
+4E-B5V2N,551NMA9,Amis,,Communautaire,Obo,0ED9V12,9V21E3D,BS,# initial check done  BeSu ErSi,,,,415.0
+BU452T2,34B5UT8,Famille,,,Obo,0VDE058,D0E61V1,,# check correspondance VHF and MLL,,2019-12-12,,135.0
+5UBT62,3BN9E-V0,Voisins,,Communautaire,Obo,E8D830V,08VD00E,BS,# initial check done  BeSu ErSi,,,,62.0
+7UTB121,748UT5B,Voisins,,Communautaire,Obo,D0955VE,7D137VE,,# initial check done  BeSu ErSi,,,,564.0
+4B7V1N7-E,1BTU36,Voisins,,Communautaire,Obo,V0D5E13,V67E22D,BS,# check correspondance VHF and MLL,,,,858.0
+N2B9V-3E,B02EN6,Nosocomial,,Funerailles,Yaloke,VD17E50,D013VE9,,,,,,74.0
+74UTB4,BT918U8,Garde malade,,Funerailles,Obo,01D3EV0,3D718VE,,# check correspondance VHF and MLL,,,,669.0
+NA508M,3ANM06,Co-hospitalisation,,Funerailles,Yaloke,EDV3079,00D53VE,,#  source case VHF not in the  VHF - to be checked,,,,262.0
+255BTU,0N-18BEV,Voisins,,,Yaloke,891E0DV,,BS,# check correspondance VHF and MLL,,,,630.0
+BTU5116,0TU97B,Voisins,,Nosocomial,Obo,9V0DE71,D6V76E0,,,,,,827.0
+8T58BU,3T15BU,Garde malade,,Funerailles,Obo,DE6101V,E037V6D,BS,# check correspondance VHF and MLL,,,,32.0
+511-NBVE,BT8U12,Nosocomial,,,Obo,E00V58D,21V0E6D,,# initial check done  BeSu ErSi,,,,648.0
+1TB3U83,BT8U12,,,,Obo,E06D0V4,3DE083V,BS,# initial check done  BeSu ErSi,,,,533.0
+6UT214B,T8U13B1,Amis,,Communautaire,Boganda,08ED86V,DE307V2,BS,,,2019-12-12,,280.0
+BUT193,5E4VNB5,Famille,,,Obo,12V0DE2,E3DV317,BS,,,,,824.0
+4U23B2T,7U9TB37,Garde malade,,,Obo,D0E9V00,D013VE9,,# check correspondance VHF and MLL,,2019-12-12,,835.0
+1SA0_90M72,69U8TB1,Travail,,,Yaloke,VD306E5,86VD8E0,,,,,,670.0
+TUB7632,74EBV-28N,Garde malade,,Funerailles,Obo,V5205ED,V8D0E30,,# check correspondance VHF and MLL,,2019-12-12,,38.0
+A310NM,6111TUB,Garde malade,,Communautaire,Obo,D7VE060,VD0E404,,,,,,470.0
+E15VB18-N,9B5T23U,Voisins,,Communautaire,Obo,8E240DV,60EV09D,BS,,,,,524.0
+EVB0N0_8,52VN1-EB,,,Communautaire,Obo,D40E18V,DE0V708,BS,# initial check done  BeSu ErSi,,2019-12-12,,790.0
+92TBU1,M0S90A04_1,Famille,,Communautaire,Boganda,VD00E37,D0E61V1,,#  source case VHF not in the  VHF - to be checked,,,,114.0
+TB0U43,1U16TB1,Amis,,Communautaire,Yaloke,53E50DV,0VD84E1,,,,,,306.0
+713BU2T,B09T52U,Famille,,,Boganda,VD2E086,7V096ED,,# check correspondance VHF and MLL,,,,273.0
+V53BE-6N,1U16TB1,,,Communautaire,Boganda,9VE083D,EV1084D,BS,# check correspondance VHF and MLL,,,,921.0
+NM239A,1K1M1O,Amis,,,Yaloke,DV1087E,VE0203D,,,,2019-12-12,,424.0
+9BUT356,3U4B2T,Voisins,,Communautaire,Obo,0D38VE1,D61E11V,BS,# check correspondance VHF and MLL,,2019-12-12,,85.0
+5T2B2U,0TU97B,Amis,,Communautaire,Yaloke,V0D8E46,55D01VE,,# initial check done  BeSu ErSi,,,,702.0
+2TB12U,3UT25B,,,,Obo,9V2E0D3,1V1D8E6,,#  source case VHF not in the  VHF - to be checked,,,,479.0
+N411AM,4B364UT,Amis,,,Yaloke,0E057DV,06E71DV,,#  source case VHF not in the  VHF - to be checked,,,,891.0
+NB655EV-,U640TB,Amis,,,Obo,6VE30D5,700DE7V,,#  source case VHF not in the  VHF - to be checked,,,,3.0
+E09NB5-V,3TUB418,Garde malade,,Funerailles,Yaloke,D20V0E1,VE8280D,BS,,,,,567.0
+B230-N8VE,V9E0BN9-,Voisins,,,Obo,5E4D0V0,6E660VD,,,,2019-12-12,,492.0
+UBT710,U6B0T4,Garde malade,,,Obo,01E17DV,E2720VD,,# check correspondance VHF and MLL,,2019-12-12,,448.0
+0T4BU8,2V0-EB2N29,Voisins,,Communautaire,Obo,50E2VD6,0V83DE6,,,,,,249.0
+5A0MN3,5E4VNB5,Co-hospitalisation,,Funerailles,Obo,3000EDV,D8V0E71,BS,# initial check done  BeSu ErSi,,2019-12-12,,615.0
+E1N6-11BV,74EBV-28N,Garde malade,,Funerailles,Obo,684E0DV,VD0E404,,# check correspondance VHF and MLL,,,,825.0
+58T2BU,3O6MK0,Garde malade,,Funerailles,Yaloke,06E7V4D,786EDV0,BS,,,,,305.0
+UB548T,OMK050,Amis,,Communautaire,Obo,V0D5E13,0D7E3V7,,,,,,118.0
+BNE2V-13,-VN800BE,Amis,,Communautaire,Obo,DV40E00,E009VD8,,,,2019-12-12,,911.0
+2TB3U5,TU086B,Famille,,,Yaloke,V78D06E,D61E11V,BS,# check correspondance VHF and MLL,,2019-12-12,,307.0
+NA0M99,0M104A93_S,,,Communautaire,Boganda,2080EVD,VE8D021,BS,#  source case VHF not in the  VHF - to be checked,,,,2.0
+V-BN714E,2BU24T0,Voisins,,Funerailles,Yaloke,87D3E0V,1D06EV2,,# initial check done  BeSu ErSi,,,,519.0
+255BTU,B8T141U,Co-hospitalisation,,,Yaloke,6VE0D64,19V7DE1,,# initial check done  BeSu ErSi,,2019-12-12,,58.0
+41B4U4T,32NE-BV26,Voisins,,Communautaire,Obo,E60D9V4,E0D2V53,BS,# initial check done  BeSu ErSi,,2019-12-12,,289.0
+04UBT1,9B5T23U,Co-hospitalisation,,Funerailles,Yaloke,D70E76V,D0V8E00,BS,,,,,51.0
+3UBT391,BU1017T,Garde malade,,,Obo,20V3E0D,0ED61V0,,# initial check done  BeSu ErSi,,,,587.0
+1BU031T,TB8U483,Garde malade,,,Obo,0D123EV,1DEV094,,# initial check done  BeSu ErSi,,,,465.0
+1T3UB5,0U80T1B,Co-hospitalisation,,Funerailles,Yaloke,V007DE1,VE8280D,,# initial check done  BeSu ErSi,,,,93.0
+86A5NM,N63M8A,Nosocomial,,Nosocomial,Yaloke,E0D311V,D013VE9,,# check correspondance VHF and MLL,,,,691.0
+B810TU4,3U0TB18,Amis,,Communautaire,Yaloke,V07D5E7,238V1DE,BS,# check correspondance VHF and MLL,,,,779.0
+82NV7-BE,U1B1T21,Amis,,,Obo,V609DE8,V5E7D11,,# initial check done  BeSu ErSi,,,,520.0
+N16A3M,B89T31U,Voisins,,,Yaloke,9ED03V3,790D4VE,,# initial check done  BeSu ErSi,,,,7.0
+148UT4B,BT53U91,Garde malade,,Nosocomial,Obo,6VE30D5,21V0E6D,BS,# check correspondance VHF and MLL,,2019-12-12,,441.0
+419TUB,36T89BU,,,Communautaire,Obo,E06D0V4,1D4V10E,BS,,,,,693.0
+-78E1BNV,U216BT,Nosocomial,,Communautaire,Obo,V40E0D0,V8D0E30,,,,2019-12-12,,260.0
+V-N19BE8,3M0OK7,Nosocomial,,,Boganda,D5V50E2,0D2EV38,,# check correspondance VHF and MLL,,,,242.0
+0U1BT48,4BTU93,Voisins,,,Obo,V0670DE,D107EV1,BS,#  source case VHF not in the  VHF - to be checked,,,,737.0
+92BTU11,B2U37T1,Voisins,,Communautaire,Yaloke,081DV0E,6802VDE,,#  source case VHF not in the  VHF - to be checked,,,,523.0
+376TUB,6TB306U,Voisins,,Communautaire,Boganda,D8E0V63,E91DV60,,# initial check done  BeSu ErSi,,2019-12-12,,880.0
+V53BE-6N,TB11U87,Nosocomial,,Communautaire,Obo,10DE40V,E5D073V,BS,# check correspondance VHF and MLL,,,,71.0
+UT6B85,32NE-BV26,Voisins,,Funerailles,Boganda,EV188D0,V068DE0,,#  source case VHF not in the  VHF - to be checked,,,,114.0
+U261T0B,0N8MA31,Amis,,Funerailles,Yaloke,0E671DV,E91DV60,,,,,,753.0
+2995BUT,00VBE28N6-,Famille,,Communautaire,Obo,ED20V51,2VDE280,,#  source case VHF not in the  VHF - to be checked,,,,792.0
+23V8BE3N-,2BU24T0,,,Funerailles,Boganda,V240D2E,D21E1V8,BS,#  source case VHF not in the  VHF - to be checked,,,,36.0
+V9N2-B0E,1K1M1O,Garde malade,,Communautaire,Yaloke,0V4ED11,9D10EV0,,#  source case VHF not in the  VHF - to be checked,,,,660.0
+674NV-EB,0N-18BEV,,,,Yaloke,DEV4780,238V1DE,,#  source case VHF not in the  VHF - to be checked,,,,192.0
+79E-NB9V,TB60U34,Voisins,,Communautaire,Obo,V7D8E00,7V096ED,BS,,,,,740.0
+T5BU47,36T89BU,Travail,,Nosocomial,Obo,VD710E0,,,#  source case VHF not in the  VHF - to be checked,,2019-12-12,,321.0
+BU452T2,3UT25B,Amis,,Funerailles,Yaloke,V240D2E,V2DE006,BS,,,2019-12-12,,610.0
+4T19BU3,_091MS02A0,Amis,,Nosocomial,Obo,V0553DE,DV0902E,,,,,,72.0

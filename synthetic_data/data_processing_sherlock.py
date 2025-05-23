@@ -66,8 +66,8 @@ class DataProcessingSherlock:
         """
         os.makedirs(output_folder, exist_ok=True)
 
-        data_path   = os.path.join(output_folder, "data.parquet")
-        labels_path = os.path.join(output_folder, "labels.parquet")
+        data_path   = os.path.join(output_folder, "synthetic_test_data.parquet")
+        labels_path = os.path.join(output_folder, "test_synthetic_labels.parquet")
 
         # Read existing parquet if present
         if os.path.exists(data_path) and os.path.exists(labels_path):
