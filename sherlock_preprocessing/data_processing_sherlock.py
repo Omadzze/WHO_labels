@@ -1,11 +1,14 @@
 import os
 import shutil
+from typing import Dict, Tuple
 
 import numpy as np
 import pandas as pd
 
 import pyarrow as pa
 import pyarrow.parquet as pq
+from sklearn.model_selection import train_test_split
+
 
 class DataProcessingSherlock:
 
@@ -165,7 +168,6 @@ class DataProcessingSherlock:
         return self.split_and_save(combined_data, combined_labels, combined_lang,
                                    output_folder, train_ratio, val_ratio, test_ratio, random_seed)
 
-        #return combined_data, combined_labels, combined_lang
 
 
 
@@ -176,76 +178,87 @@ class DataProcessingSherlock:
             combined_lang: pd.DataFrame,
             output_folder: str,
             train_ratio: float = 0.8,
-            val_ratio: float = 0.1,
-            test_ratio: float = 0.1,
-            random_state: int = None) -> dict:
+            val_ratio:   float = 0.1,
+            test_ratio:  float = 0.1,
+            random_state: int = 42,
+    ) -> Dict[str, Tuple[str, str, str]]:
         """
-        Shuffle and split combined_data and combined_labels into train, validation, and test sets,
-        then save them as parquet files in output_folder.
-
-        Returns a dict with file paths for each split.
+        Stratified shuffle-split of data / labels / language into train-val-test
+        and save them as parquet files.  Returns a dict with file-paths.
         """
-        # Ensure output directory exists
-        # Grab a random permutation of the *original* indices
-        idx = combined_data.sample(frac=1, random_state=random_state).index
-        # Apply that permutation uniformly, then reset to 0…N-1
-        data_shuffled   = combined_data.loc[idx].reset_index(drop=True)
-        labels_shuffled = combined_labels.loc[idx].reset_index(drop=True)
-        lang_shuffled   = combined_lang.loc[idx].reset_index(drop=True)
 
-        # compute sizes and split as before...
-        n = len(data_shuffled)
-        n_train = int(train_ratio * n)
-        n_val   = int(val_ratio * n)
+        if not os.path.isdir(output_folder):
+            os.makedirs(output_folder, exist_ok=True)
 
-        # 3) Create splits
-        # Data
-        train_data = data_shuffled.iloc[:n_train]
-        val_data   = data_shuffled.iloc[n_train:n_train + n_val]
-        test_data  = data_shuffled.iloc[n_train + n_val:]
+        # ---- 0. Derive the 1-D stratification vector ---------------------------
+        # (If the labels df has >1 column, explode or combine as needed.)
+        if combined_labels.shape[1] != 1:
+            raise ValueError(
+                "Current implementation expects exactly one label column for "
+                "stratification.  Adapt this section for multilabel data."
+            )
+        y = combined_labels.iloc[:, 0]
 
-        # Labels
-        train_labels = labels_shuffled.iloc[:n_train]
-        val_labels   = labels_shuffled.iloc[n_train:n_train + n_val]
-        test_labels  = labels_shuffled.iloc[n_train + n_val:]
+        # ---- 1. First split: train vs (val+test) -------------------------------
+        idx_train, idx_tmp = train_test_split(
+            combined_data.index,
+            test_size=(val_ratio + test_ratio),
+            stratify=y,
+            random_state=random_state,
+        )
 
-        # Language
-        train_language = lang_shuffled.iloc[:n_train]
-        val_language   = lang_shuffled.iloc[n_train:n_train + n_val]
-        test_language  = lang_shuffled.iloc[n_train + n_val:]
+        # ---- 2. Second split: validation vs test -------------------------------
+        # size of val w.r.t. tmp
+        val_share_of_tmp = val_ratio / (val_ratio + test_ratio)
+        idx_val, idx_test = train_test_split(
+            idx_tmp,
+            test_size=(1.0 - val_share_of_tmp),
+            stratify=y.loc[idx_tmp],
+            random_state=random_state,
+        )
 
-        # 4) Save splits
-        # Train set
-        train_data_path   = os.path.join(output_folder, 'train_data.parquet')
-        train_labels_path = os.path.join(output_folder, 'train_labels.parquet')
-        train_lang_path = os.path.join(output_folder, 'train_language.parquet')
-        self.write_list_parquet(train_data, train_data_path)
-        train_labels.to_parquet(train_labels_path, engine='pyarrow', index=True)
-        train_language.to_parquet(train_lang_path, engine='pyarrow', index=True)
+        # ---- 3. Assemble the three splits --------------------------------------
+        def take(idx):
+            return (
+                combined_data.loc[idx].reset_index(drop=True),
+                combined_labels.loc[idx].reset_index(drop=True),
+                combined_lang.loc[idx].reset_index(drop=True),
+            )
 
-        # Validation set
-        val_data_path   = os.path.join(output_folder, 'validation_data.parquet')
-        val_labels_path = os.path.join(output_folder, 'validation_labels.parquet')
-        val_lang_path = os.path.join(output_folder, 'val_language.parquet')
-        self.write_list_parquet(val_data, val_data_path)
-        val_labels.to_parquet(val_labels_path, engine='pyarrow', index=True)
-        val_language.to_parquet(val_lang_path, engine='pyarrow', index=True)
+        (train_data, train_labels, train_lang) = take(idx_train)
+        (val_data,   val_labels,   val_lang)   = take(idx_val)
+        (test_data,  test_labels,  test_lang)  = take(idx_test)
 
-        # Test set
-        test_data_path   = os.path.join(output_folder, 'test_data.parquet')
-        test_labels_path = os.path.join(output_folder, 'test_labels.parquet')
-        test_lang_path = os.path.join(output_folder, 'test_language.parquet')
-        self.write_list_parquet(test_data, test_data_path)
-        test_labels.to_parquet(test_labels_path, engine='pyarrow', index=True)
-        test_language.to_parquet(test_lang_path, engine='pyarrow', index=True)
-
-        #print("Length")
-        #print(f"Train data length: {len(train_data)}")
-        #print(f"Train labels length: {len(train_labels)}")
-        #print(f"Train language length: {len(train_language)}")
-
-        return {
-            'train':      (train_data_path, train_labels_path, train_lang_path),
-            'validation': (val_data_path,   val_labels_path, val_lang_path),
-            'test':       (test_data_path,  test_labels_path, test_lang_path)
+        # ---- 4. Write to disk ---------------------------------------------------
+        paths = {
+            "train": (
+                os.path.join(output_folder, "train_data.parquet"),
+                os.path.join(output_folder, "train_labels.parquet"),
+                os.path.join(output_folder, "train_language.parquet"),
+            ),
+            "validation": (
+                os.path.join(output_folder, "validation_data.parquet"),
+                os.path.join(output_folder, "validation_labels.parquet"),
+                os.path.join(output_folder, "validation_language.parquet"),
+            ),
+            "test": (
+                os.path.join(output_folder, "test_data.parquet"),
+                os.path.join(output_folder, "test_labels.parquet"),
+                os.path.join(output_folder, "test_language.parquet"),
+            ),
         }
+
+        # helper for list-of-strings columns
+        self.write_list_parquet(train_data, paths["train"][0])
+        self.write_list_parquet(val_data,   paths["validation"][0])
+        self.write_list_parquet(test_data,  paths["test"][0])
+
+        train_labels.to_parquet(paths["train"][1], engine="pyarrow", index=True)
+        val_labels.to_parquet(  paths["validation"][1], engine="pyarrow", index=True)
+        test_labels.to_parquet( paths["test"][1], engine="pyarrow", index=True)
+
+        train_lang.to_parquet(paths["train"][2], engine="pyarrow", index=True)
+        val_lang.to_parquet(  paths["validation"][2], engine="pyarrow", index=True)
+        test_lang.to_parquet( paths["test"][2], engine="pyarrow", index=True)
+
+        return paths
