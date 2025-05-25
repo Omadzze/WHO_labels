@@ -249,4 +249,3 @@ class DataProcessingSherlock:
             'validation': (val_data_path,   val_labels_path, val_lang_path),
             'test':       (test_data_path,  test_labels_path, test_lang_path)
         }
-
