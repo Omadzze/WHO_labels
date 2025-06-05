@@ -246,9 +246,9 @@ WHO_004.csv,14,__none__
 WHO_004.csv,15,__none__
 WHO_004.csv,16,__none__
 WHO_004.csv,17,__none__
-WHO_004.csv,18,__none__
+WHO_004.csv,18,date
 WHO_004.csv,19,__none__
-WHO_005.csv,0,id
+WHO_005.csv,0,__none__
 WHO_005.csv,1,date
 WHO_005.csv,2,location
 WHO_005.csv,3,__none__
@@ -257,12 +257,12 @@ WHO_005.csv,5,gender
 WHO_005.csv,6,__none__
 WHO_005.csv,7,date
 WHO_005.csv,8,__none__
-WHO_005.csv,9,__none__
+WHO_005.csv,9,date
 WHO_005.csv,10,medical_boolean
 WHO_005.csv,11,__none__
-WHO_005.csv,12,contact_setting
+WHO_005.csv,12,__none__
 WHO_005.csv,13,__none__
-WHO_005.csv,14,occupation
+WHO_005.csv,14,__none__
 WHO_005.csv,15,medical_boolean
 WHO_005.csv,16,__none__
 WHO_005.csv,17,__none__
@@ -284,7 +284,7 @@ WHO_006.csv,4,__none__
 WHO_006.csv,5,date
 WHO_006.csv,6,__none__
 WHO_006.csv,7,__none__
-WHO_007.csv,0,id
+WHO_007.csv,0,__none__
 WHO_007.csv,1,__none__
 WHO_007.csv,2,__none__
 WHO_007.csv,3,__none__
@@ -308,7 +308,7 @@ WHO_008.csv,2,location
 WHO_008.csv,3,__none__
 WHO_008.csv,4,__none__
 WHO_008.csv,5,date
-WHO_009.csv,0,id
+WHO_009.csv,0,__none__
 WHO_009.csv,1,__none__
 WHO_009.csv,2,location
 WHO_009.csv,3,__none__
@@ -390,7 +390,7 @@ WHO_011.csv,54,__none__
 WHO_012.csv,0,date
 WHO_012.csv,1,location
 WHO_012.csv,2,location
-WHO_012.csv,3,location
+WHO_012.csv,3,__none__
 WHO_012.csv,4,__none__
 WHO_012.csv,5,__none__
 WHO_013.csv,0,location
@@ -436,7 +436,7 @@ WHO_013.csv,39,__none__
 WHO_013.csv,40,__none__
 WHO_013.csv,41,__none__
 WHO_013.csv,42,__none__
-WHO_014.csv,0,id
+WHO_014.csv,0,__none__
 WHO_014.csv,1,location
 WHO_014.csv,2,location
 WHO_014.csv,3,__none__
@@ -703,7 +703,7 @@ WHO_021.csv,8,gender
 WHO_021.csv,9,__none__
 WHO_021.csv,10,date
 WHO_021.csv,11,medical_boolean
-WHO_021.csv,12,date
+WHO_021.csv,12,__none__
 WHO_021.csv,13,__none__
 WHO_021.csv,14,medical_boolean
 WHO_021.csv,15,__none__
@@ -844,7 +844,7 @@ WHO_023.csv,43,medical_boolean
 WHO_023.csv,44,__none__
 WHO_023.csv,45,case_status
 WHO_023.csv,46,__none__
-WHO_024.csv,0,id
+WHO_024.csv,0,__none__
 WHO_024.csv,1,__none__
 WHO_024.csv,2,location
 WHO_024.csv,3,location
@@ -867,7 +867,7 @@ WHO_024.csv,19,location
 WHO_024.csv,20,date
 WHO_024.csv,21,__none__
 WHO_024.csv,22,__none__
-WHO_024.csv,23,location
+WHO_024.csv,23,__none__
 WHO_024.csv,24,__none__
 WHO_024.csv,25,__none__
 WHO_024.csv,26,__none__
@@ -875,7 +875,7 @@ WHO_024.csv,27,__none__
 WHO_024.csv,28,__none__
 WHO_024.csv,29,__none__
 WHO_024.csv,30,location
-WHO_024.csv,31,location
+WHO_024.csv,31,__none__
 WHO_024.csv,32,location
 WHO_024.csv,33,location
 WHO_024.csv,34,location
@@ -1118,13 +1118,13 @@ WHO_028.csv,13,__none__
 WHO_028.csv,14,__none__
 WHO_028.csv,15,age
 WHO_028.csv,16,gender
-WHO_028.csv,17,__none__
-WHO_028.csv,18,__none__
+WHO_028.csv,17,location
+WHO_028.csv,18,location
 WHO_028.csv,19,case_status
-WHO_028.csv,20,medical_boolean
+WHO_028.csv,20,contact_setting
 WHO_028.csv,21,outcome
 WHO_028.csv,22,date
-WHO_028.csv,23,__none__
+WHO_028.csv,23,contact_setting
 WHO_028.csv,24,__none__
 WHO_028.csv,25,date
 WHO_028.csv,26,date
@@ -1382,7 +1382,7 @@ WHO_034.csv,8,__none__
 WHO_034.csv,9,__none__
 WHO_034.csv,10,__none__
 WHO_034.csv,11,__none__
-WHO_034.csv,12,medical_boolean
+WHO_034.csv,12,contact_setting
 WHO_034.csv,13,age
 WHO_034.csv,14,__none__
 WHO_034.csv,15,gender
