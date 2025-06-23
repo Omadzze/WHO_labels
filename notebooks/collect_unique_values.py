@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-"""
-Read `column_labels.csv` –> open each referenced table –> collect the unique
-values for every label in ONE pass.
-
-Example call
-------------
-python collect_unique_values.py \
-       --mapping column_labels.csv \
-       --tables_dir tables \
-       --out values_per_label.json
-"""
 import argparse, json, csv
 from pathlib import Path
 from collections import defaultdict
